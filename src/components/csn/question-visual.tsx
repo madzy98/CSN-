@@ -1,5 +1,7 @@
 // @ts-nocheck — regulatory SVG pack ported from live CSN+ (sign colours locked).
 import { Fragment, jsx, jsxs } from "react/jsx-runtime";
+import { OfficialSign } from "@/components/csn/official-sign";
+import { signIdForSlug } from "@/lib/csn/officialSigns";
 
 const t = { jsx, jsxs, Fragment };
 
@@ -14,7 +16,6 @@ function c({ children: e, bg: n = `transparent`, className: r }) {
     viewBox: `0 0 120 120`,
     className: r,
     role: `img`,
-    style: { filter: `drop-shadow(0 8px 18px rgba(0,0,0,.35))` },
     children: [
       (0, t.jsx)(`rect`, {
         x: 0,
@@ -2309,7 +2310,11 @@ function C({ visual: e }) {
         className: `mx-auto flex w-full max-w-md items-center justify-center rounded-2xl bg-elevated p-4 shadow-border`,
         children:
           e.type === `sign`
-            ? (0, t.jsx)(v, { sign: e.sign, className: `w-36 sm:w-40` })
+            ? (0, t.jsx)(OfficialSign, {
+                signId: signIdForSlug(e.sign) ?? e.sign,
+                className: `w-36 sm:w-40`,
+                children: (0, t.jsx)(v, { sign: e.sign, className: `w-full` }),
+              })
             : e.type === `marking`
               ? (0, t.jsx)(S, { marking: e.marking })
               : (0, t.jsx)(x, { scene: e.scene }),

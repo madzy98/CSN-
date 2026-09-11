@@ -99,8 +99,8 @@ FLAT=( "$WORK/compiled/"*.flat )
   -A "$APP/app/src/main/assets" \
   --min-sdk-version 24 \
   --target-sdk-version 34 \
-  --version-code 16000 \
-  --version-name 1.6.0 \
+  --version-code 17000 \
+  --version-name 1.7.0 \
   "${FLAT[@]}"
 
 R_JAVA=$(find "$WORK/gen" -name 'R.java' | head -1)
@@ -147,8 +147,8 @@ PY
 ls -lh "$WORK/CSNplus.apk"
 
 cp -f "$WORK/CSNplus.apk" "$ROOT/public/CSNplus.apk"
-cp -f "$WORK/CSNplus.apk" "$ROOT/public/CSNplus-1.6.0.apk"
+cp -f "$WORK/CSNplus.apk" "$ROOT/public/CSNplus-1.7.0.apk"
 cp -f "$WORK/CSNplus.apk" "$ROOT/CSNplus.apk"
-cp -f "$WORK/CSNplus.apk" "$ROOT/CSNplus-1.6.0.apk"
+cp -f "$WORK/CSNplus.apk" "$ROOT/CSNplus-1.7.0.apk"
 cp -f "$WORK/CSNplus.apk" "$ROOT/play-store/CSNplus.apk"
 echo "[apk] done $(wc -c < "$ROOT/public/CSNplus.apk") bytes"

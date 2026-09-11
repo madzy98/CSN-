@@ -37,6 +37,7 @@ export function Splash({ lang, onDismiss }: { lang: Lang; onDismiss: () => void 
   return (
     <button
       type="button"
+      data-no-press
       className="fixed inset-0 z-[100] flex cursor-pointer flex-col bg-[var(--csn-bg-0)] text-left"
       style={{ touchAction: "manipulation", WebkitTapHighlightColor: "transparent", zIndex: 2147483000 }}
       onClick={go}

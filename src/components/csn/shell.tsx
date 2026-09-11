@@ -59,6 +59,7 @@ export function Shell({
               <div className="tabular text-[13px] font-medium text-[var(--csn-gold)]">{xp} XP</div>
             </div>
             <button
+              type="button"
               className="flex size-12 shrink-0 items-center justify-center rounded-full bg-[var(--csn-surface-2)] text-[11px] font-medium text-[var(--csn-text-3)]"
               onClick={() => useCsnStore.getState().setLang(lang === "lv" ? "en" : "lv")}
               aria-label={copy.language}
@@ -83,7 +84,7 @@ export function Shell({
                 <li key={tab.to}>
                   <Link
                     to={tab.to}
-                    className={`flex min-h-12 flex-col items-center justify-center gap-0.5 rounded-[8px] text-[11px] font-medium ${
+                    className={`csn-press flex min-h-12 flex-col items-center justify-center gap-0.5 rounded-[8px] text-[11px] font-medium ${
                       active ? "text-[var(--csn-blue)]" : "text-[var(--csn-text-4)]"
                     }`}
                   >

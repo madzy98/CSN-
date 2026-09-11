@@ -160,6 +160,14 @@ html[data-theme="basic"] {
     cursor: pointer;
   }
 
+  button,
+  [role="button"],
+  a.csn-press {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+    cursor: pointer;
+  }
+
   .tabular {
     font-variant-numeric: tabular-nums;
   }
@@ -219,6 +227,71 @@ html[data-theme="basic"] {
 .csn-sweep:active:not(:disabled)::after {
   animation: csn-spec 200ms var(--csn-ease-out) 1;
 }
+
+/* Pressed = theme accent glow + slight fade. Tokens only — never hardcoded blue. */
+button:not([data-no-press]),
+[role="button"]:not([data-no-press]),
+a.csn-press {
+  transition:
+    transform var(--csn-press) var(--csn-ease-press),
+    opacity var(--csn-press) var(--csn-ease-press),
+    box-shadow var(--csn-press) var(--csn-ease-press),
+    background-color var(--csn-press) var(--csn-ease-press);
+}
+
+button:active:not(:disabled):not([data-no-press]),
+button.is-pressed:not(:disabled):not([data-no-press]),
+[role="button"]:active:not([aria-disabled="true"]):not([data-no-press]),
+[role="button"].is-pressed:not([aria-disabled="true"]):not([data-no-press]),
+a.csn-press:active,
+a.csn-press.is-pressed {
+  opacity: 0.86;
+  transform: scale(0.98);
+  background-color: color-mix(in srgb, var(--csn-accent-dim) 85%, transparent);
+  box-shadow:
+    inset 0 0 0 1px var(--csn-accent-edge),
+    inset 0 0 0 100vmax color-mix(in srgb, var(--csn-accent) 20%, transparent),
+    inset 0 0 28px var(--csn-accent-glow),
+    0 0 16px var(--csn-accent-glow),
+    0 0 2px var(--csn-accent-edge);
+}
+
+button[data-answer="correct"]:active:not(:disabled),
+button[data-answer="correct"].is-pressed:not(:disabled) {
+  opacity: 0.9;
+  background-color: var(--csn-green-dim);
+  box-shadow:
+    inset 0 0 0 1px var(--csn-green),
+    inset 0 0 18px var(--csn-green-dim);
+}
+
+button[data-answer="incorrect"]:active:not(:disabled),
+button[data-answer="incorrect"].is-pressed:not(:disabled) {
+  opacity: 0.9;
+  background-color: var(--csn-red-dim);
+  box-shadow:
+    inset 0 0 0 1px var(--csn-red),
+    inset 0 0 18px var(--csn-red-dim);
+}
+
+button:disabled,
+button:disabled:active,
+button:disabled.is-pressed,
+button[data-answer="locked"]:active,
+button[data-answer="locked"].is-pressed {
+  transform: none;
+}
+
+.control-body:active:not(:disabled),
+.control-body.is-pressed:not(:disabled) {
+  box-shadow:
+    inset 0 0 0 1px var(--csn-accent-edge),
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    inset 0 0 0 100vmax color-mix(in srgb, var(--csn-accent) 18%, transparent),
+    inset 0 0 32px var(--csn-accent-glow),
+    0 0 22px var(--csn-accent-glow);
+}
+
 
 .hero-overlay {
   background: linear-gradient(
@@ -281,10 +354,19 @@ html[data-theme="basic"] {
     animation: none !important;
   }
   .control-body,
-  button {
+  button,
+  [role="button"],
+  a.csn-press {
     transition: none !important;
+  }
+  button:active:not(:disabled),
+  button.is-pressed,
+  a.csn-press:active,
+  a.csn-press.is-pressed {
+    transform: none;
   }
   .glass-bar {
     backdrop-filter: none;
   }
 }
+

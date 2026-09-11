@@ -196,9 +196,9 @@ function SettingsPage() {
         {showApk ? (
           <>
             <a
-              href="/CSNplus-1.6.0.apk"
-              download="CSNplus-1.6.0.apk"
-              className="control-body csn-sweep inline-flex h-14 w-full items-center justify-center gap-2 rounded-[16px] px-5 text-base font-medium text-[var(--csn-text-1)]"
+              href="/CSNplus-1.7.0.apk"
+              download="CSNplus-1.7.0.apk"
+              className="control-body csn-sweep csn-press inline-flex h-14 w-full items-center justify-center gap-2 rounded-[16px] px-5 text-base font-medium text-[var(--csn-text-1)]"
             >
               {copy.downloadApk}
             </a>

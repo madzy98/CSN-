@@ -5,19 +5,16 @@ type Size = "md" | "sm";
 
 const base =
   "inline-flex min-h-12 items-center justify-center gap-2 font-medium " +
-  "transition-[transform,box-shadow,opacity] duration-[90ms] ease-[cubic-bezier(0.2,0,0,1)] " +
-  "disabled:cursor-not-allowed disabled:opacity-[0.38] disabled:active:translate-y-0 disabled:active:scale-100 " +
+  "disabled:cursor-not-allowed disabled:opacity-[0.38] " +
   "focus-visible:outline-none";
 
 const variants: Record<Exclude<Variant, "choice">, string> = {
   primary:
     "control-body csn-sweep h-14 rounded-[16px] px-5 text-base text-[var(--csn-text-1)] " +
-    "active:not-disabled:scale-[0.985] active:not-disabled:translate-y-px " +
     "[&:active:not(:disabled)_svg]:translate-x-[2px] " +
     "focus-visible:shadow-[inset_0_0_0_1px_var(--csn-hairline-2),inset_0_0_0_1px_var(--csn-accent-edge)]",
   secondary:
     "h-14 rounded-[16px] bg-transparent px-5 text-base text-[var(--csn-text-2)] shadow-border " +
-    "active:not-disabled:scale-[0.985] active:not-disabled:translate-y-px " +
     "focus-visible:shadow-border-hover",
   tertiary: "min-h-12 rounded-[12px] bg-transparent px-3 text-[var(--csn-text-2)]",
   danger:

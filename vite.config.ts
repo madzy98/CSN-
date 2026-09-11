@@ -33,7 +33,7 @@ function apkDownloadPlugin(): Plugin {
     const stat = statSync(file);
     res.statusCode = 200;
     res.setHeader("Content-Type", "application/vnd.android.package-archive");
-    res.setHeader("Content-Disposition", 'attachment; filename="CSNplus-1.6.0.apk"');
+    res.setHeader("Content-Disposition", 'attachment; filename="CSNplus-1.7.0.apk"');
     res.setHeader("Content-Length", String(stat.size));
     res.setHeader("Cache-Control", "no-store");
     createReadStream(file).pipe(res);
@@ -47,7 +47,7 @@ function apkDownloadPlugin(): Plugin {
         next: () => void,
       ) => {
         const path = (req.url ?? "").split("?")[0];
-        if (path !== "/CSNplus.apk" && path !== "/CSNplus-1.6.0.apk") {
+        if (path !== "/CSNplus.apk" && path !== "/CSNplus-1.7.0.apk") {
           next();
           return;
         }
@@ -64,7 +64,7 @@ function apkDownloadPlugin(): Plugin {
     configurePreviewServer(server) {
       server.middlewares.use((req, res, next) => {
         const path = (req.url ?? "").split("?")[0];
-        if (path !== "/CSNplus.apk" && path !== "/CSNplus-1.6.0.apk") {
+        if (path !== "/CSNplus.apk" && path !== "/CSNplus-1.7.0.apk") {
           next();
           return;
         }

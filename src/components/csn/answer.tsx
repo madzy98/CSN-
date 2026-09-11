@@ -27,11 +27,11 @@ export function CsnAnswer({
     <button
       type="button"
       disabled={disabled}
+      data-answer={state}
       onClick={onSelect}
       className={
         `flex min-h-[52px] w-full items-start gap-3 rounded-[12px] px-4 py-3.5 text-left text-base leading-snug ` +
-        `transition-[transform,background-color,box-shadow,opacity] duration-200 ease-[cubic-bezier(0.16,1,0.3,1)] ` +
-        `active:not-disabled:scale-[0.99] ${tone} ${dim}`
+        `${tone} ${dim}`
       }
     >
       <span className="mt-0.5 w-5 shrink-0 text-[12px] font-medium text-[var(--csn-text-4)]">

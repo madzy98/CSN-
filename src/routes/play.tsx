@@ -170,9 +170,6 @@ function PlayPage() {
                 {copy.explanation}
               </p>
               <p className="mt-2 text-[14px] leading-relaxed text-[var(--csn-text-2)]">{loc.explain}</p>
-              <p className="mt-3 text-[12px] text-[var(--csn-blue)]">
-                {copy.rule}: {question.rule}
-              </p>
             </div>
           ) : null}
         </div>

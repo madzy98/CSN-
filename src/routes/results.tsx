@@ -81,7 +81,6 @@ function ResultsPage() {
               <Panel key={`${ans.questionId}-${i}`}>
                 <div className="flex items-center justify-between">
                   <Chip tone={ans.correct ? "success" : "danger"}>{ans.correct ? copy.correct : copy.wrong}</Chip>
-                  <span className="text-[12px] text-[var(--csn-text-4)]">{q.rule}</span>
                 </div>
                 <div className="mt-3">
                   <QuestionVisual visual={q.visual} />

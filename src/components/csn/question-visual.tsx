@@ -2311,9 +2311,8 @@ function C({ visual: e }) {
         children:
           e.type === `sign`
             ? (0, t.jsx)(OfficialSign, {
-                signId: signIdForSlug(e.sign) ?? e.sign,
+                signId: signIdForSlug(e.sign) ?? "",
                 className: `w-36 sm:w-40`,
-                children: (0, t.jsx)(v, { sign: e.sign, className: `w-full` }),
               })
             : e.type === `marking`
               ? (0, t.jsx)(S, { marking: e.marking })
@@ -2328,4 +2327,8 @@ export function QuestionVisual({
 }) {
   return C({ visual });
 }
+
+/** Legacy SVG pack retained in-file; must not render as official CSN plates (ERR-001). */
+void v;
+
 

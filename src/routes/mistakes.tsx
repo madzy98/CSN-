@@ -53,7 +53,7 @@ function MistakesPage() {
                     <div className="min-w-0">
                       <p className="text-[14px]">{q[lang].q}</p>
                       <p className="mt-1 text-[12px] text-[var(--csn-text-4)]">
-                        {copy.modules[q.module].name} · {q.rule}
+                        {copy.modules[q.module].name}
                       </p>
                     </div>
                   </ListItem>

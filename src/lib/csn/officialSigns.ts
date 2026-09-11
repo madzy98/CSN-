@@ -82,8 +82,7 @@ export function officialSignSrc(signId: string): string {
 }
 
 export const OFFICIAL_SIGN_FILE_SET = new Set<string>([
-  // Populated only for rasters that actually exist under public/signs/.
-  // Do not list a number here until the official plate file is imported.
+  "423",
 ]);
 
 export function hasOfficialRaster(signId: string | null): boolean {

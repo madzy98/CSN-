@@ -1,31 +1,28 @@
-# CSN+ project rules — read BEFORE any image or question work
+# CSN+ — user project instructions for Builder Grok
+
+**Priority: same as AGENTS.md. Read BUILDER_GROK.md next.**
 
 Official Latvian road signs are legal data, not artwork.
-Previous sessions ignored this and kept redrawing signs. That is ERR-001. Do not repeat it.
+This was already broken multiple times. Do not repeat it.
 
-## ERROR MEMORY (permanent)
+Full script: `BUILDER_GROK.md`
 
-- ERR-001 Official CSN signs were AI/SVG-recreated and must never be regenerated.
-- ERR-002 Minimum-speed sign is CSN **423**, not 323 and not 531. Slug in bank: `min-speed-50`.
-- ERR-003 Later builder passes forgot earlier sign fixes. Re-read this file every session.
-- ERR-004 Do not take official plates from Google, Pinterest, Wikipedia, icon packs, Imagine.
-- ERR-005 Do not run scenario-art / Imagine / enhance pipelines on `visual.type === "sign"`.
-- ERR-006 Do not rewrite question text, answers, explanations or scoring when fixing signs.
-- ERR-007 Do not say "fixed" unless the rendered 423 plate matches current Likumi 4. pielikums.
+## Hard stops
 
-Source of truth: https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi#piel4
+1. Never generate, redraw, restyle or "enhance" a CSN road sign.
+2. Never call Imagine / generate_image / edit_image on a sign.
+3. Never put CSS `filter` or `drop-shadow` on the sign graphic.
+4. Official files only: `public/signs/{csnNumber}.png`.
+5. Minimum-speed sign = **423** (`min-speed-50`, question `sg046`). Not 323. Not 531.
+6. Source of truth: https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi#piel4
+7. If the official PNG is missing, say missing. Do not invent a substitute.
+8. Do not change question text, answers, explanations or scoring when touching signs.
+9. Do not say "fixed" unless rendered 423 matches current 4. pielikums.
+10. Re-read `BUILDER_GROK.md` at the start of every session (ERR-003).
 
-## What you must do
+## Code map
 
-1. Official signs live in `public/signs/{csnNumber}.png` and `src/lib/csn/officialSigns.ts`.
-2. Questions with a real CSN plate use `visual.type: "sign"` + mapped `signId`.
-3. `QuestionVisual` must prefer the official file. Never send that file through Imagine.
-4. Allowed on the plate: scale with `height: auto`. Forbidden on the plate: CSS `filter`, restyle, crop, regenerate.
-5. Container (card) may have shadow. The `<img>` / plate SVG must not.
-
-## What you must never do
-
-- Do not edit pixels of `public/signs/*`.
-- Do not add `filter: drop-shadow` on the sign graphic (already a shipped bug in `question-visual.tsx`).
-- Do not invent a "nicer" 423.
-- If an official PNG is missing, say it is missing. Do not generate a lookalike.
+- Sign SVG approximations (forbidden to expand): `src/components/csn/question-visual.tsx`
+- Official resolver: `src/lib/csn/officialSigns.ts`
+- Official renderer: `src/components/csn/official-sign.tsx`
+- Question bank: `src/data/questions.json` (do not rewrite copy for a sign-asset fix)

@@ -3,7 +3,7 @@ import { CsnButton } from "@/components/csn/button";
 import { ListGroup, ListItem, Panel } from "@/components/csn/panel";
 import { Shell } from "@/components/csn/shell";
 import { fill, t } from "@/lib/csn/i18n";
-import { getQuestion } from "@/lib/csn/questions";
+import { getQuestion, loc } from "@/lib/csn/questions";
 import { useCsnStore } from "@/lib/csn/store";
 import { hasFeature, unlockLevel } from "@/lib/csn/xp";
 
@@ -51,7 +51,7 @@ function MistakesPage() {
                 return (
                   <ListItem key={id} className="!items-start">
                     <div className="min-w-0">
-                      <p className="text-[14px]">{q[lang].q}</p>
+                      <p className="text-[14px]">{loc(q, lang).q}</p>
                       <p className="mt-1 text-[12px] text-[var(--csn-text-4)]">
                         {copy.modules[q.module].name}
                       </p>

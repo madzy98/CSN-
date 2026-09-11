@@ -2323,8 +2323,44 @@ function C({ visual: e }) {
 export function QuestionVisual({
   visual,
 }: {
-  visual: { type: string; sign?: string; marking?: string; scene?: string };
+  visual: {
+    type: string;
+    sign?: string;
+    marking?: string;
+    scene?: string;
+    src?: string;
+  };
 }) {
+  if (visual.type === "none") return null;
+  if (visual.type === "image" && visual.src) {
+    return (
+      <div className="mx-auto flex w-full max-w-md items-center justify-center overflow-hidden rounded-2xl bg-elevated shadow-border">
+        <img
+          src={visual.src}
+          alt="Situācijas attēls"
+          className="h-auto w-full"
+          decoding="async"
+          draggable={false}
+        />
+      </div>
+    );
+  }
+  if (visual.type === "video" && visual.src) {
+    return (
+      <div className="mx-auto flex w-full max-w-md items-center justify-center overflow-hidden rounded-2xl bg-elevated shadow-border">
+        <video
+          src={visual.src}
+          className="h-auto w-full"
+          autoPlay
+          loop
+          muted
+          playsInline
+          controls
+          preload="metadata"
+        />
+      </div>
+    );
+  }
   return C({ visual });
 }
 

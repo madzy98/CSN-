@@ -75,6 +75,7 @@ export const CRITICAL_SIGN_IDS = ["423", "424", "323", "324"] as const;
 
 export function signIdForSlug(slug: string | undefined): string | null {
   if (!slug) return null;
+  if (OFFICIAL_SIGN_FILE_SET.has(slug)) return slug;
   return SIGN_SLUG_TO_ID[slug] ?? null;
 }
 

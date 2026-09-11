@@ -5,7 +5,7 @@ import { Chip, Panel } from "@/components/csn/panel";
 import { QuestionVisual } from "@/components/csn/question-visual";
 import { Shell } from "@/components/csn/shell";
 import { fill, t } from "@/lib/csn/i18n";
-import { getQuestion } from "@/lib/csn/questions";
+import { getQuestion, loc } from "@/lib/csn/questions";
 import { useCsnStore } from "@/lib/csn/store";
 import { allowedWrong, formatDuration, hasFeature, unlockLevel } from "@/lib/csn/xp";
 
@@ -76,7 +76,7 @@ function ResultsPage() {
         <div className="space-y-3">
           {rows.map((ans, i) => {
             const q = getQuestion(ans.questionId);
-            const loc = q[lang];
+            const text = loc(q, lang);
             return (
               <Panel key={`${ans.questionId}-${i}`}>
                 <div className="flex items-center justify-between">
@@ -85,26 +85,26 @@ function ResultsPage() {
                 <div className="mt-3">
                   <QuestionVisual visual={q.visual} />
                 </div>
-                <p className="mt-3 text-[14px] font-medium">{loc.q}</p>
+                <p className="mt-3 text-[14px] font-medium">{text.q}</p>
                 <ul className="mt-2 space-y-1 text-[14px]">
-                  {loc.options.map((opt, n) => (
+                  {text.options.map((opt, n) => (
                     <li
                       key={n}
                       className={
-                        n === loc.correct
+                        n === text.correct
                           ? "text-[var(--csn-green)]"
-                          : n === ans.chosen && n !== loc.correct
+                          : n === ans.chosen && n !== text.correct
                             ? "text-[var(--csn-red)]"
                             : "text-[var(--csn-text-2)]"
                       }
                     >
                       {String.fromCharCode(65 + n)}. {opt}
                       {n === ans.chosen ? ` · ${copy.youChose}` : null}
-                      {n === loc.correct ? ` · ${copy.rightAnswer}` : null}
+                      {n === text.correct ? ` · ${copy.rightAnswer}` : null}
                     </li>
                   ))}
                 </ul>
-                <p className="mt-3 text-[14px] text-[var(--csn-text-3)]">{loc.explain}</p>
+                <p className="mt-3 text-[14px] text-[var(--csn-text-3)]">{text.explain}</p>
                 {hasFeature(level, "mistake-insights") && !ans.correct ? (
                   <p className="mt-2 text-[12px] text-[var(--csn-blue)]">
                     {copy.insights}: {copy.modules[q.module].name}

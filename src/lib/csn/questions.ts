@@ -1,7 +1,12 @@
-import raw from "@/data/questions.json";
-import type { ModuleId, Question } from "./types";
+import rawOriginal from "@/data/questions.json";
+import rawPhase2 from "@/data/questions-250.json";
+import type { Lang, LocaleQuestion, ModuleId, Question } from "./types";
 
-export const QUESTIONS = raw as Question[];
+/** Immutable original bank (src/data/questions.json). Do not rewrite. */
+export const QUESTIONS_ORIGINAL = rawOriginal as Question[];
+/** Audited 250-question package, namespaced n250_*. */
+export const QUESTIONS_PHASE2 = rawPhase2 as Question[];
+export const QUESTIONS: Question[] = [...QUESTIONS_ORIGINAL, ...QUESTIONS_PHASE2];
 
 const byId = new Map(QUESTIONS.map((q) => [q.id, q]));
 
@@ -9,6 +14,12 @@ export function getQuestion(id: string): Question {
   const q = byId.get(id);
   if (!q) throw new Error(`Unknown question ${id}`);
   return q;
+}
+
+/** Latvian is the source of truth; English falls back to LV when missing. */
+export function loc(q: Question, lang: Lang): LocaleQuestion {
+  if (lang === "en" && q.en?.q) return q.en;
+  return q.lv;
 }
 
 export function questionsForModule(module: ModuleId): Question[] {

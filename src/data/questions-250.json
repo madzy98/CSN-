@@ -1,0 +1,5105 @@
+[
+  {
+    "id": "n250_001",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "101"
+    },
+    "rule": "CSN 4. pielikums — 101. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 101. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Bīstami pagriezieni",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 101. ceļa zīme nozīmē: «Vienādas nozīmes ceļu krustojums». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_002",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "107"
+    },
+    "rule": "CSN 4. pielikums — 107. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 107. ceļa zīmes nozīme?",
+      "options": [
+        "Lokveida krustojums",
+        "Ceļa sašaurinājums",
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 107. ceļa zīme nozīmē: «Ceļa sašaurinājums». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_003",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "113"
+    },
+    "rule": "CSN 4. pielikums — 113. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 113. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Ātrumvalnis",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 113. ceļa zīme nozīmē: «Ātrumvalnis». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_004",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "117"
+    },
+    "rule": "CSN 4. pielikums — 117. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 117. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens",
+        "Akmeņu nogruvumi"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 117. ceļa zīme nozīmē: «Akmeņu nogruvumi». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_005",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "121"
+    },
+    "rule": "CSN 4. pielikums — 121. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 121. ceļa zīme?",
+      "options": [
+        "Bērni",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens",
+        "Lokveida krustojums"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 121. ceļa zīme nozīmē: «Bērni». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_006",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "125"
+    },
+    "rule": "CSN 4. pielikums — 125. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 125. ceļa zīmi?",
+      "options": [
+        "Lokveida krustojums",
+        "Savvaļas dzīvnieki",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 125. ceļa zīme nozīmē: «Savvaļas dzīvnieki». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_007",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "129"
+    },
+    "rule": "CSN 4. pielikums — 129. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 129. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Lokveida krustojums",
+        "Zemu lidojošas lidmašīnas",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 129. ceļa zīme nozīmē: «Zemu lidojošas lidmašīnas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_008",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "133"
+    },
+    "rule": "CSN 4. pielikums — 133. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 133. ceļa zīmes nozīme?",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens",
+        "Lokveida krustojums",
+        "Dzelzceļa pārbrauktuve bez barjeras"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 133. ceļa zīme nozīmē: «Dzelzceļa pārbrauktuve bez barjeras». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_009",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "142"
+    },
+    "rule": "CSN 4. pielikums — 142. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 142. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Bīstami",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 142. ceļa zīme nozīmē: «Bīstami». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_010",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "203"
+    },
+    "rule": "CSN 4. pielikums — 203. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 203. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Dodiet ceļu",
+        "Krustojums ar mazāk svarīgu ceļu",
+        "Galvenā ceļa beigas",
+        "Galvenais ceļš"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 203. ceļa zīme nozīmē: «Krustojums ar mazāk svarīgu ceļu». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_011",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "209"
+    },
+    "rule": "CSN 4. pielikums — 209. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 209. ceļa zīme?",
+      "options": [
+        "Galvenā ceļa beigas",
+        "Krustojums ar mazāk svarīgu ceļu",
+        "Priekšroka attiecībā pret pretim braucošajiem",
+        "Galvenais ceļš"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 209. ceļa zīme nozīmē: «Priekšroka attiecībā pret pretim braucošajiem». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_012",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "304"
+    },
+    "rule": "CSN 4. pielikums — 304. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 304. ceļa zīmi?",
+      "options": [
+        "Braukt aizliegts",
+        "Iebraukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts",
+        "Motocikliem braukt aizliegts"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 304. ceļa zīme nozīmē: «Motocikliem braukt aizliegts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_013",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "308"
+    },
+    "rule": "CSN 4. pielikums — 308. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 308. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Traktoriem braukt aizliegts",
+        "Braukt aizliegts",
+        "Iebraukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 308. ceļa zīme nozīmē: «Traktoriem braukt aizliegts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_014",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "312"
+    },
+    "rule": "CSN 4. pielikums — 312. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 312. ceļa zīmes nozīme?",
+      "options": [
+        "Braukt aizliegts",
+        "Masas ierobežojums",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts",
+        "Iebraukt aizliegts"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 312. ceļa zīme nozīmē: «Masas ierobežojums». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_015",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "316"
+    },
+    "rule": "CSN 4. pielikums — 316. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 316. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Iebraukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts",
+        "Nogriezties pa kreisi aizliegts",
+        "Braukt aizliegts"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 316. ceļa zīme nozīmē: «Nogriezties pa kreisi aizliegts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_016",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "320"
+    },
+    "rule": "CSN 4. pielikums — 320. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 320. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Iebraukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts",
+        "Braukt aizliegts",
+        "Apdzīšanas aizliegums beidzas"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 320. ceļa zīme nozīmē: «Apdzīšanas aizliegums beidzas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_017",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "324"
+    },
+    "rule": "CSN 4. pielikums — 324. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 324. ceļa zīme?",
+      "options": [
+        "Maksimālā ātruma ierobežojums beidzas",
+        "Braukt aizliegts",
+        "Iebraukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 324. ceļa zīme nozīmē: «Maksimālā ātruma ierobežojums beidzas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_018",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "328"
+    },
+    "rule": "CSN 4. pielikums — 328. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 328. ceļa zīmi?",
+      "options": [
+        "Iebraukt aizliegts",
+        "Nepāra datumos stāvēt aizliegts",
+        "Braukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 328. ceļa zīme nozīmē: «Nepāra datumos stāvēt aizliegts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_019",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "332"
+    },
+    "rule": "CSN 4. pielikums — 332. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 332. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Braukt aizliegts",
+        "Mehāniskajiem transportlīdzekļiem braukt aizliegts",
+        "Policija",
+        "Iebraukt aizliegts"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 332. ceļa zīme nozīmē: «Policija». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_020",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "402"
+    },
+    "rule": "CSN 4. pielikums — 402. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 402. ceļa zīmes nozīme?",
+      "options": [
+        "Braukt taisni",
+        "Braukt taisni vai pa labi",
+        "Braukt pa kreisi",
+        "Braukt pa labi"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 402. ceļa zīme nozīmē: «Braukt pa labi». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_021",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "406"
+    },
+    "rule": "CSN 4. pielikums — 406. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 406. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Braukt pa labi vai pa kreisi",
+        "Braukt taisni",
+        "Braukt pa labi",
+        "Braukt pa kreisi"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 406. ceļa zīme nozīmē: «Braukt pa labi vai pa kreisi». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_022",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "412"
+    },
+    "rule": "CSN 4. pielikums — 412. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 412. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Braukt pa kreisi",
+        "Šķēršli apbraukt pa labo vai pa kreiso pusi",
+        "Braukt pa labi",
+        "Braukt taisni"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 412. ceļa zīme nozīmē: «Šķēršli apbraukt pa labo vai pa kreiso pusi». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_023",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "416"
+    },
+    "rule": "CSN 4. pielikums — 416. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 416. ceļa zīme?",
+      "options": [
+        "Braukt taisni",
+        "Braukt pa labi",
+        "Gājēju ceļa beigas",
+        "Braukt pa kreisi"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 416. ceļa zīme nozīmē: «Gājēju ceļa beigas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_024",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "420"
+    },
+    "rule": "CSN 4. pielikums — 420. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 420. ceļa zīmi?",
+      "options": [
+        "Braukt pa labi",
+        "Braukt taisni",
+        "Braukt pa kreisi",
+        "Gājēju un velosipēdu ceļa beigas"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 420. ceļa zīme nozīmē: «Gājēju un velosipēdu ceļa beigas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_025",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "426"
+    },
+    "rule": "CSN 4. pielikums — 426. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 426. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Transportlīdzekļiem ar bīstamu kravu braukt pa labi",
+        "Braukt pa labi",
+        "Braukt taisni",
+        "Braukt pa kreisi"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 426. ceļa zīme nozīmē: «Transportlīdzekļiem ar bīstamu kravu braukt pa labi». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_026",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "503"
+    },
+    "rule": "CSN 4. pielikums — 503. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 503. ceļa zīmes nozīme?",
+      "options": [
+        "Josla pasažieru sabiedriskajiem transportlīdzekļiem",
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vienvirziena ceļa beigas",
+        "Vienvirziena ceļš"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 503. ceļa zīme nozīmē: «Izbraukšana uz vienvirziena ceļa». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_027",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "508"
+    },
+    "rule": "CSN 4. pielikums — 508. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 508. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vienvirziena ceļš",
+        "Ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem beigas",
+        "Vienvirziena ceļa beigas"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 508. ceļa zīme nozīmē: «Ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem beigas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_028",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "513"
+    },
+    "rule": "CSN 4. pielikums — 513. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 513. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Vienvirziena ceļš",
+        "Vienvirziena ceļa beigas",
+        "Izbraukšana uz vienvirziena ceļa",
+        "Braukšanas virzieni joslās"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 513. ceļa zīme nozīmē: «Braukšanas virzieni joslās». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_029",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "520"
+    },
+    "rule": "CSN 4. pielikums — 520. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 520. ceļa zīme?",
+      "options": [
+        "Apdzīvotas vietas beigas",
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vienvirziena ceļš",
+        "Vienvirziena ceļa beigas"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 520. ceļa zīme nozīmē: «Apdzīvotas vietas beigas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_030",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "525"
+    },
+    "rule": "CSN 4. pielikums — 525. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 525. ceļa zīmi?",
+      "options": [
+        "Vienvirziena ceļa beigas",
+        "Maksimālā ātruma ierobežojuma zona",
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vienvirziena ceļš"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 525. ceļa zīme nozīmē: «Maksimālā ātruma ierobežojuma zona». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_031",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "529"
+    },
+    "rule": "CSN 4. pielikums — 529. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 529. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Vienvirziena ceļa beigas",
+        "Vienvirziena ceļš",
+        "Stāvvietu zona",
+        "Izbraukšana uz vienvirziena ceļa"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 529. ceļa zīme nozīmē: «Stāvvietu zona». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_032",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "533"
+    },
+    "rule": "CSN 4. pielikums — 533. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 533. ceļa zīmes nozīme?",
+      "options": [
+        "Vienvirziena ceļa beigas",
+        "Vienvirziena ceļš",
+        "Izbraukšana uz vienvirziena ceļa",
+        "Dzīvojamā zona"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 533. ceļa zīme nozīmē: «Dzīvojamā zona». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_033",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "539"
+    },
+    "rule": "CSN 4. pielikums — 539. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 539. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Maksas stāvvieta",
+        "Vienvirziena ceļš",
+        "Vienvirziena ceļa beigas",
+        "Izbraukšana uz vienvirziena ceļa"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 539. ceļa zīme nozīmē: «Maksas stāvvieta». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_034",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "543"
+    },
+    "rule": "CSN 4. pielikums — 543. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 543. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vieglo taksometru stāvvieta",
+        "Vienvirziena ceļš",
+        "Vienvirziena ceļa beigas"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 543. ceļa zīme nozīmē: «Vieglo taksometru stāvvieta». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_035",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "547"
+    },
+    "rule": "CSN 4. pielikums — 547. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 547. ceļa zīme?",
+      "options": [
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vienvirziena ceļa beigas",
+        "Pierobežas sākums",
+        "Vienvirziena ceļš"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 547. ceļa zīme nozīmē: «Pierobežas sākums». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_036",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "551"
+    },
+    "rule": "CSN 4. pielikums — 551. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 551. ceļa zīmi?",
+      "options": [
+        "Vienvirziena ceļa beigas",
+        "Izbraukšana uz vienvirziena ceļa",
+        "Vienvirziena ceļš",
+        "Robežšķērsošanas vieta"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 551. ceļa zīme nozīmē: «Robežšķērsošanas vieta». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_037",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "601"
+    },
+    "rule": "CSN 4. pielikums — 601. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 601. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Medicīniskās palīdzības punkts",
+        "Degvielas uzpildes stacija",
+        "Stāvparks",
+        "Slimnīca"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 601. ceļa zīme nozīmē: «Medicīniskās palīdzības punkts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_038",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "605"
+    },
+    "rule": "CSN 4. pielikums — 605. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 605. ceļa zīmes nozīme?",
+      "options": [
+        "Degvielas uzpildes stacija",
+        "Tehniskās apkopes punkts",
+        "Slimnīca",
+        "Medicīniskās palīdzības punkts"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 605. ceļa zīme nozīmē: «Tehniskās apkopes punkts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_039",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "609"
+    },
+    "rule": "CSN 4. pielikums — 609. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 609. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Medicīniskās palīdzības punkts",
+        "Degvielas uzpildes stacija",
+        "Kafejnīca",
+        "Slimnīca"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 609. ceļa zīme nozīmē: «Kafejnīca». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_040",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "613"
+    },
+    "rule": "CSN 4. pielikums — 613. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 613. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Slimnīca",
+        "Medicīniskās palīdzības punkts",
+        "Degvielas uzpildes stacija",
+        "Kempingpiekabju stāvvieta"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 613. ceļa zīme nozīmē: «Kempingpiekabju stāvvieta». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_041",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "617"
+    },
+    "rule": "CSN 4. pielikums — 617. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 617. ceļa zīme?",
+      "options": [
+        "Tualete",
+        "Degvielas uzpildes stacija",
+        "Medicīniskās palīdzības punkts",
+        "Slimnīca"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 617. ceļa zīme nozīmē: «Tualete». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_042",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "622"
+    },
+    "rule": "CSN 4. pielikums — 622. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 622. ceļa zīmi?",
+      "options": [
+        "Medicīniskās palīdzības punkts",
+        "Pasts",
+        "Slimnīca",
+        "Degvielas uzpildes stacija"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 622. ceļa zīme nozīmē: «Pasts». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_043",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "626"
+    },
+    "rule": "CSN 4. pielikums — 626. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 626. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Medicīniskās palīdzības punkts",
+        "Degvielas uzpildes stacija",
+        "Dzelzceļa stacija",
+        "Slimnīca"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 626. ceļa zīme nozīmē: «Dzelzceļa stacija». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_044",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "630"
+    },
+    "rule": "CSN 4. pielikums — 630. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 630. ceļa zīmes nozīme?",
+      "options": [
+        "Slimnīca",
+        "Medicīniskās palīdzības punkts",
+        "Degvielas uzpildes stacija",
+        "Informācijas bloks"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 630. ceļa zīme nozīmē: «Informācijas bloks». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_045",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "634"
+    },
+    "rule": "CSN 4. pielikums — 634. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 634. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Lauku tūrisma mītne",
+        "Medicīniskās palīdzības punkts",
+        "Slimnīca",
+        "Degvielas uzpildes stacija"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 634. ceļa zīme nozīmē: «Lauku tūrisma mītne». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_046",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "707"
+    },
+    "rule": "CSN 4. pielikums — 707. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 707. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Iepriekšējs virzienu rādītājs",
+        "Attālumu rādītājs",
+        "Virziena rādītājs",
+        "Virzienu rādītājs"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 707. ceļa zīme nozīmē: «Attālumu rādītājs». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_047",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "711"
+    },
+    "rule": "CSN 4. pielikums — 711. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 711. ceļa zīme?",
+      "options": [
+        "Iepriekšējs virzienu rādītājs",
+        "Virzienu rādītājs",
+        "Strupceļš",
+        "Virziena rādītājs"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 711. ceļa zīme nozīmē: «Strupceļš». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_048",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "721"
+    },
+    "rule": "CSN 4. pielikums — 721. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 721. ceļa zīmi?",
+      "options": [
+        "Virzienu rādītājs",
+        "Iepriekšējs virzienu rādītājs",
+        "Virziena rādītājs",
+        "Joslas piekļaušanās pamatjoslām"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 721. ceļa zīme nozīmē: «Joslas piekļaušanās pamatjoslām». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_049",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "726"
+    },
+    "rule": "CSN 4. pielikums — 726. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 726. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Kravas automobiļu braukšanas virziens",
+        "Virziena rādītājs",
+        "Virzienu rādītājs",
+        "Iepriekšējs virzienu rādītājs"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 726. ceļa zīme nozīmē: «Kravas automobiļu braukšanas virziens». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_050",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "734"
+    },
+    "rule": "CSN 4. pielikums — 734. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 734. ceļa zīmes nozīme?",
+      "options": [
+        "Virziena rādītājs",
+        "Apbraukšanas ceļa beigas",
+        "Iepriekšējs virzienu rādītājs",
+        "Virzienu rādītājs"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 734. ceļa zīme nozīmē: «Apbraukšanas ceļa beigas». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_051",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "743"
+    },
+    "rule": "CSN 4. pielikums — 743. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 743. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Virzienu rādītājs",
+        "Iepriekšējs virzienu rādītājs",
+        "Ceļa numurs un virziens",
+        "Virziena rādītājs"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 743. ceļa zīme nozīmē: «Ceļa numurs un virziens». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_052",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "749"
+    },
+    "rule": "CSN 4. pielikums — 749. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 749. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Virziena rādītājs",
+        "Virzienu rādītājs",
+        "Iepriekšējs virzienu rādītājs",
+        "Valsts nosaukums"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 749. ceļa zīme nozīmē: «Valsts nosaukums». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_053",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "753"
+    },
+    "rule": "CSN 4. pielikums — 753. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 753. ceļa zīme?",
+      "options": [
+        "Avārijas izejas virziens",
+        "Virziena rādītājs",
+        "Iepriekšējs virzienu rādītājs",
+        "Virzienu rādītājs"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 753. ceļa zīme nozīmē: «Avārijas izejas virziens». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_054",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "815"
+    },
+    "rule": "CSN 4. pielikums — 815. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 815. ceļa zīmi?",
+      "options": [
+        "Attālums līdz objektam",
+        "Darbības virzieni",
+        "Darbības virziens",
+        "Darbības zona"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 815. ceļa zīme nozīmē: «Darbības virzieni». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_055",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "826"
+    },
+    "rule": "CSN 4. pielikums — 826. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 826. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Attālums līdz objektam",
+        "Darbības zona",
+        "Sestdienās, svētdienās un svētku dienās",
+        "Darbības virziens"
+      ],
+      "correct": 2,
+      "explain": "Oficiālā 826. ceļa zīme nozīmē: «Sestdienās, svētdienās un svētku dienās». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_056",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "841"
+    },
+    "rule": "CSN 4. pielikums — 841. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 841. ceļa zīmes nozīme?",
+      "options": [
+        "Darbības virziens",
+        "Darbības zona",
+        "Attālums līdz objektam",
+        "Automobiļu apskates vieta"
+      ],
+      "correct": 3,
+      "explain": "Oficiālā 841. ceļa zīme nozīmē: «Automobiļu apskates vieta». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_057",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "845"
+    },
+    "rule": "CSN 4. pielikums — 845. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 845. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Mitrs segums",
+        "Darbības virziens",
+        "Darbības zona",
+        "Attālums līdz objektam"
+      ],
+      "correct": 0,
+      "explain": "Oficiālā 845. ceļa zīme nozīmē: «Mitrs segums». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_058",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "849"
+    },
+    "rule": "CSN 4. pielikums — 849. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 849. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Attālums līdz objektam",
+        "Pārējā papildinformācija",
+        "Darbības virziens",
+        "Darbības zona"
+      ],
+      "correct": 1,
+      "explain": "Oficiālā 849. ceļa zīme nozīmē: «Pārējā papildinformācija». (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_059",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "854"
+    },
+    "rule": "CSN 4. pielikums — 854. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 854. ceļa zīme?",
+      "options": [
+        "Attālums līdz objektam",
+        "Darbības virziens",
+        "Informācija par velosipēdu ceļu",
+        "Darbības zona"
+      ],
+      "correct": 2,
+      "explain": "854. papildzīme «Informācija par velosipēdu ceļu» norāda, ka galvenā zīme attiecas uz velosipēdu ceļu. (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_060",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "860"
+    },
+    "rule": "CSN 4. pielikums — 860. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 860. ceļa zīmi?",
+      "options": [
+        "Darbības zona",
+        "Darbības virziens",
+        "Attālums līdz objektam",
+        "Elektromobiļiem"
+      ],
+      "correct": 3,
+      "explain": "860. papildzīme «Elektromobiļiem» norāda, ka galvenā zīme attiecas uz elektromobiļiem. (CSN 4. pielikums.)"
+    }
+  },
+  {
+    "id": "n250_061",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "102"
+    },
+    "rule": "CSN 4. pielikums — 102. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 102. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstami pagriezieni"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde ir “Lokveida krustojums”. Izmantota autentiskā 102. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_062",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "103"
+    },
+    "rule": "CSN 4. pielikums — 103. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 103. ceļa zīmes nozīme?",
+      "options": [
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstami pagriezieni"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde ir “Bīstams pagrieziens”. Izmantota autentiskā 103. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_063",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "105"
+    },
+    "rule": "CSN 4. pielikums — 105. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 105. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstami pagriezieni",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 2,
+      "explain": "Pareizā atbilde ir “Bīstami pagriezieni”. Izmantota autentiskā 105. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_064",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "110"
+    },
+    "rule": "CSN 4. pielikums — 110. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 110. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens",
+        "Stāvs lejupceļš"
+      ],
+      "correct": 3,
+      "explain": "Pareizā atbilde ir “Stāvs lejupceļš”. Izmantota autentiskā 110. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_065",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "111"
+    },
+    "rule": "CSN 4. pielikums — 111. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 111. ceļa zīme?",
+      "options": [
+        "Stāvs augšupceļš",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens",
+        "Lokveida krustojums"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde ir “Stāvs augšupceļš”. Izmantota autentiskā 111. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_066",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "112"
+    },
+    "rule": "CSN 4. pielikums — 112. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 112. ceļa zīmi?",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Nelīdzens ceļš",
+        "Bīstams pagrieziens",
+        "Lokveida krustojums"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde ir “Nelīdzens ceļš”. Izmantota autentiskā 112. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_067",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "114"
+    },
+    "rule": "CSN 4. pielikums — 114. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 114. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Ceļa seguma maiņa",
+        "Lokveida krustojums"
+      ],
+      "correct": 2,
+      "explain": "Pareizā atbilde ir “Ceļa seguma maiņa”. Izmantota autentiskā 114. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_068",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "115"
+    },
+    "rule": "CSN 4. pielikums — 115. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 115. ceļa zīmes nozīme?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums",
+        "Slidens ceļš"
+      ],
+      "correct": 3,
+      "explain": "Pareizā atbilde ir “Slidens ceļš”. Izmantota autentiskā 115. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_069",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "116"
+    },
+    "rule": "CSN 4. pielikums — 116. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 116. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Uzbērta grants vai šķembas",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde ir “Uzbērta grants vai šķembas”. Izmantota autentiskā 116. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_070",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "118"
+    },
+    "rule": "CSN 4. pielikums — 118. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 118. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Bīstams pagrieziens",
+        "Uz ceļa strādā",
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde ir “Uz ceļa strādā”. Izmantota autentiskā 118. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_071",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "119"
+    },
+    "rule": "CSN 4. pielikums — 119. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 119. ceļa zīme?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Ceļš ar bīstamām nomalēm",
+        "Lokveida krustojums"
+      ],
+      "correct": 2,
+      "explain": "Pareizā atbilde ir “Ceļš ar bīstamām nomalēm”. Izmantota autentiskā 119. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_072",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "120"
+    },
+    "rule": "CSN 4. pielikums — 120. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 120. ceļa zīmi?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Gājēju pāreja"
+      ],
+      "correct": 3,
+      "explain": "Pareizā atbilde ir “Gājēju pāreja”. Izmantota autentiskā 120. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_073",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "122"
+    },
+    "rule": "CSN 4. pielikums — 122. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 122. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Divvirzienu satiksme",
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde ir “Divvirzienu satiksme”. Izmantota autentiskā 122. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_074",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "123"
+    },
+    "rule": "CSN 4. pielikums — 123. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 123. ceļa zīmes nozīme?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Luksofors",
+        "Lokveida krustojums",
+        "Vienādas nozīmes ceļu krustojums"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde ir “Luksofors”. Izmantota autentiskā 123. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_075",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "124"
+    },
+    "rule": "CSN 4. pielikums — 124. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 124. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Mājdzīvnieki",
+        "Lokveida krustojums"
+      ],
+      "correct": 2,
+      "explain": "Pareizā atbilde ir “Mājdzīvnieki”. Izmantota autentiskā 124. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_076",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "126"
+    },
+    "rule": "CSN 4. pielikums — 126. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 126. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Paceļams tilts"
+      ],
+      "correct": 3,
+      "explain": "Pareizā atbilde ir “Paceļams tilts”. Izmantota autentiskā 126. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_077",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "127"
+    },
+    "rule": "CSN 4. pielikums — 127. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 127. ceļa zīme?",
+      "options": [
+        "Krastmala",
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde ir “Krastmala”. Izmantota autentiskā 127. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_078",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "128"
+    },
+    "rule": "CSN 4. pielikums — 128. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 128. ceļa zīmi?",
+      "options": [
+        "Lokveida krustojums",
+        "Sānvējš",
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde ir “Sānvējš”. Izmantota autentiskā 128. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_079",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "130"
+    },
+    "rule": "CSN 4. pielikums — 130. ceļa zīme",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 130. ceļa zīmi. Ko tā nozīmē?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Velosipēdu ceļa šķērsošana",
+        "Lokveida krustojums"
+      ],
+      "correct": 2,
+      "explain": "Pareizā atbilde ir “Velosipēdu ceļa šķērsošana”. Izmantota autentiskā 130. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_080",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "131"
+    },
+    "rule": "CSN 4. pielikums — 131. ceļa zīme",
+    "lv": {
+      "q": "Kura ir oficiālā 131. ceļa zīmes nozīme?",
+      "options": [
+        "Bīstams pagrieziens",
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Tramvaja sliežu šķērsošana"
+      ],
+      "correct": 3,
+      "explain": "Pareizā atbilde ir “Tramvaja sliežu šķērsošana”. Izmantota autentiskā 131. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_081",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "132"
+    },
+    "rule": "CSN 4. pielikums — 132. ceļa zīme",
+    "lv": {
+      "q": "Tu tuvojas 132. ceļa zīmei. Ko tā brīdina, nosaka vai norāda?",
+      "options": [
+        "Dzelzceļa pārbrauktuve ar barjeru",
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde ir “Dzelzceļa pārbrauktuve ar barjeru”. Izmantota autentiskā 132. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_082",
+    "module": "signs",
+    "difficulty": 2,
+    "visual": {
+      "type": "sign",
+      "sign": "134"
+    },
+    "rule": "CSN 4. pielikums — 134. ceļa zīme",
+    "lv": {
+      "q": "Atpazīsti attēlā redzamo 134. ceļa zīmi un izvēlies tās pareizo nozīmi.",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Viensliežu dzelzceļa pārbrauktuve",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde ir “Viensliežu dzelzceļa pārbrauktuve”. Izmantota autentiskā 134. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_083",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "135"
+    },
+    "rule": "CSN 4. pielikums — 135. ceļa zīme",
+    "lv": {
+      "q": "Ko vadītājam nozīmē attēlā redzamā 135. ceļa zīme?",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Bīstams pagrieziens",
+        "Daudzsliežu dzelzceļa pārbrauktuve",
+        "Lokveida krustojums"
+      ],
+      "correct": 2,
+      "explain": "Pareizā atbilde ir “Daudzsliežu dzelzceļa pārbrauktuve”. Izmantota autentiskā 135. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_084",
+    "module": "signs",
+    "difficulty": 1,
+    "visual": {
+      "type": "sign",
+      "sign": "136"
+    },
+    "rule": "CSN 4. pielikums — 136. ceļa zīme",
+    "lv": {
+      "q": "Kura atbilde precīzi raksturo 136. ceļa zīmi?",
+      "options": [
+        "Vienādas nozīmes ceļu krustojums",
+        "Lokveida krustojums",
+        "Bīstams pagrieziens",
+        "Tuvojas dzelzceļa pārbrauktuve"
+      ],
+      "correct": 3,
+      "explain": "Pareizā atbilde ir “Tuvojas dzelzceļa pārbrauktuve”. Izmantota autentiskā 136. zīmes rastra datne; zīme nav pārzīmēta ar AI."
+    }
+  },
+  {
+    "id": "n250_085",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q085_marking_920.png"
+    },
+    "rule": "CSN 292.1",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 920. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Sadala pretējos virzienos braucošu transportlīdzekļu plūsmas; to lieto arī citām robežām, kas noteiktas CSN 292.1.",
+        "Apzīmē stāvvietu transportlīdzekļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti.",
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt.",
+        "Apzīmē ceļa posmu, kur stāvēt aizliegts."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.1 nosaka šī apzīmējuma nozīmi. sadala pretējos virzienos braucošu transportlīdzekļu plūsmas; to lieto arī citām robežām, kas noteiktas CSN 292.1."
+    }
+  },
+  {
+    "id": "n250_086",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q086_marking_921.png"
+    },
+    "rule": "CSN 292.2",
+    "lv": {
+      "q": "Kura ir pareizā 921. ceļa apzīmējuma nozīme?",
+      "options": [
+        "Vairākas atdalītas platas paralēlas garenlīnijas apzīmē gājēju pāreju.",
+        "Sadala pretējos virzienos braucošu transportlīdzekļu plūsmas uz ceļiem ar trim vai vairāk braukšanas joslām, izņemot ieskrējiena un bremzēšanas joslas.",
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas.",
+        "Brīdina par tuvošanos brauktuves sašaurinājumam."
+      ],
+      "correct": 1,
+      "explain": "CSN 292.2 nosaka šī apzīmējuma nozīmi. sadala pretējos virzienos braucošu transportlīdzekļu plūsmas uz ceļiem ar trim vai vairāk braukšanas joslām, izņemot ieskrējiena un bremzēšanas joslas."
+    }
+  },
+  {
+    "id": "n250_087",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q087_marking_922.png"
+    },
+    "rule": "CSN 292.3",
+    "lv": {
+      "q": "Vadītājs redz 922. ceļa apzīmējumu. Ko tas norāda?",
+      "options": [
+        "Apzīmē ceļa posmus, kuros apstāties un stāvēt aizliegts.",
+        "Divas atdalītas platas pārtrauktas šķērslīnijas apzīmē vietu, kur brauktuvi šķērso attiecīgais ceļš.",
+        "Sadala pretējos virzienos braucošu plūsmu uz divu joslu ceļiem vai apzīmē joslu robežas uz ceļiem ar vairākām joslām vienā virzienā.",
+        "Brīdina par tuvošanos līnijai, kas sadala pretējos virzienos braucošu plūsmu."
+      ],
+      "correct": 2,
+      "explain": "CSN 292.3 nosaka šī apzīmējuma nozīmi. sadala pretējos virzienos braucošu plūsmu uz divu joslu ceļiem vai apzīmē joslu robežas uz ceļiem ar vairākām joslām vienā virzienā."
+    }
+  },
+  {
+    "id": "n250_088",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q088_marking_923.png"
+    },
+    "rule": "CSN 292.4",
+    "lv": {
+      "q": "Izvēlies precīzu skaidrojumu attēlā redzamajam 923. ceļa apzīmējumam.",
+      "options": [
+        "Apzīmē velosipēdu ceļu, attiecīgo kopīgā ceļa daļu vai velojoslu.",
+        "Apzīmē robežu starp ieskrējiena joslu un pamatjoslu, bremzēšanas joslu un pamatjoslu vai sabiedriskā transporta pieturu un pamatjoslu.",
+        "Sadala pretējos virzienos braucošu transportlīdzekļu plūsmas uz ceļiem ar trim vai vairāk braukšanas joslām, izņemot ieskrējiena un bremzēšanas joslas.",
+        "Brīdina par tuvošanos 920., 921. vai 928. apzīmējuma līnijai."
+      ],
+      "correct": 3,
+      "explain": "CSN 292.4 nosaka šī apzīmējuma nozīmi. brīdina par tuvošanos 920., 921. vai 928. apzīmējuma līnijai."
+    }
+  },
+  {
+    "id": "n250_089",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q089_marking_924.png"
+    },
+    "rule": "CSN 292.5",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 924. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās; tās šķērsošana ir aizliegta.",
+        "Apzīmē ceļa posmu, kur stāvēt aizliegts.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās, kas apzīmē joslu robežas, ja vienā virzienā ir vismaz divas joslas."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.5 nosaka šī apzīmējuma nozīmi. apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt."
+    }
+  },
+  {
+    "id": "n250_090",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q090_marking_925.png"
+    },
+    "rule": "CSN 292.6",
+    "lv": {
+      "q": "Kura ir pareizā 925. ceļa apzīmējuma nozīme?",
+      "options": [
+        "Apzīmē ceļa posmu, kur stāvēt aizliegts.",
+        "Apzīmē joslas vai velojoslas robežas krustojuma robežās vai vietās, kur velojoslu atļauts šķērsot.",
+        "Apzīmē vietu, kur nedrīkst uzbraukt, ja aiz tās izveidojies sastrēgums, kas var piespiest apstāties uz apzīmējuma, ar CSN paredzēto izņēmumu.",
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt."
+      ],
+      "correct": 1,
+      "explain": "CSN 292.6 nosaka šī apzīmējuma nozīmi. apzīmē joslas vai velojoslas robežas krustojuma robežās vai vietās, kur velojoslu atļauts šķērsot."
+    }
+  },
+  {
+    "id": "n250_091",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q091_marking_926.png"
+    },
+    "rule": "CSN 292.7",
+    "lv": {
+      "q": "Vadītājs redz 926. ceļa apzīmējumu. Ko tas norāda?",
+      "options": [
+        "Sadala pretējos virzienos braucošu plūsmu uz divu joslu ceļiem vai apzīmē joslu robežas uz ceļiem ar vairākām joslām vienā virzienā.",
+        "Apzīmē joslas vai velojoslas robežas krustojuma robežās vai vietās, kur velojoslu atļauts šķērsot.",
+        "Apzīmē robežu starp ieskrējiena joslu un pamatjoslu, bremzēšanas joslu un pamatjoslu vai sabiedriskā transporta pieturu un pamatjoslu.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās, kas apzīmē joslu robežas, ja vienā virzienā ir vismaz divas joslas."
+      ],
+      "correct": 2,
+      "explain": "CSN 292.7 nosaka šī apzīmējuma nozīmi. apzīmē robežu starp ieskrējiena joslu un pamatjoslu, bremzēšanas joslu un pamatjoslu vai sabiedriskā transporta pieturu un pamatjoslu."
+    }
+  },
+  {
+    "id": "n250_092",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q092_marking_927.png"
+    },
+    "rule": "CSN 292.8",
+    "lv": {
+      "q": "Izvēlies precīzu skaidrojumu attēlā redzamajam 927. ceļa apzīmējumam.",
+      "options": [
+        "Apzīmē ceļa posmu, kur stāvēt aizliegts.",
+        "Brīdina par tuvošanos līnijai, kas sadala pretējos virzienos braucošu plūsmu.",
+        "Sadala plūsmas vai apzīmē vietas, kur apgriezties, iebraukt vai izbraukt; šķērsot drīkst tikai no pārtrauktās līnijas puses, ar noteikto izņēmumu.",
+        "Apzīmē joslas robežas, kurā braukšanas virziens var mainīties uz pretējo; tajā iebrauc tikai pie zaļas lejupvērstas bultas."
+      ],
+      "correct": 3,
+      "explain": "CSN 292.8 nosaka šī apzīmējuma nozīmi. apzīmē joslas robežas, kurā braukšanas virziens var mainīties uz pretējo; tajā iebrauc tikai pie zaļas lejupvērstas bultas."
+    }
+  },
+  {
+    "id": "n250_093",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q093_marking_928.png"
+    },
+    "rule": "CSN 292.9",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 928. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Sadala plūsmas vai apzīmē vietas, kur apgriezties, iebraukt vai izbraukt; šķērsot drīkst tikai no pārtrauktās līnijas puses, ar noteikto izņēmumu.",
+        "Apzīmē vietu, kur nedrīkst uzbraukt, ja aiz tās izveidojies sastrēgums, kas var piespiest apstāties uz apzīmējuma, ar CSN paredzēto izņēmumu.",
+        "Apzīmē braukšanas joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem un taksometriem.",
+        "Sadala pretējos virzienos braucošu plūsmu uz divu joslu ceļiem vai apzīmē joslu robežas uz ceļiem ar vairākām joslām vienā virzienā."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.9 nosaka šī apzīmējuma nozīmi. sadala plūsmas vai apzīmē vietas, kur apgriezties, iebraukt vai izbraukt; šķērsot drīkst tikai no pārtrauktās līnijas puses, ar noteikto izņēmumu."
+    }
+  },
+  {
+    "id": "n250_094",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q094_marking_929.png"
+    },
+    "rule": "CSN 292.10",
+    "lv": {
+      "q": "Kura ir pareizā 929. ceļa apzīmējuma nozīme?",
+      "options": [
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas.",
+        "Norāda vietu, pirms kuras jāaptur transportlīdzeklis, ja to prasa 207. zīme vai aizliedzošs luksofora/regulētāja signāls.",
+        "Apzīmē joslas vai velojoslas robežas krustojuma robežās vai vietās, kur velojoslu atļauts šķērsot.",
+        "Sadala pretējos virzienos braucošu transportlīdzekļu plūsmas uz ceļiem ar trim vai vairāk braukšanas joslām, izņemot ieskrējiena un bremzēšanas joslas."
+      ],
+      "correct": 1,
+      "explain": "CSN 292.10 nosaka šī apzīmējuma nozīmi. norāda vietu, pirms kuras jāaptur transportlīdzeklis, ja to prasa 207. zīme vai aizliedzošs luksofora/regulētāja signāls."
+    }
+  },
+  {
+    "id": "n250_095",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q095_marking_930.png"
+    },
+    "rule": "CSN 292.11",
+    "lv": {
+      "q": "Vadītājs redz 930. ceļa apzīmējumu. Ko tas norāda?",
+      "options": [
+        "Apzīmē braukšanas joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem un taksometriem.",
+        "Sadala plūsmas vai apzīmē vietas, kur apgriezties, iebraukt vai izbraukt; šķērsot drīkst tikai no pārtrauktās līnijas puses, ar noteikto izņēmumu.",
+        "Norāda vietu, kur, ja nepieciešams, jāaptur transportlīdzeklis, lai dotu ceļu.",
+        "Apzīmē robežu starp ieskrējiena joslu un pamatjoslu, bremzēšanas joslu un pamatjoslu vai sabiedriskā transporta pieturu un pamatjoslu."
+      ],
+      "correct": 2,
+      "explain": "CSN 292.11 nosaka šī apzīmējuma nozīmi. norāda vietu, kur, ja nepieciešams, jāaptur transportlīdzeklis, lai dotu ceļu."
+    }
+  },
+  {
+    "id": "n250_096",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q096_marking_931.png"
+    },
+    "rule": "CSN 292.12",
+    "lv": {
+      "q": "Izvēlies precīzu skaidrojumu attēlā redzamajam 931. ceļa apzīmējumam.",
+      "options": [
+        "Apzīmē velosipēdu ceļu, attiecīgo kopīgā ceļa daļu vai velojoslu.",
+        "Brīdina par tuvošanos brauktuves sašaurinājumam.",
+        "Apzīmē joslas robežas, kurā braukšanas virziens var mainīties uz pretējo; tajā iebrauc tikai pie zaļas lejupvērstas bultas.",
+        "Vairākas atdalītas platas paralēlas garenlīnijas apzīmē gājēju pāreju."
+      ],
+      "correct": 3,
+      "explain": "CSN 292.12 nosaka šī apzīmējuma nozīmi. vairākas atdalītas platas paralēlas garenlīnijas apzīmē gājēju pāreju."
+    }
+  },
+  {
+    "id": "n250_097",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q097_marking_932.png"
+    },
+    "rule": "CSN 292.13",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 932. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Divas atdalītas platas pārtrauktas šķērslīnijas apzīmē vietu, kur brauktuvi šķērso attiecīgais ceļš.",
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt.",
+        "Norāda vietu, kur, ja nepieciešams, jāaptur transportlīdzeklis, lai dotu ceļu.",
+        "Norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.13 nosaka šī apzīmējuma nozīmi. divas atdalītas platas pārtrauktas šķērslīnijas apzīmē vietu, kur brauktuvi šķērso attiecīgais ceļš."
+    }
+  },
+  {
+    "id": "n250_098",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q098_marking_933.png"
+    },
+    "rule": "CSN 292.14",
+    "lv": {
+      "q": "Kura ir pareizā 933. ceļa apzīmējuma nozīme?",
+      "options": [
+        "Divas atdalītas platas pārtrauktas šķērslīnijas apzīmē vietu, kur brauktuvi šķērso attiecīgais ceļš.",
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas.",
+        "Norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās.",
+        "Sadala pretējos virzienos braucošu plūsmu uz divu joslu ceļiem vai apzīmē joslu robežas uz ceļiem ar vairākām joslām vienā virzienā."
+      ],
+      "correct": 1,
+      "explain": "CSN 292.14 nosaka šī apzīmējuma nozīmi. divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas."
+    }
+  },
+  {
+    "id": "n250_099",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q099_marking_937.png"
+    },
+    "rule": "CSN 292.16",
+    "lv": {
+      "q": "Vadītājs redz 937. ceļa apzīmējumu. Ko tas norāda?",
+      "options": [
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt.",
+        "Sadala pretējos virzienos braucošu transportlīdzekļu plūsmas uz ceļiem ar trim vai vairāk braukšanas joslām, izņemot ieskrējiena un bremzēšanas joslas.",
+        "Norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās; tās šķērsošana ir aizliegta."
+      ],
+      "correct": 2,
+      "explain": "CSN 292.16 nosaka šī apzīmējuma nozīmi. norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās."
+    }
+  },
+  {
+    "id": "n250_100",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q100_marking_938.png"
+    },
+    "rule": "CSN 292.17",
+    "lv": {
+      "q": "Izvēlies precīzu skaidrojumu attēlā redzamajam 938. ceļa apzīmējumam.",
+      "options": [
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās; tās šķērsošana ir aizliegta.",
+        "Sadala plūsmas vai apzīmē vietas, kur apgriezties, iebraukt vai izbraukt; šķērsot drīkst tikai no pārtrauktās līnijas puses, ar noteikto izņēmumu.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās, kas apzīmē joslu robežas, ja vienā virzienā ir vismaz divas joslas.",
+        "Brīdina par tuvošanos brauktuves sašaurinājumam."
+      ],
+      "correct": 3,
+      "explain": "CSN 292.17 nosaka šī apzīmējuma nozīmi. brīdina par tuvošanos brauktuves sašaurinājumam."
+    }
+  },
+  {
+    "id": "n250_101",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q101_marking_939.png"
+    },
+    "rule": "CSN 292.18",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 939. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Brīdina par tuvošanos līnijai, kas sadala pretējos virzienos braucošu plūsmu.",
+        "Norāda vietu, pirms kuras jāaptur transportlīdzeklis, ja to prasa 207. zīme vai aizliedzošs luksofora/regulētāja signāls.",
+        "Apzīmē ceļa posmu, kur stāvēt aizliegts.",
+        "Apzīmē braukšanas joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem un taksometriem."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.18 nosaka šī apzīmējuma nozīmi. brīdina par tuvošanos līnijai, kas sadala pretējos virzienos braucošu plūsmu."
+    }
+  },
+  {
+    "id": "n250_102",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q102_marking_940.png"
+    },
+    "rule": "CSN 292.19",
+    "lv": {
+      "q": "Kura ir pareizā 940. ceļa apzīmējuma nozīme?",
+      "options": [
+        "Brīdina par tuvošanos brauktuves sašaurinājumam.",
+        "Apzīmē braukšanas joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem un taksometriem.",
+        "Apzīmē stāvvietu transportlīdzekļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti.",
+        "Norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās."
+      ],
+      "correct": 1,
+      "explain": "CSN 292.19 nosaka šī apzīmējuma nozīmi. apzīmē braukšanas joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem un taksometriem."
+    }
+  },
+  {
+    "id": "n250_103",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q103_marking_941.png"
+    },
+    "rule": "CSN 292.20",
+    "lv": {
+      "q": "Vadītājs redz 941. ceļa apzīmējumu. Ko tas norāda?",
+      "options": [
+        "Brīdina par tuvošanos brauktuves sašaurinājumam.",
+        "Brīdina par tuvošanos līnijai, kas sadala pretējos virzienos braucošu plūsmu.",
+        "Apzīmē velosipēdu ceļu, attiecīgo kopīgā ceļa daļu vai velojoslu.",
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas."
+      ],
+      "correct": 2,
+      "explain": "CSN 292.20 nosaka šī apzīmējuma nozīmi. apzīmē velosipēdu ceļu, attiecīgo kopīgā ceļa daļu vai velojoslu."
+    }
+  },
+  {
+    "id": "n250_104",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q104_marking_942.png"
+    },
+    "rule": "CSN 292.21",
+    "lv": {
+      "q": "Izvēlies precīzu skaidrojumu attēlā redzamajam 942. ceļa apzīmējumam.",
+      "options": [
+        "Brīdina par tuvošanos brauktuves sašaurinājumam.",
+        "Apzīmē velosipēdu ceļu, attiecīgo kopīgā ceļa daļu vai velojoslu.",
+        "Norāda vietu, pirms kuras jāaptur transportlīdzeklis, ja to prasa 207. zīme vai aizliedzošs luksofora/regulētāja signāls.",
+        "Apzīmē stāvvietu transportlīdzekļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti."
+      ],
+      "correct": 3,
+      "explain": "CSN 292.21 nosaka šī apzīmējuma nozīmi. apzīmē stāvvietu transportlīdzekļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti."
+    }
+  },
+  {
+    "id": "n250_105",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q105_marking_943.png"
+    },
+    "rule": "CSN 292.22",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 943. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Apzīmē ceļa posmus, kuros apstāties un stāvēt aizliegts.",
+        "Norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās.",
+        "Apzīmē joslas robežas, kurā braukšanas virziens var mainīties uz pretējo; tajā iebrauc tikai pie zaļas lejupvērstas bultas.",
+        "Apzīmē stāvvietu transportlīdzekļiem, kas apzīmēti ar invalīdu stāvvietu izmantošanas karti."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.22 nosaka šī apzīmējuma nozīmi. apzīmē ceļa posmus, kuros apstāties un stāvēt aizliegts."
+    }
+  },
+  {
+    "id": "n250_106",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q106_marking_944.png"
+    },
+    "rule": "CSN 292.23",
+    "lv": {
+      "q": "Kura ir pareizā 944. ceļa apzīmējuma nozīme?",
+      "options": [
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt.",
+        "Apzīmē ceļa posmu, kur stāvēt aizliegts.",
+        "Sadala plūsmas vai apzīmē vietas, kur apgriezties, iebraukt vai izbraukt; šķērsot drīkst tikai no pārtrauktās līnijas puses, ar noteikto izņēmumu.",
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas."
+      ],
+      "correct": 1,
+      "explain": "CSN 292.23 nosaka šī apzīmējuma nozīmi. apzīmē ceļa posmu, kur stāvēt aizliegts."
+    }
+  },
+  {
+    "id": "n250_107",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q107_marking_947.png"
+    },
+    "rule": "CSN 292.27",
+    "lv": {
+      "q": "Vadītājs redz 947. ceļa apzīmējumu. Ko tas norāda?",
+      "options": [
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas.",
+        "Apzīmē robežu starp ieskrējiena joslu un pamatjoslu, bremzēšanas joslu un pamatjoslu vai sabiedriskā transporta pieturu un pamatjoslu.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās; tās šķērsošana ir aizliegta.",
+        "Apzīmē joslas robežas, kurā braukšanas virziens var mainīties uz pretējo; tajā iebrauc tikai pie zaļas lejupvērstas bultas."
+      ],
+      "correct": 2,
+      "explain": "CSN 292.27 nosaka šī apzīmējuma nozīmi. pagaidu apzīmējums ceļa darbu u. tml. vietās; tās šķērsošana ir aizliegta."
+    }
+  },
+  {
+    "id": "n250_108",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q108_marking_948.png"
+    },
+    "rule": "CSN 292.28",
+    "lv": {
+      "q": "Izvēlies precīzu skaidrojumu attēlā redzamajam 948. ceļa apzīmējumam.",
+      "options": [
+        "Brīdina par tuvošanos brauktuves sašaurinājumam.",
+        "Norāda atļautos braukšanas virzienus; kreisās bultas gadījumā no kreisās malējās joslas atļauta arī apgriešanās.",
+        "Apzīmē brauktuves malu ceļa posmos, kuros atļauts apstāties un stāvēt.",
+        "Pagaidu apzīmējums ceļa darbu u. tml. vietās, kas apzīmē joslu robežas, ja vienā virzienā ir vismaz divas joslas."
+      ],
+      "correct": 3,
+      "explain": "CSN 292.28 nosaka šī apzīmējuma nozīmi. pagaidu apzīmējums ceļa darbu u. tml. vietās, kas apzīmē joslu robežas, ja vienā virzienā ir vismaz divas joslas."
+    }
+  },
+  {
+    "id": "n250_109",
+    "module": "markings",
+    "difficulty": 1,
+    "visual": {
+      "type": "image",
+      "src": "/p2/images/q109_marking_959.png"
+    },
+    "rule": "CSN 292.39",
+    "lv": {
+      "q": "Aplūko attēlā redzamo 959. ceļa apzīmējumu. Ko tas nozīmē?",
+      "options": [
+        "Apzīmē vietu, kur nedrīkst uzbraukt, ja aiz tās izveidojies sastrēgums, kas var piespiest apstāties uz apzīmējuma, ar CSN paredzēto izņēmumu.",
+        "Divas atdalītas šahveida šķērslīnijas apzīmē mākslīga paaugstinājuma robežas.",
+        "Brīdina par tuvošanos līnijai, kas sadala pretējos virzienos braucošu plūsmu.",
+        "Sadala pretējos virzienos braucošu transportlīdzekļu plūsmas; to lieto arī citām robežām, kas noteiktas CSN 292.1."
+      ],
+      "correct": 0,
+      "explain": "CSN 292.39 nosaka šī apzīmējuma nozīmi. apzīmē vietu, kur nedrīkst uzbraukt, ja aiz tās izveidojies sastrēgums, kas var piespiest apstāties uz apzīmējuma, ar CSN paredzēto izņēmumu."
+    }
+  },
+  {
+    "id": "n250_110",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q110.mp4"
+    },
+    "rule": "CSN 145.",
+    "lv": {
+      "q": "Video redzams gājējs, kurš šķērso brauktuvi pa gājēju pāreju. Kāda ir vadītāja pareizā rīcība?",
+      "options": [
+        "Šī situācija nav reglamentēta.",
+        "Jādod ceļš gājējam, kas šķērso brauktuvi.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām."
+      ],
+      "correct": 1,
+      "explain": "Pie gājēju pārejas vadītājam jādod ceļš gājējam, kurš šķērso brauktuvi un varētu tikt traucēts vai apdraudēts."
+    }
+  },
+  {
+    "id": "n250_111",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q111.mp4"
+    },
+    "rule": "CSN 80.",
+    "lv": {
+      "q": "Video redzama iekļaušanās satiksmes plūsmā no ieskrējiena joslas. Kam vadītājam jādod ceļš?",
+      "options": [
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Jāizmanto ieskrējiena josla un jāiekļaujas plūsmā, dodot ceļu pa ceļu braucošajiem.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas."
+      ],
+      "correct": 2,
+      "explain": "Ieskrējiena josla paredzēta iekļaušanai plūsmā; vadītājam jādod ceļš transportlīdzekļiem, kas jau brauc pa šo ceļu."
+    }
+  },
+  {
+    "id": "n250_112",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q112.mp4"
+    },
+    "rule": "CSN 79.",
+    "lv": {
+      "q": "Video redzams nobrauciens pa bremzēšanas joslu. Kur vadītājam jāsamazina ātrums?",
+      "options": [
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Ātrumu samazina, atrodoties bremzēšanas joslā."
+      ],
+      "correct": 3,
+      "explain": "Ja ir bremzēšanas josla, ātrumu samazina, atrodoties uz tās."
+    }
+  },
+  {
+    "id": "n250_113",
+    "module": "danger",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q113.mp4"
+    },
+    "rule": "CSN 107.",
+    "lv": {
+      "q": "Tu gatavojies apdzīt. Kurš nosacījums pirms manevra sākšanas ir obligāts?",
+      "options": [
+        "Apdzīšanas laikā pretim braucošie netiks traucēti.",
+        "Apdzenamais palielinās ātrumu.",
+        "Pēc apdzīšanas drīkst palikt pretējā joslā.",
+        "Aiz muguras nevienam transportlīdzeklim nav jābūt."
+      ],
+      "correct": 0,
+      "explain": "Pirms apdzīšanas jāpārliecinās, ka apdzīšanas laikā netiks traucēti pretim braucošie transportlīdzekļi."
+    }
+  },
+  {
+    "id": "n250_114",
+    "module": "danger",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q114.mp4"
+    },
+    "rule": "CSN 109.3.",
+    "lv": {
+      "q": "Video redzama tuvošanās dzelzceļa pārbrauktuvei. Kur apdzīšana ir aizliegta?",
+      "options": [
+        "Šī situācija nav reglamentēta.",
+        "Apdzīšana uz pārbrauktuves un tuvāk par 100 m pirms tās ir aizliegta.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām."
+      ],
+      "correct": 1,
+      "explain": "Apdzīšana uz dzelzceļa pārbrauktuves un tuvāk par 100 m pirms tās ir aizliegta."
+    }
+  },
+  {
+    "id": "n250_115",
+    "module": "vehicle",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q115.mp4"
+    },
+    "rule": "CSN 82.",
+    "lv": {
+      "q": "Video redzama braukšana atpakaļgaitā. Kāds pamatnosacījums jāievēro?",
+      "options": [
+        "Šī situācija nav reglamentēta.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Braucot atpakaļgaitā, nedrīkst traucēt citus ceļu satiksmes dalībniekus.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām."
+      ],
+      "correct": 2,
+      "explain": "Braucot atpakaļgaitā, nedrīkst traucēt citus ceļu satiksmes dalībniekus."
+    }
+  },
+  {
+    "id": "n250_116",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q116.mp4"
+    },
+    "rule": "CSN 78.",
+    "lv": {
+      "q": "Video redzams neregulēts krustojums bez priekšrocības noteikšanas. Kuram transportlīdzeklim jādod ceļš?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Ja braukšanas secība nav noteikta citādi, ceļu dod vadītājs, kuram transportlīdzeklis tuvojas no labās puses."
+      ],
+      "correct": 3,
+      "explain": "Ja braukšanas secība nav reglamentēta citādi, ceļu dod vadītājs, kuram transportlīdzeklis tuvojas no labās puses."
+    }
+  },
+  {
+    "id": "n250_117",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q117.mp4"
+    },
+    "rule": "CSN 136.",
+    "lv": {
+      "q": "Video redzams kreisais pagrieziens, pretim braucot transportlīdzeklim taisni. Kā rīkojas?",
+      "options": [
+        "Jādod ceļš pretim braucošajiem, kas brauc taisni vai nogriežas pa labi.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām."
+      ],
+      "correct": 0,
+      "explain": "Nogriežoties pa kreisi ārpus krustojuma, jādod ceļš pretim braucošajiem un transportlīdzekļiem, kas uzsākuši apdzīšanu."
+    }
+  },
+  {
+    "id": "n250_118",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q118.mp4"
+    },
+    "rule": "CSN 135.",
+    "lv": {
+      "q": "Video redzams krustojums, kur galvenais ceļš maina virzienu. Kā nosaka secību starp vadītājiem, kas brauc pa galveno ceļu?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājiem savstarpēji jāievēro vienādas nozīmes ceļu krustojuma pārbraukšanas noteikumi.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Šī situācija nav reglamentēta."
+      ],
+      "correct": 1,
+      "explain": "Ja galvenais ceļš maina virzienu, vadītājiem, kas atrodas uz galvenā ceļa, savstarpēji piemēro vienādas nozīmes ceļu krustojuma noteikumus."
+    }
+  },
+  {
+    "id": "n250_119",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q119.mp4"
+    },
+    "rule": "CSN 140.",
+    "lv": {
+      "q": "Video redzama dzīvojamā zona ar gājēju uz brauktuves. Kāda ir gājēja priekšrocība?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Šī situācija nav reglamentēta.",
+        "Dzīvojamā zonā gājējiem ir priekšroka, bet viņi nedrīkst nepamatoti traucēt transportlīdzekļu braukšanu.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām."
+      ],
+      "correct": 2,
+      "explain": "Dzīvojamā zonā gājējiem, velosipēdu un elektroskrejriteņu vadītājiem ir priekšroka, taču viņi nedrīkst nepamatoti traucēt transportlīdzekļu braukšanu."
+    }
+  },
+  {
+    "id": "n250_120",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q120.mp4"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "Video redzama braukšana dzīvojamā zonā bez cita ātruma ierobežojuma. Kāds ir maksimums?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Šī situācija nav reglamentēta.",
+        "Maksimālais ātrums ir 20 km/h."
+      ],
+      "correct": 3,
+      "explain": "Dzīvojamā zonā, ja nav cita ierobežojuma, maksimālais ātrums ir 20 km/h."
+    }
+  },
+  {
+    "id": "n250_121",
+    "module": "danger",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q121.mp4"
+    },
+    "rule": "CSN 159.3",
+    "lv": {
+      "q": "Video redzama situācija uz ātrgaitas ceļa. Vai drīkst apgriezties braukšanai pretējā virzienā?",
+      "options": [
+        "Uz ātrgaitas ceļa apgriezties braukšanai pretējā virzienā ir aizliegts.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Šī situācija nav reglamentēta."
+      ],
+      "correct": 0,
+      "explain": "Uz ātrgaitas ceļa aizliegts apgriezties braukšanai pretējā virzienā un braukt atpakaļgaitā."
+    }
+  },
+  {
+    "id": "n250_122",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q122.mp4"
+    },
+    "rule": "CSN 292.10/53.",
+    "lv": {
+      "q": "Video redzama 207. zīme un stoplīnija. Kur jāaptur transportlīdzeklis?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Pie 207. zīmes jāaptur transportlīdzeklis pirms stoplīnijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Šī situācija nav reglamentēta."
+      ],
+      "correct": 1,
+      "explain": "Ja ir 207. zīme un stoplīnija, transportlīdzekli aptur tieši pirms stoplīnijas."
+    }
+  },
+  {
+    "id": "n250_123",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q123.mp4"
+    },
+    "rule": "CSN 53–54.",
+    "lv": {
+      "q": "Video redzams dzeltenais luksofora signāls. Kad vadītājs drīkst turpināt ceļu?",
+      "options": [
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājam jāaptur transportlīdzeklis, ja to var izdarīt bez straujas bremzēšanas.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas."
+      ],
+      "correct": 2,
+      "explain": "Ja dzeltenā signāla iedegšanās brīdī transportlīdzekli var apturēt tikai ar strauju bremzēšanu, vadītājs drīkst turpināt ceļu."
+    }
+  },
+  {
+    "id": "n250_124",
+    "module": "danger",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q124.mp4"
+    },
+    "rule": "CSN 154.",
+    "lv": {
+      "q": "Video redzama pārbrauktuve, kur barjera sāk aizvērties. Vai drīkst uzbraukt uz pārbrauktuves?",
+      "options": [
+        "Šī situācija nav reglamentēta.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Uz pārbrauktuves uzbraukt aizliegts, ja barjera sāk aizvērties."
+      ],
+      "correct": 3,
+      "explain": "Ja pārbrauktuves barjera ir aizvērta vai sāk aizvērties, uzbraukt uz pārbrauktuves aizliegts."
+    }
+  },
+  {
+    "id": "n250_125",
+    "module": "danger",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q125.mp4"
+    },
+    "rule": "CSN 154.",
+    "lv": {
+      "q": "Video redzama pārbrauktuve ar atvērtu barjeru un nedarbojošos luksoforu. Kas jāpārliecinās pirms šķērsošanas?",
+      "options": [
+        "Drīkst šķērsot tikai pēc pārliecināšanās, ka netuvojas vilciens.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas."
+      ],
+      "correct": 0,
+      "explain": "Ja luksofors nedarbojas vai deg tikai balts mirgojošs signāls un barjera ir atvērta vai tās nav, pirms šķērsošanas jāpārliecinās, vai netuvojas vilciens."
+    }
+  },
+  {
+    "id": "n250_126",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q126.mp4"
+    },
+    "rule": "CSN 149.",
+    "lv": {
+      "q": "Video redzams sastrēgums aiz gājēju pārejas. Vai drīkst uzbraukt uz pārejas, ja nāksies uz tās apstāties?",
+      "options": [
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Uz gājēju pārejas uzbraukt nedrīkst, ja nāktos uz tās apstāties un traucēt kustību.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Šī situācija nav reglamentēta."
+      ],
+      "correct": 1,
+      "explain": "Aizliegts uzbraukt uz gājēju pārejas, ja aiz tās izveidojies sastrēgums un nāktos uz tās apturēt transportlīdzekli, traucējot gājējiem vai citiem noteikumos minētajiem dalībniekiem."
+    }
+  },
+  {
+    "id": "n250_127",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q127.mp4"
+    },
+    "rule": "CSN 150.",
+    "lv": {
+      "q": "Video redzams gājējs, kurš dodas uz tajā pašā braukšanas virzienā ceļa vidū apturētu autobusu. Kā rīkojas vadītājs?",
+      "options": [
+        "Brauc pirmais, jo gājējs nav uz pārejas.",
+        "Signalizē ar skaņas signālu.",
+        "Dod ceļu gājējam.",
+        "Dod ceļu tikai pēc autobusa vadītāja signāla."
+      ],
+      "correct": 2,
+      "explain": "Jādod ceļš gājējiem, kuri iet uz tajā pašā braukšanas virzienā ceļa vidū apturētu sabiedrisko transportlīdzekli vai nāk no tā."
+    }
+  },
+  {
+    "id": "n250_128",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q128.mp4"
+    },
+    "rule": "CSN 26.",
+    "lv": {
+      "q": "Video redzams operatīvais transportlīdzeklis ar ieslēgtu speciālo skaņas signālu un bākuguni. Kā rīkojas pārējie vadītāji?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Šī situācija nav reglamentēta.",
+        "Jādod ceļš operatīvajam transportlīdzeklim."
+      ],
+      "correct": 3,
+      "explain": "Pārējiem ceļu satiksmes dalībniekiem jādod ceļš operatīvajam transportlīdzeklim, kas pilda neatliekamu dienesta uzdevumu ar paredzētajiem signāliem."
+    }
+  },
+  {
+    "id": "n250_129",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q129.mp4"
+    },
+    "rule": "CSN 105.",
+    "lv": {
+      "q": "Video redzama braukšana aiz cita transportlīdzekļa. Kāds ir pareizas distances princips?",
+      "options": [
+        "Jābūt tādai distancei, lai varētu izvairīties no sadursmes.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas."
+      ],
+      "correct": 0,
+      "explain": "Distance jāizvēlas atbilstoši braukšanas ātrumam tā, lai priekšā braucošajam bremzējot būtu iespējams izvairīties no sadursmes."
+    }
+  },
+  {
+    "id": "n250_130",
+    "module": "night",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q130.mp4"
+    },
+    "rule": "CSN 163.2.",
+    "lv": {
+      "q": "Video redzama tuvošanās pretim braucošam transportlīdzeklim naktī. Kad jāpārslēdz tālās gaismas uz tuvajām?",
+      "options": [
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Tālās gaismas jāpārslēdz uz tuvajām vismaz 150 m attālumā.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas."
+      ],
+      "correct": 1,
+      "explain": "Tālās gaismas jāpārslēdz uz tuvajām vismaz 150 m attālumā no pretim braucošā transportlīdzekļa, ja nav nepieciešams pārslēgt vēl agrāk."
+    }
+  },
+  {
+    "id": "n250_131",
+    "module": "firstaid",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q131.mp4"
+    },
+    "rule": "CSN 175.1.",
+    "lv": {
+      "q": "Piespiedu apstāšanās apdzīvotā vietā. Kādā minimālajā attālumā transportlīdzekļa aizmugurē jāizliek avārijas zīme?",
+      "options": [
+        "15 m",
+        "50 m",
+        "100 m",
+        "75 m"
+      ],
+      "correct": 0,
+      "explain": "CSN 175.1: apdzīvotās vietās avārijas zīme jāizliek ne mazāk kā 15 m attālumā no transportlīdzekļa aizmugures."
+    }
+  },
+  {
+    "id": "n250_132",
+    "module": "firstaid",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q132.mp4"
+    },
+    "rule": "CSN 175.2.",
+    "lv": {
+      "q": "Video redzama piespiedu apstāšanās ārpus apdzīvotas vietas. Cik tālu aiz transportlīdzekļa izliek avārijas zīmi?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Avārijas zīme jāizliek vismaz 100 m attālumā ārpus apdzīvotas vietas."
+      ],
+      "correct": 3,
+      "explain": "Avārijas zīme jāizliek transportlīdzekļa aizmugurē ne mazāk kā 100 m attālumā."
+    }
+  },
+  {
+    "id": "n250_133",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q133.mp4"
+    },
+    "rule": "CSN 185.",
+    "lv": {
+      "q": "Video redzams bērns, kura augums ir 140 cm, automobilī ar drošības jostām. Kā viņš jātransportē?",
+      "options": [
+        "Bērnam līdz 150 cm jābūt vecumam un svaram piemērotā sēdeklītī vai uz paliktņa un jāpiesprādzējas.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām.",
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas."
+      ],
+      "correct": 0,
+      "explain": "Bērnam, kura augums nepārsniedz 150 cm, automobilī ar drošības jostām jāatrodas vecumam un svaram piemērotā bērnu sēdeklītī vai uz paliktņa un jābūt piesprādzētam ar drošības jostu."
+    }
+  },
+  {
+    "id": "n250_134",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "video",
+      "src": "/p2/videos/q134.mp4"
+    },
+    "rule": "CSN 200.",
+    "lv": {
+      "q": "Video redzams velosipēdists, kuram braukšanas virzienā ir ierīkota velojosla. Kur viņam jābrauc?",
+      "options": [
+        "Vadītājam vienmēr jāapstājas neatkarīgi no situācijas.",
+        "Velosipēdu un elektroskrejriteņu vadītājiem jābrauc pa attiecīgā virziena velojoslu, ja tā ir ierīkota.",
+        "Šī situācija nav reglamentēta.",
+        "Vadītājs drīkst turpināt bez jebkādām papildu darbībām."
+      ],
+      "correct": 1,
+      "explain": "Velosipēdu un elektroskrejriteņu vadītājiem jābrauc pa attiecīgā virziena velojoslu, velosipēdu ceļu, gājēju un velosipēdu ceļu vai 956. apzīmēto brauktuves daļu, ja tāda ir ierīkota."
+    }
+  },
+  {
+    "id": "n250_135",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "Kāds ir vispārējais maksimālais ātrums apdzīvotā vietā?",
+      "options": [
+        "40 km/h",
+        "60 km/h",
+        "50 km/h",
+        "70 km/h"
+      ],
+      "correct": 2,
+      "explain": "Apdzīvotā vietā vispārējais maksimums ir 50 km/h."
+    }
+  },
+  {
+    "id": "n250_136",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "Kāds ir vispārējais maksimālais ātrums apdzīvotā vietā, ja nav citu zīmju vai apzīmējumu?",
+      "options": [
+        "30 km/h",
+        "50 km/h",
+        "70 km/h",
+        "90 km/h"
+      ],
+      "correct": 1,
+      "explain": "CSN 101. punkts: apdzīvotās vietās, ja nav citādi noteikts, maksimālais ātrums ir 50 km/h."
+    }
+  },
+  {
+    "id": "n250_137",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "Kāds ir vispārējais maksimālais ātrums ārpus apdzīvotas vietas?",
+      "options": [
+        "90 km/h",
+        "70 km/h",
+        "80 km/h",
+        "100 km/h"
+      ],
+      "correct": 0,
+      "explain": "Ārpus apdzīvotas vietas vispārējais maksimums ir 90 km/h."
+    }
+  },
+  {
+    "id": "n250_138",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.2.",
+    "lv": {
+      "q": "Velkot mehānisko transportlīdzekli, maksimālais ātrums ir:",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "70 km/h"
+      ],
+      "correct": 1,
+      "explain": "Velkot mehānisko transportlīdzekli, maksimums ir 50 km/h."
+    }
+  },
+  {
+    "id": "n250_139",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.3.",
+    "lv": {
+      "q": "Velkot tehnoloģisko agregātu–piekabi, maksimālais ātrums ir:",
+      "options": [
+        "30 km/h",
+        "50 km/h",
+        "40 km/h",
+        "60 km/h"
+      ],
+      "correct": 2,
+      "explain": "Šādai vilkšanai maksimums ir 40 km/h."
+    }
+  },
+  {
+    "id": "n250_140",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.5.",
+    "lv": {
+      "q": "Uz grants vai šķembu seguma maksimālais ātrums ir:",
+      "options": [
+        "70 km/h",
+        "90 km/h",
+        "100 km/h",
+        "80 km/h"
+      ],
+      "correct": 3,
+      "explain": "Uz grants vai šķembu seguma maksimums ir 80 km/h."
+    }
+  },
+  {
+    "id": "n250_141",
+    "module": "speed",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.6.",
+    "lv": {
+      "q": "Mopēda maksimālais ātrums ir:",
+      "options": [
+        "45 km/h",
+        "25 km/h",
+        "40 km/h",
+        "50 km/h"
+      ],
+      "correct": 0,
+      "explain": "Mopēdiem maksimālais ātrums ir 45 km/h."
+    }
+  },
+  {
+    "id": "n250_142",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.8.",
+    "lv": {
+      "q": "Elektroskrejriteņa maksimālais ātrums ir:",
+      "options": [
+        "20 km/h",
+        "25 km/h",
+        "30 km/h",
+        "45 km/h"
+      ],
+      "correct": 1,
+      "explain": "Elektroskrejriteņiem maksimums ir 25 km/h."
+    }
+  },
+  {
+    "id": "n250_143",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.9.",
+    "lv": {
+      "q": "No 2026. gada 1. jūlija lauksaimniecības mašīntraktoru maksimālais ātrums ir:",
+      "options": [
+        "40 km/h",
+        "50 km/h",
+        "60 km/h",
+        "70 km/h"
+      ],
+      "correct": 2,
+      "explain": "No 2026. gada 1. jūlija 103.9. nosaka 60 km/h."
+    }
+  },
+  {
+    "id": "n250_144",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 104.3.",
+    "lv": {
+      "q": "Vai vadītājs drīkst bez vajadzības braukt tik lēni, ka traucē satiksmi?",
+      "options": [
+        "Jā, vienmēr",
+        "Tikai naktī",
+        "Tikai ārpus pilsētas",
+        "Nē"
+      ],
+      "correct": 3,
+      "explain": "Bez vajadzības traucēt satiksmi ar pārāk mazu ātrumu ir aizliegts."
+    }
+  },
+  {
+    "id": "n250_145",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 104.4.",
+    "lv": {
+      "q": "Kad strauja bremzēšana ir pieļaujama?",
+      "options": [
+        "Tikai ja tā nepieciešama satiksmes drošībai",
+        "Tikai lai taupītu degvielu",
+        "Nekad",
+        "Tikai apdzīvotā vietā"
+      ],
+      "correct": 0,
+      "explain": "Strauji bremzēt aizliegts, ja tas nav nepieciešams drošībai."
+    }
+  },
+  {
+    "id": "n250_146",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 105.",
+    "lv": {
+      "q": "Kā jāizvēlas distance?",
+      "options": [
+        "Vienmēr tieši 10 m",
+        "Atbilstoši ātrumam tā, lai varētu izvairīties no sadursmes",
+        "Pēc priekšā braucošā auto markas",
+        "Tikai pēc laikapstākļiem"
+      ],
+      "correct": 1,
+      "explain": "Distance jāizvēlas tā, lai priekšā braucošajam bremzējot varētu izvairīties no sadursmes."
+    }
+  },
+  {
+    "id": "n250_147",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 106.",
+    "lv": {
+      "q": "Ārpus apdzīvotas vietas transportlīdzekļu sastāva vadītājam noteiktos gadījumos distance metros ir vismaz:",
+      "options": [
+        "Ātrums × 2",
+        "Ātrums + 10",
+        "Puse no ātruma",
+        "Vienmēr 50 m"
+      ],
+      "correct": 2,
+      "explain": "106. punkts nosaka vismaz pusi no braukšanas ātruma metros, ar izņēmumiem."
+    }
+  },
+  {
+    "id": "n250_148",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 78.",
+    "lv": {
+      "q": "Ja braukšanas secība krustojumā nav reglamentēta, kam jādod ceļš?",
+      "options": [
+        "Tam, kurš tuvojas no kreisās",
+        "Tam, kurš brauc ātrāk",
+        "Nevienam",
+        "Tam, kurš tuvojas no labās"
+      ],
+      "correct": 3,
+      "explain": "Jādod ceļš vadītājam, kuram transportlīdzeklis tuvojas no labās puses."
+    }
+  },
+  {
+    "id": "n250_149",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 80.",
+    "lv": {
+      "q": "Izbraucot no ieskrējiena joslas uz ceļa, kam jādod ceļš?",
+      "options": [
+        "Tiem, kas jau brauc pa šo ceļu",
+        "Tikai gājējiem",
+        "Tikai kreisajā joslā braucošajiem",
+        "Nevienam"
+      ],
+      "correct": 0,
+      "explain": "Ieskrējiena joslā jāiekļaujas plūsmā, dodot ceļu pa šo ceļu braucošajiem."
+    }
+  },
+  {
+    "id": "n250_150",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 79.",
+    "lv": {
+      "q": "Kur drīkst samazināt ātrumu, ja ir bremzēšanas josla?",
+      "options": [
+        "Tikai pirms tās",
+        "Atrodoties uz bremzēšanas joslas",
+        "Tikai pēc krustojuma",
+        "Nekur"
+      ],
+      "correct": 1,
+      "explain": "Vadītājs drīkst samazināt ātrumu, atrodoties uz bremzēšanas joslas."
+    }
+  },
+  {
+    "id": "n250_151",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 81.1.",
+    "lv": {
+      "q": "Apgriezties braukšanai pretējā virzienā uz gājēju pārejas ir:",
+      "options": [
+        "Atļauts, ja nav gājēju",
+        "Atļauts naktī",
+        "Aizliegts",
+        "Atļauts ar avārijas gaismām"
+      ],
+      "correct": 2,
+      "explain": "Apgriešanās uz gājēju pārejas ir aizliegta."
+    }
+  },
+  {
+    "id": "n250_152",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 81.5.",
+    "lv": {
+      "q": "Apgriešanās vietā, kur redzamība vienā virzienā ir mazāka par 100 m, ir:",
+      "options": [
+        "Atļauta",
+        "Atļauta tikai ar ieslēgtām avārijas gaismām",
+        "Atļauta tikai pilsētā",
+        "Aizliegta"
+      ],
+      "correct": 3,
+      "explain": "81.5. aizliedz apgriezties, ja redzamība kaut vienā virzienā ir mazāka par 100 m."
+    }
+  },
+  {
+    "id": "n250_153",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 82.",
+    "lv": {
+      "q": "Braucot atpakaļgaitā, vadītājs nedrīkst:",
+      "options": [
+        "Traucēt citus ceļu satiksmes dalībniekus",
+        "Izmantot spoguļus",
+        "Pagriezt galvu",
+        "Ieslēgt atpakaļgaitas lukturi"
+      ],
+      "correct": 0,
+      "explain": "Atpakaļgaitā nedrīkst traucēt citus satiksmes dalībniekus."
+    }
+  },
+  {
+    "id": "n250_154",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 107.4.",
+    "lv": {
+      "q": "Pirms apdzīšanas vadītājam jāpārliecinās, ka pēc apdzīšanas var atgriezties joslā:",
+      "options": [
+        "Nē",
+        "Jā",
+        "Tikai uz šosejas",
+        "Tikai pilsētā"
+      ],
+      "correct": 1,
+      "explain": "Viens no apdzīšanas priekšnoteikumiem ir droša atgriešanās iepriekšējā joslā, netraucējot apdzenamo."
+    }
+  },
+  {
+    "id": "n250_155",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 108.",
+    "lv": {
+      "q": "Apdzenamais transportlīdzeklis drīkst palielināt ātrumu, lai padarītu apdzīšanu īsāku?",
+      "options": [
+        "Jā",
+        "Tikai ārpus pilsētas",
+        "Nē",
+        "Tikai motocikls"
+      ],
+      "correct": 2,
+      "explain": "Apdzenamā transportlīdzekļa vadītājam aizliegts traucēt apdzīšanu, tostarp palielinot ātrumu."
+    }
+  },
+  {
+    "id": "n250_156",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 109.3.",
+    "lv": {
+      "q": "Apdzīšana uz dzelzceļa pārbrauktuves ir:",
+      "options": [
+        "Atļauta, ja barjera pacelta",
+        "Atļauta tikai dienā",
+        "Atļauta, ja nav vilciena",
+        "Aizliegta"
+      ],
+      "correct": 3,
+      "explain": "Apdzīt uz dzelzceļa pārbrauktuves un tuvāk par 100 m pirms tās ir aizliegts."
+    }
+  },
+  {
+    "id": "n250_157",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 109.5.",
+    "lv": {
+      "q": "Apdzīšana uz gājēju pārejas ir:",
+      "options": [
+        "Aizliegta",
+        "Atļauta, ja gājēju nav",
+        "Atļauta tikai līdz 30 km/h",
+        "Atļauta tikai ar avārijas gaismām"
+      ],
+      "correct": 0,
+      "explain": "109.5. aizliedz apdzīšanu uz gājēju pārejas."
+    }
+  },
+  {
+    "id": "n250_158",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 122.1.",
+    "lv": {
+      "q": "Stāvēšana ārpus apdzīvotas vietas tuvāk par 100 m no dzelzceļa pārbrauktuves, ja nav noteikts citādi, ir:",
+      "options": [
+        "Atļauta",
+        "Aizliegta",
+        "Atļauta tikai 5 minūtes",
+        "Atļauta ar avārijas gaismām"
+      ],
+      "correct": 1,
+      "explain": "122.1. nosaka 100 m aizlieguma robežu ārpus apdzīvotām vietām."
+    }
+  },
+  {
+    "id": "n250_159",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 121.4.",
+    "lv": {
+      "q": "Apstāšanās vietā, kur attālums līdz nepārtrauktai līnijai ir mazāks par 3 m, ja nav cita izņēmuma, ir:",
+      "options": [
+        "Atļauta",
+        "Atļauta tikai taksometram",
+        "Aizliegta",
+        "Atļauta naktī"
+      ],
+      "correct": 2,
+      "explain": "121.4. aizliedz apstāšanos, ja šis attālums ir mazāks par 3 m."
+    }
+  },
+  {
+    "id": "n250_160",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 121.5.",
+    "lv": {
+      "q": "Apstāšanās uz gājēju pārejas vai tuvāk par 5 m no tās ir:",
+      "options": [
+        "Atļauta, ja gājēju nav",
+        "Atļauta tikai uz 1 minūti",
+        "Atļauta ar ieslēgtu avārijas signalizāciju",
+        "Aizliegta"
+      ],
+      "correct": 3,
+      "explain": "121.5. nosaka aizliegumu uz pārejas un tuvāk par 5 m no tās."
+    }
+  },
+  {
+    "id": "n250_161",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 110./121.",
+    "lv": {
+      "q": "Stāvēšana uz ietves vieglajam automobilim ir:",
+      "options": [
+        "Tikai noteiktos CSN paredzētos gadījumos",
+        "Vienmēr atļauta",
+        "Vienmēr aizliegta bez izņēmuma",
+        "Atļauta tikai naktī"
+      ],
+      "correct": 0,
+      "explain": "CSN paredz konkrētus izņēmumus; nav pareizi apgalvot “vienmēr”."
+    }
+  },
+  {
+    "id": "n250_162",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 123.",
+    "lv": {
+      "q": "Piespiedu apstāšanās aizliegtā vietā:",
+      "options": [
+        "Neko nedrīkst darīt",
+        "Jādara viss iespējamais, lai atbrīvotu brauktuvi un nogādātu auto atļautā vietā",
+        "Jāatstāj auto uz brauktuves",
+        "Jāizslēdz visi lukturi"
+      ],
+      "correct": 1,
+      "explain": "Piespiedu apstāšanās gadījumā jācenšas atbrīvot brauktuvi."
+    }
+  },
+  {
+    "id": "n250_163",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 124.",
+    "lv": {
+      "q": "Nogriežoties pa labi vai pa kreisi, jāpalaiž gājēji, kas šķērso:",
+      "options": [
+        "Tikai to ceļu, no kura izbrauc",
+        "Tikai ietvi",
+        "To brauktuvi, kurā vadītājs nogriežas",
+        "Nevienu"
+      ],
+      "correct": 2,
+      "explain": "124. punkts attiecas uz brauktuvi, kurā vadītājs nogriežas."
+    }
+  },
+  {
+    "id": "n250_164",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 149.",
+    "lv": {
+      "q": "Ja aiz gājēju pārejas ir sastrēgums un auto nāktos apstāties uz pārejas, uz tās uzbraukt:",
+      "options": [
+        "Drīkst",
+        "Drīkst tikai ar avārijas gaismām",
+        "Drīkst tikai naktī",
+        "Nedrīkst"
+      ],
+      "correct": 3,
+      "explain": "Uz pārejas nedrīkst uzbraukt, ja aiz tās esošs sastrēgums piespiestu apstāties un traucēt kustību."
+    }
+  },
+  {
+    "id": "n250_165",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 150.",
+    "lv": {
+      "q": "Gājējs dodas uz tajā pašā braukšanas virzienā ceļa vidū apturētu autobusu. Kāda ir vadītāja rīcība?",
+      "options": [
+        "Jādod ceļš gājējam.",
+        "Jābrauc pirmajam, jo gājējs atrodas ārpus pārejas.",
+        "Jāsignalizē ar skaņas signālu.",
+        "Jāapstājas tikai tad, ja autobuss aizsedz brauktuvi."
+      ],
+      "correct": 0,
+      "explain": "CSN 150. paredz pienākumu dot ceļu gājējiem, kuri iet uz tajā pašā braukšanas virzienā ceļa vidū apturētu sabiedrisko transportlīdzekli vai nāk no tā."
+    }
+  },
+  {
+    "id": "n250_166",
+    "module": "danger",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 122.1.",
+    "lv": {
+      "q": "Ārpus apdzīvotas vietas, ja nav citādi noteikts, stāvēt tuvāk par 100 m no dzelzceļa pārbrauktuves ir:",
+      "options": [
+        "Atļauts",
+        "Atļauts tikai dienā",
+        "Aizliegts",
+        "Atļauts, ja barjera ir pacelta"
+      ],
+      "correct": 2,
+      "explain": "CSN 122.1: ārpus apdzīvotām vietām stāvēt aizliegts tuvāk par 100 m no dzelzceļa pārbrauktuves, apdzīvotās vietās — tuvāk par 50 m."
+    }
+  },
+  {
+    "id": "n250_167",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 154.",
+    "lv": {
+      "q": "Ja pārbrauktuves barjera sāk aizvērties, uzbraukt uz pārbrauktuves:",
+      "options": [
+        "Drīkst",
+        "Drīkst tikai motociklam",
+        "Aizliegts",
+        "Drīkst, ja nav vilciena"
+      ],
+      "correct": 2,
+      "explain": "154. punkts aizliedz uzbraukt, ja barjera ir aizvērta vai sāk aizvērties."
+    }
+  },
+  {
+    "id": "n250_168",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 155.",
+    "lv": {
+      "q": "Ja pārbrauktuvei nav stoplīnijas, zīmes un barjeras, aizlieguma gadījumā jāaptur vismaz:",
+      "options": [
+        "2 m no sliedes",
+        "5 m no sliedes",
+        "20 m no sliedes",
+        "10 m no tuvākās sliedes"
+      ],
+      "correct": 3,
+      "explain": "Ja nav iepriekš minēto apturēšanas vietu, 155. punkts paredz vismaz 10 m no tuvākās sliedes."
+    }
+  },
+  {
+    "id": "n250_169",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 139.",
+    "lv": {
+      "q": "Vai dzīvojamā zonā velosipēdistam atļauts braukt pa brauktuvi visā tās platumā?",
+      "options": [
+        "Jā",
+        "Nē",
+        "Tikai pa labo malu",
+        "Tikai naktī"
+      ],
+      "correct": 0,
+      "explain": "CSN 139. punkts ļauj gājējiem un velosipēdu vadītājiem dzīvojamā zonā pārvietoties pa ietvēm un brauktuvi visā tās platumā."
+    }
+  },
+  {
+    "id": "n250_170",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 140.",
+    "lv": {
+      "q": "Dzīvojamā zonā gājējiem ir:",
+      "options": [
+        "Nekāda priekšroka",
+        "Priekšroka, bet nedrīkst nepamatoti traucēt transportlīdzekļus",
+        "Priekšroka tikai naktī",
+        "Priekšroka tikai uz ietves"
+      ],
+      "correct": 1,
+      "explain": "140. punkts paredz priekšroku ar pienākumu nepamatoti netraucēt satiksmi."
+    }
+  },
+  {
+    "id": "n250_171",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 141.",
+    "lv": {
+      "q": "Dzīvojamā zonā transportlīdzekļa stāvēšana atļauta:",
+      "options": [
+        "Jebkur",
+        "Tikai uz ietves",
+        "Tikai speciāli paredzētās stāvvietās vai, ja tādu nav/aizņemtas, netraucējošā vietā",
+        "Tikai uz brauktuves kreisajā pusē"
+      ],
+      "correct": 2,
+      "explain": "141. punkts nosaka šo kārtību."
+    }
+  },
+  {
+    "id": "n250_172",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 142.",
+    "lv": {
+      "q": "Vai dzīvojamā zonā atļauta tranzītbraukšana (caurbraukšana bez galamērķa zonā)?",
+      "options": [
+        "Jā",
+        "Tikai ar ātrumu 20 km/h",
+        "Tikai dienā",
+        "Nē"
+      ],
+      "correct": 3,
+      "explain": "CSN 142. punkts dzīvojamā zonā aizliedz tranzītbraukšanu, mācību braukšanu un stāvēšanu ar iedarbinātu motoru ilgāk par piecām minūtēm."
+    }
+  },
+  {
+    "id": "n250_173",
+    "module": "signs",
+    "difficulty": 3,
+    "visual": {
+      "type": "sign",
+      "sign": "534"
+    },
+    "rule": "CSN 4. pielikums — 534. ceļa zīme",
+    "lv": {
+      "q": "Kura ceļa zīme norāda dzīvojamās zonas beigas?",
+      "options": [
+        "533. zīme",
+        "534. zīme",
+        "519. zīme",
+        "527. zīme"
+      ],
+      "correct": 1,
+      "explain": "534. zīme «Dzīvojamās zonas beigas» norāda, ka beidzas 533. zīmes darbības zona un dzīvojamās zonas noteikumi."
+    }
+  },
+  {
+    "id": "n250_174",
+    "module": "vehicle",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 160.",
+    "lv": {
+      "q": "Diennakts gaišajā laikā mehāniskam transportlīdzeklim jābrauc ar iedegtiem:",
+      "options": [
+        "Tikai aizmugurējiem miglas lukturiem",
+        "Dienas gaitas, tuvās gaismas vai priekšējiem miglas lukturiem",
+        "Tikai gabarītlukturiem",
+        "Tikai tālās gaismas lukturiem"
+      ],
+      "correct": 1,
+      "explain": "160. punkts paredz vienu no šiem priekšējo apgaismes veidiem."
+    }
+  },
+  {
+    "id": "n250_175",
+    "module": "vehicle",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 161.1.",
+    "lv": {
+      "q": "Diennakts tumšajā laikā mehāniskajam transportlīdzeklim jābūt iedegtām:",
+      "options": [
+        "Tikai dienas gaitas gaismām",
+        "Tikai miglas lukturiem",
+        "Tuvās vai tālās gaismas lukturiem, kā arī gabarītlukturiem un numura zīmes apgaismojumam",
+        "Tikai gabarītlukturiem"
+      ],
+      "correct": 2,
+      "explain": "161.1. nosaka šo apgaismojumu."
+    }
+  },
+  {
+    "id": "n250_176",
+    "module": "vehicle",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 162.1.",
+    "lv": {
+      "q": "Nepietiekamas redzamības apstākļos mehāniskajam transportlīdzeklim var izmantot:",
+      "options": [
+        "Tikai gabarītlukturus",
+        "Tikai tālās gaismas",
+        "Tikai aizmugurējos miglas lukturus",
+        "Tuvās/tālās gaismas vai priekšējos miglas lukturus kopā ar gabarītlukturiem un numura apgaismojumu"
+      ],
+      "correct": 3,
+      "explain": "162.1. nosaka pieļaujamos priekšējos lukturus un obligātos gabarītlukturus/numura apgaismojumu."
+    }
+  },
+  {
+    "id": "n250_177",
+    "module": "night",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 160.",
+    "lv": {
+      "q": "Diennakts gaišajā laikā mehāniskajam transportlīdzeklim jābūt iedegtiem:",
+      "options": [
+        "Tikai aizmugurējiem gabarītlukturiem",
+        "Dienas gaitas, tuvās gaismas vai priekšējiem miglas lukturiem",
+        "Tikai tālajām gaismām",
+        "Nav jālieto nekādi lukturi"
+      ],
+      "correct": 1,
+      "explain": "CSN 160. nosaka, ka diennakts gaišajā laikā jābūt iedegtiem dienas gaitas, tuvās gaismas vai priekšējiem miglas lukturiem."
+    }
+  },
+  {
+    "id": "n250_178",
+    "module": "vehicle",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 173./174.",
+    "lv": {
+      "q": "Piespiedu apstāšanās aizliegtā vietā var būt pamats avārijas gaismu izmantošanai:",
+      "options": [
+        "Nē",
+        "Jā",
+        "Tikai naktī",
+        "Tikai uz šosejas"
+      ],
+      "correct": 1,
+      "explain": "Avārijas gaismas izmanto noteikumos paredzētajos īpašos gadījumos, tostarp bīstamas piespiedu apstāšanās situācijās."
+    }
+  },
+  {
+    "id": "n250_179",
+    "module": "firstaid",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 175.1.",
+    "lv": {
+      "q": "Piespiedu apstāšanās apdzīvotā vietā. Kādā minimālajā attālumā no transportlīdzekļa aizmugures jāizliek avārijas zīme?",
+      "options": [
+        "15 m",
+        "50 m",
+        "100 m",
+        "75 m"
+      ],
+      "correct": 0,
+      "explain": "CSN 175.1: apdzīvotās vietās avārijas zīme jāizliek ne mazāk kā 15 m attālumā. Ārpus apdzīvotām vietām spēkā ir 175.2. (100 m)."
+    }
+  },
+  {
+    "id": "n250_180",
+    "module": "vehicle",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 175.2.",
+    "lv": {
+      "q": "Avārijas zīme ārpus apdzīvotas vietas jāizliek vismaz:",
+      "options": [
+        "25 m",
+        "50 m",
+        "75 m",
+        "100 m"
+      ],
+      "correct": 3,
+      "explain": "175.2. nosaka vismaz 100 m."
+    }
+  },
+  {
+    "id": "n250_181",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 178.",
+    "lv": {
+      "q": "Ar cieto sakabi attālumam starp velkošo un velkamo transportlīdzekli jābūt ne vairāk kā:",
+      "options": [
+        "4 m",
+        "2 m",
+        "6 m",
+        "8 m"
+      ],
+      "correct": 0,
+      "explain": "178. punkts cietajai sakabei nosaka ne vairāk kā 4 m."
+    }
+  },
+  {
+    "id": "n250_182",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 178.",
+    "lv": {
+      "q": "Ar lokano sakabi attālumam jābūt:",
+      "options": [
+        "1–2 m",
+        "4–6 m",
+        "2–4 m",
+        "6–8 m"
+      ],
+      "correct": 1,
+      "explain": "178. punkts lokanajai sakabei nosaka 4–6 m."
+    }
+  },
+  {
+    "id": "n250_183",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 178.",
+    "lv": {
+      "q": "Lokano sakabi jāapzīmē tā, lai:",
+      "options": [
+        "Tā būtu neredzama",
+        "Tikai policija to redzētu",
+        "Citi to varētu laikus pamanīt",
+        "Tā būtu tikai sarkana"
+      ],
+      "correct": 2,
+      "explain": "178. punkts prasa, lai lokanā sakabe būtu laikus pamanāma."
+    }
+  },
+  {
+    "id": "n250_184",
+    "module": "vehicle",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 177.",
+    "lv": {
+      "q": "Ar cieto vai lokano sakabi velkamā mehāniskā transportlīdzekļa stūrē parasti jābūt:",
+      "options": [
+        "Pasažierim",
+        "Nevienam",
+        "Policistam",
+        "Vadītājam"
+      ],
+      "correct": 3,
+      "explain": "177. punkts paredz vadītāju, ja vien cietās sakabes konstrukcija nenodrošina vadāmību."
+    }
+  },
+  {
+    "id": "n250_185",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 183.",
+    "lv": {
+      "q": "Vieglajā automobilī nedrīkst pārvadāt vairāk pasažieru nekā:",
+      "options": [
+        "Norādīts reģistrācijas dokumentā vai paredzējis izgatavotājs",
+        "Vadītājs vēlas",
+        "4 neatkarīgi no auto",
+        "5 neatkarīgi no auto"
+      ],
+      "correct": 0,
+      "explain": "183. punkts nosaka maksimālo pasažieru skaitu pēc dokumentiem/izgatavotāja."
+    }
+  },
+  {
+    "id": "n250_186",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 185.",
+    "lv": {
+      "q": "Bērnam, kura augums nepārsniedz 150 cm, automobilī ar drošības jostām jābūt:",
+      "options": [
+        "Tikai pieaugušā klēpī",
+        "Vecumam un svaram piemērotā sēdeklītī vai uz paliktņa un piesprādzētam",
+        "Tikai aizmugurē",
+        "Bez jostas īsos braucienos"
+      ],
+      "correct": 1,
+      "explain": "185. punkts paredz atbilstošu bērnu sēdeklīti vai paliktni un drošības jostu."
+    }
+  },
+  {
+    "id": "n250_187",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 200.",
+    "lv": {
+      "q": "Velosipēda vai elektroskrejriteņa vadītājam, ja ir attiecīgā velojosla, jābrauc:",
+      "options": [
+        "Pa ietvi",
+        "Pa pretējo joslu",
+        "Pa attiecīgā virziena velojoslu",
+        "Pa nomali vienmēr"
+      ],
+      "correct": 2,
+      "explain": "200. punkts nosaka izmantošanu, ja attiecīgā josla ir ierīkota."
+    }
+  },
+  {
+    "id": "n250_188",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 26.",
+    "lv": {
+      "q": "Tuvojas operatīvais transportlīdzeklis tikai ar ieslēgtu zilu mirgojošu bākuguni, bez speciālā skaņas signāla. Vai pārējiem dalībniekiem ir CSN 26. punkta pienākums dot ceļu?",
+      "options": [
+        "Jā, vienmēr jāapstājas",
+        "Nē — 26. punkts attiecas, ja iedegta zilā bākuguns un ieslēgts speciālais skaņas signāls",
+        "Jā, ja tas ir policijas auto",
+        "Jā, tikai ārpus pilsētas"
+      ],
+      "correct": 1,
+      "explain": "CSN 26. punkts prasa dot ceļu, kad operatīvajam transportlīdzeklim ir ieslēgts speciālais skaņas signāls un zilā bākuguns. Tikai zilā gaisma bez skaņas signāla šo speciālo pienākumu nepamato."
+    }
+  },
+  {
+    "id": "n250_189",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 27.",
+    "lv": {
+      "q": "Tuvojas operatīvais ar zilu un sarkanu bākuguni un skaņas signālu. Vadītājiem, kam tas jālaiž garām, jāaptur auto:",
+      "options": [
+        "Pie ietves vai uz nomales, vai iespējami tuvāk labajai malai, ja nomale aizņemta",
+        "Tikai ceļa vidū",
+        "Kreisajā malā",
+        "Uz gājēju pārejas"
+      ],
+      "correct": 0,
+      "explain": "27. punkts nosaka apturēšanas kārtību atkarībā no situācijas."
+    }
+  },
+  {
+    "id": "n250_190",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 30.",
+    "lv": {
+      "q": "Vai operatīvais transportlīdzeklis, pildot neatliekamu dienesta uzdevumu, drīkst neievērot satiksmes regulētāja signālus?",
+      "options": [
+        "Jā",
+        "Nē",
+        "Tikai naktī",
+        "Tikai ar eskortu"
+      ],
+      "correct": 1,
+      "explain": "30. punkts skaidri izslēdz satiksmes regulētāja signālu prasību neievērošanu."
+    }
+  },
+  {
+    "id": "n250_191",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 53.",
+    "lv": {
+      "q": "Ja satiksmes regulētājs vai luksofors aizliedz braukt un ir stoplīnija, transportlīdzekli aptur:",
+      "options": [
+        "Pēc stoplīnijas",
+        "10 m aiz krustojuma",
+        "Tieši pirms stoplīnijas",
+        "Pie nākamās zīmes"
+      ],
+      "correct": 2,
+      "explain": "53. punkts paredz apstāšanos tieši pirms stoplīnijas."
+    }
+  },
+  {
+    "id": "n250_192",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 54.",
+    "lv": {
+      "q": "Ja dzeltenais luksofora signāls iedegas un auto var apstāties tikai ar strauju bremzēšanu, vadītājs:",
+      "options": [
+        "Obligāti strauji bremzē",
+        "Vienmēr apgriežas",
+        "Izslēdz gaismas",
+        "Drīkst turpināt ceļu"
+      ],
+      "correct": 3,
+      "explain": "54. punkts paredz iespēju turpināt, ja apturēšana prasītu strauju bremzēšanu."
+    }
+  },
+  {
+    "id": "n250_193",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 135.",
+    "lv": {
+      "q": "Krustojumā galvenais ceļš maina virzienu. Diviem vadītājiem, kas brauc pa galveno ceļu, savstarpēji jāpiemēro:",
+      "options": [
+        "Vienādas nozīmes ceļu krustojuma noteikumi",
+        "Tikai labās puses noteikums bez izņēmuma",
+        "Vienmēr priekšroka labajā pusē braucošajam",
+        "Nekādi noteikumi"
+      ],
+      "correct": 0,
+      "explain": "135. punkts tieši nosaka šādu kārtību."
+    }
+  },
+  {
+    "id": "n250_194",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 138.",
+    "lv": {
+      "q": "Ja pirms krustojuma nav priekšrocības zīmju un tumsā nav iespējams noteikt šķērsojamā ceļa segumu, vadītājam jāuzskata, ka viņš atrodas:",
+      "options": [
+        "Uz galvenā ceļa",
+        "Uz mazāk svarīga ceļa",
+        "Uz ātrgaitas ceļa",
+        "Dzīvojamā zonā"
+      ],
+      "correct": 1,
+      "explain": "138. punkts paredz uzskatīt sevi par mazāk svarīga ceļa vadītāju."
+    }
+  },
+  {
+    "id": "n250_195",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 78.",
+    "lv": {
+      "q": "Ja transportlīdzekļu trajektorijas krustojas, bet braukšanas secība nav reglamentēta, piemēro:",
+      "options": [
+        "Kreisās puses principu",
+        "Ātruma principu",
+        "Labās puses principu",
+        "Masas principu"
+      ],
+      "correct": 2,
+      "explain": "78. punkts nosaka došanu tam, kuram transportlīdzeklis tuvojas no labās puses."
+    }
+  },
+  {
+    "id": "n250_196",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 55.",
+    "lv": {
+      "q": "Nogriežoties pa kreisi ārpus krustojuma, vadītājam jādod ceļš:",
+      "options": [
+        "Tikai gājējiem",
+        "Tikai sabiedriskajam transportam",
+        "Nevienam",
+        "Pretim braucošajiem un tiem, kas uzsākuši apdzīšanu"
+      ],
+      "correct": 3,
+      "explain": "55. punkts nosaka šādu pienākumu."
+    }
+  },
+  {
+    "id": "n250_197",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 77.",
+    "lv": {
+      "q": "Ja brauktuve ir par šauru apgriešanai no kreisās malas, drīkst apgriezties no labās malas vai nomales, ja:",
+      "options": [
+        "Tas notiek bez citu traucēšanas",
+        "Vienmēr",
+        "Tikai naktī",
+        "Tikai ar avārijas gaismām"
+      ],
+      "correct": 0,
+      "explain": "77. punkts to atļauj, netraucējot citus, ar pienākumu dot ceļu."
+    }
+  },
+  {
+    "id": "n250_198",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 97.",
+    "lv": {
+      "q": "Vai intensīvas satiksmes apstākļos drīkst mainīt joslu tikai tāpēc, lai nokļūtu citā joslā?",
+      "options": [
+        "Jā, vienmēr",
+        "Nē; mainīt joslu atļauts tikai noteiktajiem mērķiem",
+        "Tikai pa kreisi",
+        "Tikai pa labi"
+      ],
+      "correct": 1,
+      "explain": "97. punkts ierobežo joslas maiņu, kad visas joslas ir aizņemtas."
+    }
+  },
+  {
+    "id": "n250_199",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 98.",
+    "lv": {
+      "q": "Mehāniskajiem transportlīdzekļiem pa velojoslu braukt:",
+      "options": [
+        "Vienmēr atļauts",
+        "Atļauts tikai naktī",
+        "Aizliegts, izņemot CSN paredzētos izņēmumus",
+        "Atļauts, ja nav velosipēdistu"
+      ],
+      "correct": 2,
+      "explain": "98. punkts aizliedz braukt pa velojoslām, paredzot konkrētus izņēmumus."
+    }
+  },
+  {
+    "id": "n250_200",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.6.",
+    "lv": {
+      "q": "Vai mopēda vispārējais maksimālais ātrums ir 45 km/h?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "CSN 103.6. mopēdiem nosaka 45 km/h."
+    }
+  },
+  {
+    "id": "n250_201",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "Vai ārpus apdzīvotas vietas vispārējais maksimums ir 90 km/h?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_202",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.2.",
+    "lv": {
+      "q": "Vai, velkot mehānisko transportlīdzekli, drīkst braukt ar 60 km/h, ja nav citas zīmes?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde: Nē."
+    }
+  },
+  {
+    "id": "n250_203",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.8.",
+    "lv": {
+      "q": "Vai elektroskrejritenim vispārējais maksimālais ātrums ir 25 km/h?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_204",
+    "module": "speed",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 99.",
+    "lv": {
+      "q": "Vai vadītājam ātrums jāizvēlas tā, lai varētu savlaicīgi apturēt transportlīdzekli, ņemot vērā redzamību, ceļa un satiksmes apstākļus?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "CSN 99. punkts prasa izvēlēties ātrumu atbilstoši apstākļiem, lai varētu savlaicīgi apturēt transportlīdzekli."
+    }
+  },
+  {
+    "id": "n250_205",
+    "module": "danger",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 81.2.",
+    "lv": {
+      "q": "Vai apgriezties braukšanai pretējā virzienā tunelī ir atļauts, ja tunelis ir tukšs?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 1,
+      "explain": "CSN 81.2. apgriešanās tunelī ir aizliegta neatkarīgi no tā, vai tunelis konkrētajā brīdī ir tukšs."
+    }
+  },
+  {
+    "id": "n250_206",
+    "module": "danger",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 109.3.",
+    "lv": {
+      "q": "Vai apdzīt drīkst uz dzelzceļa pārbrauktuves, ja vilciens nav redzams?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde: Nē."
+    }
+  },
+  {
+    "id": "n250_207",
+    "module": "danger",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 121.2.",
+    "lv": {
+      "q": "Vai apstāšanās uz dzelzceļa pārbrauktuves ir aizliegta?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "CSN 121.2. un 154. aizliedz apstāties uz dzelzceļa pārbrauktuves."
+    }
+  },
+  {
+    "id": "n250_208",
+    "module": "priority",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 142.",
+    "lv": {
+      "q": "Vai dzīvojamā zonā atļauta mācību braukšana?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 1,
+      "explain": "CSN 142. punkts dzīvojamā zonā aizliedz mācību braukšanu."
+    }
+  },
+  {
+    "id": "n250_209",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.10.",
+    "lv": {
+      "q": "Vai pie 207. zīmes stoplīnija nosaka vietu, pirms kuras jāaptur transportlīdzeklis?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_210",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.22.",
+    "lv": {
+      "q": "Vai 943. apzīmējums ir pārtraukta dzeltena līnija?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde: Nē."
+    }
+  },
+  {
+    "id": "n250_211",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.27.",
+    "lv": {
+      "q": "Vai 947. apzīmējumu izmanto kā pagaidu apzīmējumu ceļa darbu vietās?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_212",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.12.",
+    "lv": {
+      "q": "Vai 931. apzīmējums apzīmē gājēju pāreju?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_213",
+    "module": "night",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 160.",
+    "lv": {
+      "q": "Vai diennakts gaišajā laikā drīkst braukt bez jebkādiem priekšējiem lukturiem?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 1,
+      "explain": "Pareizā atbilde: Nē."
+    }
+  },
+  {
+    "id": "n250_214",
+    "module": "night",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 163.2.",
+    "lv": {
+      "q": "Vai tālās gaismas jāmaina uz tuvajām vismaz 150 m attālumā no pretim braucoša auto?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_215",
+    "module": "danger",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 159.2.",
+    "lv": {
+      "q": "Piespiedu apstāšanās uz ātrgaitas ceļa. Kādā minimālajā attālumā aizmugurē jāizliek avārijas zīme?",
+      "options": [
+        "15 m",
+        "50 m",
+        "100 m",
+        "200 m"
+      ],
+      "correct": 2,
+      "explain": "CSN 159.2: uz ātrgaitas ceļa avārijas zīme jāizliek transportlīdzekļa aizmugurē ne mazāk kā 100 m attālumā."
+    }
+  },
+  {
+    "id": "n250_216",
+    "module": "vehicle",
+    "difficulty": 1,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 185.",
+    "lv": {
+      "q": "Vai bērnam, kura augums nepārsniedz 150 cm, automobilī ar drošības jostām nepieciešams atbilstošs bērnu sēdeklītis vai paliktnis?",
+      "options": [
+        "Jā",
+        "Nē"
+      ],
+      "correct": 0,
+      "explain": "Pareizā atbilde: Jā."
+    }
+  },
+  {
+    "id": "n250_217",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "A: Apdzīvotā vietā maksimums ir 50 km/h.\nB: Dzīvojamā zonā maksimums ir 30 km/h.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 101.."
+    }
+  },
+  {
+    "id": "n250_218",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101./103.8.",
+    "lv": {
+      "q": "A: Ārpus apdzīvotas vietas maksimums ir 90 km/h.\nB: Elektroskrejriteņa maksimums ir 45 km/h.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 101./103.8.."
+    }
+  },
+  {
+    "id": "n250_219",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.2./103.3.",
+    "lv": {
+      "q": "A: Velkot mehānisko transportlīdzekli maksimums ir 50 km/h.\nB: Velkot tehnoloģisko agregātu maksimums ir 50 km/h.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 103.2./103.3.."
+    }
+  },
+  {
+    "id": "n250_220",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 104.4.",
+    "lv": {
+      "q": "A: Strauji bremzēt bez drošības vajadzības ir aizliegts.\nB: Vadītājam vienmēr jābrauc ar iespējami lielāko ātrumu.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 104.4.."
+    }
+  },
+  {
+    "id": "n250_221",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 105.",
+    "lv": {
+      "q": "A: Distance jāizvēlas, lai izvairītos no sadursmes.\nB: Distance vienmēr ir tieši 10 m.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 105.."
+    }
+  },
+  {
+    "id": "n250_222",
+    "module": "danger",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 81.1./81.2.",
+    "lv": {
+      "q": "A: Apgriešanās uz gājēju pārejas ir aizliegta.\nB: Apgriešanās tunelī ir aizliegta.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 2,
+      "explain": "A: pareizs; B: pareizs. Atsauce: CSN 81.1./81.2.."
+    }
+  },
+  {
+    "id": "n250_223",
+    "module": "danger",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 109.",
+    "lv": {
+      "q": "A: Apdzīšana uz gājēju pārejas ir aizliegta.\nB: Apdzīšana uz dzelzceļa pārbrauktuves ir atļauta, ja nav vilciena.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 109.."
+    }
+  },
+  {
+    "id": "n250_224",
+    "module": "danger",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 122.1./154.",
+    "lv": {
+      "q": "A: Stāvēšana ārpus apdzīvotas vietas tuvāk par 100 m no pārbrauktuves ir aizliegta.\nB: Apstāšanās uz pārbrauktuves ir atļauta, ja barjera pacelta.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 122.1./154.."
+    }
+  },
+  {
+    "id": "n250_225",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 140./143.",
+    "lv": {
+      "q": "A: Dzīvojamā zonā gājējiem ir priekšroka.\nB: Izbraucot no dzīvojamās zonas, jādod ceļš citiem dalībniekiem.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 2,
+      "explain": "A: pareizs; B: pareizs. Atsauce: CSN 140./143.."
+    }
+  },
+  {
+    "id": "n250_226",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.10./292.12.",
+    "lv": {
+      "q": "A: 929. apzīmējums ir stoplīnija.\nB: 931. apzīmējums apzīmē gājēju pāreju.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 2,
+      "explain": "A: pareizs; B: pareizs. Atsauce: CSN 292.10./292.12.."
+    }
+  },
+  {
+    "id": "n250_227",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.22./292.23.",
+    "lv": {
+      "q": "A: 943. apzīmējums aizliedz apstāties un stāvēt.\nB: 944. apzīmējums aizliedz stāvēt.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 2,
+      "explain": "A: pareizs; B: pareizs. Atsauce: CSN 292.22./292.23.."
+    }
+  },
+  {
+    "id": "n250_228",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.27./292.28.",
+    "lv": {
+      "q": "A: 947. ir pagaidu nepārtraukta dzeltena līnija.\nB: 948. ir pagaidu pārtraukta dzeltena līnija.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 2,
+      "explain": "A: pareizs; B: pareizs. Atsauce: CSN 292.27./292.28.."
+    }
+  },
+  {
+    "id": "n250_229",
+    "module": "night",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 163.2./160.",
+    "lv": {
+      "q": "A: Tālās gaismas jāpārslēdz vismaz 150 m attālumā.\nB: Diennakts gaišajā laikā nav jālieto priekšējie lukturi.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 163.2./160.."
+    }
+  },
+  {
+    "id": "n250_230",
+    "module": "firstaid",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 175.1.–175.2.",
+    "lv": {
+      "q": "Kuri apgalvojumi par avārijas zīmes izvietošanu ir pareizi?\nA: Apdzīvotā vietā minimālais attālums ir 15 m.\nB: Ārpus apdzīvotas vietas minimālais attālums ir 50 m.",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "CSN 175.1. apdzīvotās vietās avārijas zīme jāizliek ne mazāk kā 15 m attālumā; 175.2. ārpus apdzīvotām vietām — ne mazāk kā 100 m (ne 50 m). Pareizs ir tikai A."
+    }
+  },
+  {
+    "id": "n250_231",
+    "module": "vehicle",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 178.",
+    "lv": {
+      "q": "A: Cietajai sakabei maksimums ir 4 m.\nB: Lokanajai sakabei attālums ir 4–6 m.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 2,
+      "explain": "A: pareizs; B: pareizs. Atsauce: CSN 178.."
+    }
+  },
+  {
+    "id": "n250_232",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 183./185.",
+    "lv": {
+      "q": "A: Bērnam līdz 150 cm vajadzīgs atbilstošs bērnu sēdeklītis/paliktņa un josta.\nB: Pasažieru skaitu drīkst palielināt virs dokumentos norādītā, ja visi ir piesprādzēti.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 183./185.."
+    }
+  },
+  {
+    "id": "n250_233",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 98.",
+    "lv": {
+      "q": "A: Velojoslu mehāniskajiem transportlīdzekļiem izmantot ir aizliegts, izņemot noteiktos izņēmumus.\nB: Velojoslu drīkst izmantot vienmēr, ja tajā nav velosipēdistu.\nKurš apgalvojumu kopums ir pareizs?",
+      "options": [
+        "Tikai A",
+        "Tikai B",
+        "Gan A, gan B",
+        "Neviens"
+      ],
+      "correct": 0,
+      "explain": "A: pareizs; B: aplams. Atsauce: CSN 98.."
+    }
+  },
+  {
+    "id": "n250_234",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 101.",
+    "lv": {
+      "q": "Tu iebrauc daudzdzīvokļu nama pagalmā, kas nav apzīmēts kā dzīvojamā zona. Kāds ir maksimālais ātrums, ja nav citas zīmes?",
+      "options": [
+        "30 km/h",
+        "50 km/h",
+        "90 km/h",
+        "20 km/h"
+      ],
+      "correct": 3,
+      "explain": "CSN 101. punkts nosaka 20 km/h arī daudzdzīvokļu namu pagalmos."
+    }
+  },
+  {
+    "id": "n250_235",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 178.",
+    "lv": {
+      "q": "Tu velc bojātu auto ar lokano sakabi. Kāds ir pieļaujamais attālums starp transportlīdzekļiem?",
+      "options": [
+        "4–6 m",
+        "1–3 m",
+        "2–4 m",
+        "6–8 m"
+      ],
+      "correct": 0,
+      "explain": "Lokanojai sakabei jānodrošina 4–6 m attālums."
+    }
+  },
+  {
+    "id": "n250_236",
+    "module": "firstaid",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 175.2.",
+    "lv": {
+      "q": "Pēc piespiedu apstāšanās ārpus apdzīvotas vietas jāizliek avārijas zīme. Kādu minimālo attālumu izvēlies?",
+      "options": [
+        "15 m",
+        "100 m",
+        "25 m",
+        "50 m"
+      ],
+      "correct": 1,
+      "explain": "Ārpus apdzīvotas vietas avārijas zīmei jābūt vismaz 100 m no transportlīdzekļa."
+    }
+  },
+  {
+    "id": "n250_237",
+    "module": "speed",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.4.",
+    "lv": {
+      "q": "Tu ar vieglo auto brauc pa 552. zīmes ceļu laikposmā no 1. decembra līdz 1. martam. Kāds ir maksimālais ātrums, ja nav zemāka ierobežojuma?",
+      "options": [
+        "90 km/h",
+        "100 km/h",
+        "110 km/h",
+        "120 km/h"
+      ],
+      "correct": 2,
+      "explain": "CSN 103.4. no 1. decembra līdz 1. martam vieglajiem automobiļiem uz 552. ceļa maksimums ir 110 km/h (vasaras periodā 120 km/h)."
+    }
+  },
+  {
+    "id": "n250_238",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 138.",
+    "lv": {
+      "q": "Pie krustojuma nav priekšrocības zīmju, un sniegs neļauj noteikt šķērsojamā ceļa segumu. Kādu ceļu tu pieņem, ka šķērso?",
+      "options": [
+        "Galveno",
+        "Vienvirziena",
+        "Ātrgaitas",
+        "Mazāk svarīgo"
+      ],
+      "correct": 3,
+      "explain": "138. punkts paredz šādā situācijā uzskatīt sevi par mazāk svarīga ceļa vadītāju."
+    }
+  },
+  {
+    "id": "n250_239",
+    "module": "danger",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 156.1.",
+    "lv": {
+      "q": "Tu tuvojas dzelzceļa pārbrauktuvei, bet aiz tās redzi sastrēgumu, kurā varētu nākties apstāties. Ko dari?",
+      "options": [
+        "Nebraucu uz pārbrauktuves",
+        "Uzbraucu un gaidu",
+        "Braucu tikai ar avārijas gaismām",
+        "Braucu tikai, ja nav vilciena"
+      ],
+      "correct": 0,
+      "explain": "Uz pārbrauktuves uzbraukt aizliegts, ja aiz tās sastrēgums var piespiest apstāties uz pārbrauktuves."
+    }
+  },
+  {
+    "id": "n250_240",
+    "module": "priority",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 124.",
+    "lv": {
+      "q": "Tu griezies pa labi krustojumā, un gājējs šķērso to brauktuvi, kurā griezies. Ko dari?",
+      "options": [
+        "Dod ceļu tikai auto",
+        "Dod ceļu gājējam",
+        "Signalizē un brauc",
+        "Gaidīt nav nepieciešams"
+      ],
+      "correct": 1,
+      "explain": "Nogriežoties vadītājam jādod ceļš gājējiem, velosipēdu un elektroskrejriteņu vadītājiem, kas šķērso attiecīgo brauktuvi."
+    }
+  },
+  {
+    "id": "n250_241",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 141.",
+    "lv": {
+      "q": "Tu esi dzīvojamā zonā un vēlies atstāt auto uz ielas, bet speciāla stāvvieta ir brīva 30 m tālāk. Ko izvēlies?",
+      "options": [
+        "Stāvu uz ielas, jo tas ir ērtāk",
+        "Stāvu uz ietves",
+        "Izmantoju speciāli paredzēto stāvvietu",
+        "Stāvu pretējā virzienā"
+      ],
+      "correct": 2,
+      "explain": "Dzīvojamā zonā stāvēšana atļauta speciāli paredzētās stāvvietās; citādi tikai tad, ja netraucē un nav pieejama paredzēta vieta."
+    }
+  },
+  {
+    "id": "n250_242",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 53./292.10.",
+    "lv": {
+      "q": "Tu piebrauc STOP zīmei un redzi stoplīniju. Kur jāaptur auto?",
+      "options": [
+        "Pēc krustojuma",
+        "10 m aiz līnijas",
+        "Pie nākamās zīmes",
+        "Tieši pirms stoplīnijas"
+      ],
+      "correct": 3,
+      "explain": "Stoplīnija norāda vietu, pirms kuras jāaptur transportlīdzeklis."
+    }
+  },
+  {
+    "id": "n250_243",
+    "module": "markings",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.22.",
+    "lv": {
+      "q": "Tu redzi nepārtrauktu dzeltenu līniju gar brauktuves malu. Ko tā norāda?",
+      "options": [
+        "Aizliegumu apstāties un stāvēt",
+        "Aizliegumu tikai stāvēt",
+        "Ieteicamu apstāšanos",
+        "Tikai pagaidu ceļa darbu zonu"
+      ],
+      "correct": 0,
+      "explain": "943. apzīmējums aizliedz apstāties un stāvēt."
+    }
+  },
+  {
+    "id": "n250_244",
+    "module": "markings",
+    "difficulty": 2,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 292.23.",
+    "lv": {
+      "q": "Tu redzi pārtrauktu dzeltenu līniju gar malu. Ko tā norāda?",
+      "options": [
+        "Aizliegumu tikai apstāties",
+        "Aizliegumu stāvēt",
+        "Atļauju stāvēt bez ierobežojumiem",
+        "Stoplīniju"
+      ],
+      "correct": 1,
+      "explain": "944. apzīmējums aizliedz stāvēt."
+    }
+  },
+  {
+    "id": "n250_245",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.4.",
+    "lv": {
+      "q": "Tu iebrauc uz ceļa ar 552. zīmi ar vieglo auto vasaras periodā. Kāds ir maksimālais ātrums, ja nav zemāka ierobežojuma?",
+      "options": [
+        "90 km/h",
+        "100 km/h",
+        "120 km/h",
+        "110 km/h"
+      ],
+      "correct": 2,
+      "explain": "103.4. vasaras periodā vieglajam automobilim uz 552. ceļa zīmes apzīmēta ceļa nosaka 120 km/h."
+    }
+  },
+  {
+    "id": "n250_246",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.5.",
+    "lv": {
+      "q": "Tu brauc pa grants ceļu un redzi 90 km/h uz spidometra. Vai ātrums atbilst vispārējam grants ceļa limitam?",
+      "options": [
+        "Jā",
+        "Jā, ja ceļš ir taisns",
+        "Jā, ja nav gājēju",
+        "Nē, maksimums ir 80 km/h"
+      ],
+      "correct": 3,
+      "explain": "Uz grants vai šķembu seguma maksimums ir 80 km/h."
+    }
+  },
+  {
+    "id": "n250_247",
+    "module": "speed",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 103.8.",
+    "lv": {
+      "q": "Tu ar elektroskrejriteni brauc ar 30 km/h. Vai ātrums atbilst vispārējam limitam?",
+      "options": [
+        "Nē, maksimums ir 25 km/h",
+        "Jā",
+        "Jā, ja ir ķivere",
+        "Jā, ja brauc pa velojoslu"
+      ],
+      "correct": 0,
+      "explain": "Elektroskrejriteņa maksimālais ātrums ir 25 km/h."
+    }
+  },
+  {
+    "id": "n250_248",
+    "module": "vehicle",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 183.",
+    "lv": {
+      "q": "Vai pasažieru skaitu automobilī drīkst palielināt virs transportlīdzekļa reģistrācijas dokumentos norādītā, ja visi ir piesprādzēti?",
+      "options": [
+        "Jā",
+        "Nē",
+        "Tikai bērniem",
+        "Tikai pilsētā"
+      ],
+      "correct": 1,
+      "explain": "CSN 183. aizliedz pārvadāt vairāk cilvēku, nekā norādīts transportlīdzekļa reģistrācijas dokumentos."
+    }
+  },
+  {
+    "id": "n250_249",
+    "module": "priority",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 126–131.",
+    "lv": {
+      "q": "Tu tuvojas regulējamai gājēju pārejai, kur gājējs vēl šķērso brauktuvi, bet tev iedegas atļaujošais signāls. Ko dari?",
+      "options": [
+        "Braucu, jo man ir zaļais",
+        "Signalizēju gājējam",
+        "Dod iespēju gājējam pabeigt šķērsošanu",
+        "Apgriežos"
+      ],
+      "correct": 2,
+      "explain": "Vadītājam jāļauj gājējiem pabeigt brauktuves šķērsošanu."
+    }
+  },
+  {
+    "id": "n250_250",
+    "module": "danger",
+    "difficulty": 3,
+    "visual": {
+      "type": "none"
+    },
+    "rule": "CSN 159.3",
+    "lv": {
+      "q": "Tu esi uz ātrgaitas ceļa un palaid garām nobrauktuvi. Vai drīksti apgriezties vai braukt atpakaļgaitā, lai to sasniegtu?",
+      "options": [
+        "Jā",
+        "Tikai ar avārijas gaismām",
+        "Tikai naktī",
+        "Nē"
+      ],
+      "correct": 3,
+      "explain": "Uz ātrgaitas ceļa apgriezties un braukt atpakaļgaitā ir aizliegts."
+    }
+  }
+]

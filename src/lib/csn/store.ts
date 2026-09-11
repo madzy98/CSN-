@@ -27,7 +27,7 @@ import {
   todayKey,
   yesterdayKey,
 } from "./xp";
-import { QUESTIONS, getQuestion, pickQuestionIds } from "./questions";
+import { QUESTIONS, getQuestion, loc, pickQuestionIds } from "./questions";
 
 const DAILY_KINDS: DailyKind[] = ["correct20", "mock", "mistakes", "score80", "fast20"];
 
@@ -276,7 +276,7 @@ export const useCsnStore = create<CsnStore>()(
         if (!a) throw new Error("no session");
         const o = a.questionIds[a.index];
         const s = getQuestion(o);
-        const c = s[i.lang].correct;
+        const c = loc(s, i.lang).correct;
         const l = !timedOut && chosen === c;
         const u = Date.now() - a.questionStartedAt - a.pausedMs;
         const d = { questionId: o, chosen: timedOut ? -1 : chosen, correct: l, timeMs: u };

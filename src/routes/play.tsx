@@ -6,7 +6,7 @@ import { CsnButton } from "@/components/csn/button";
 import { Panel } from "@/components/csn/panel";
 import { QuestionVisual } from "@/components/csn/question-visual";
 import { fill, t } from "@/lib/csn/i18n";
-import { getQuestion } from "@/lib/csn/questions";
+import { getQuestion, loc as questionText } from "@/lib/csn/questions";
 import { useCsnStore } from "@/lib/csn/store";
 import { formatClock, questionSeconds } from "@/lib/csn/xp";
 
@@ -42,7 +42,7 @@ function PlayPage() {
 
   const qid = session?.questionIds[session.index];
   const question = qid ? getQuestion(qid) : null;
-  const loc = question ? question[lang] : null;
+  const loc = question ? questionText(question, lang) : null;
   const limit = session ? questionSeconds(session.mode) * 1000 : 60000;
   const elapsed = session
     ? session.paused

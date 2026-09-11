@@ -67,7 +67,9 @@ export type Visual =
   | { type: "none" }
   | { type: "sign"; sign: string }
   | { type: "marking"; marking: string }
-  | { type: "scene"; scene: string };
+  | { type: "scene"; scene: string }
+  | { type: "image"; src: string }
+  | { type: "video"; src: string };
 
 export type LocaleQuestion = {
   q: string;
@@ -83,7 +85,7 @@ export type Question = {
   visual: Visual;
   rule: string;
   lv: LocaleQuestion;
-  en: LocaleQuestion;
+  en?: LocaleQuestion;
 };
 
 export type AnswerRecord = {

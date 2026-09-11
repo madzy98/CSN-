@@ -1,0 +1,18 @@
+Title (30): CSN+ B theory
+Short (80): CSDD category B theory — 270 questions, official 30-question mock format.
+
+Full:
+CSN+ helps you prepare for the Latvian category B CSDD theory exam.
+
+• 270 questions with signs, markings and scenes
+• Official mock: 30 questions, 30 minutes, at most 3 mistakes
+• Topic path, mistake review, statistics
+• Progress stays on this device — no account
+
+This is a study aid, not the official CSDD exam.
+
+Category: Education
+Content rating: 3+ / Everyone
+Privacy: in-app Settings → Privacy
+
+Google Play requires a signed Android App Bundle (.aab) for new apps. That must be built with Android SDK and your Play Console upload key. This environment has no Android SDK, so an .apk/.aab cannot be compiled here.

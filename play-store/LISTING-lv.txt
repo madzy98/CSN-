@@ -1,0 +1,18 @@
+Nosaukums (30): CSN+ B teorija
+Īsais apraksts (80): B kategorijas CSDD teorija — 270 jautājumi, oficiālais 30 jautājumu formāts.
+
+Pilnais apraksts:
+CSN+ palīdz sagatavoties B kategorijas CSDD teorijas eksāmenam.
+
+• 270 jautājumi ar ceļa zīmēm, apzīmējumiem un situācijām
+• Oficiālais mock: 30 jautājumi, 30 minūtes, ne vairāk par 3 kļūdām
+• Mācību ceļš pa tēmām, kļūdu atkārtošana, statistika
+• Progress paliek šajā ierīcē — bez konta
+
+Šī ir mācību palīglīdzeklis, nevis oficiālais CSDD eksāmens.
+
+Kategorija: Izglītība
+Satura reitings: 3+ / Everyone
+Kontakts / privātums: atveriet lietotnē Iestatījumi → Privātums
+
+Google Play jaunu lietotņu iesniegšanai pieprasa Android App Bundle (.aab), ko paraksta ar jūsu Play Console augšupielādes atslēgu. Šo pakotni veido Android Studio vai CI ar Android SDK. Šajā vidē SDK nav, tāpēc .apk/.aab šeit nevar izveidot.

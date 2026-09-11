@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CSN+",
+      "hasCanvas": false,
+      "bodyTextLen": 311,
+      "bodyTextHash": "b758323b66e226d43a66c4ab6feb06d814aa053f4f7aef8a1ceeea5db2387cb9",
+      "bodyTextPrefix": "CSN+ Līmenis 1 0 XP LV Līmenis 1 0 / 100 XP Sērija 1 d Atveras 3",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CSN+",
+      "hasCanvas": false,
+      "bodyTextLen": 311,
+      "bodyTextHash": "b758323b66e226d43a66c4ab6feb06d814aa053f4f7aef8a1ceeea5db2387cb9",
+      "bodyTextPrefix": "CSN+ Līmenis 1 0 XP LV Līmenis 1 0 / 100 XP Sērija 1 d Atveras 3",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,50 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'lv.csnplus.app'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'lv.csnplus.app'
+        minSdk 24
+        targetSdk 34
+        versionCode 16000
+        versionName '1.6.0'
+    }
+    signingConfigs {
+        release {
+            def store = file('csnplus.jks')
+            if (store.exists()) {
+                storeFile store
+                storePassword System.getenv("CSNPLUS_KEYSTORE_PASSWORD") ?: ""
+                keyAlias 'csnplus'
+                keyPassword System.getenv("CSNPLUS_KEY_PASSWORD") ?: System.getenv("CSNPLUS_KEYSTORE_PASSWORD") ?: ""
+                enableV1Signing true
+                enableV2Signing true
+                enableV3Signing true
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            if (file('csnplus.jks').exists()) {
+                signingConfig signingConfigs.release
+            }
+        }
+        debug {
+            if (file('csnplus.jks').exists()) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+}

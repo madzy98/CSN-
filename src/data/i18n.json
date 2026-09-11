@@ -1,0 +1,514 @@
+{
+  "lv": {
+    "app": "CSN+",
+    "tagline": "B kategorijas teorija",
+    "startExam": "Sākt eksāmenu",
+    "mockExam": "Izlases eksāmens",
+    "practice": "Mācības",
+    "mistakes": "Kļūdas",
+    "stats": "Statistika",
+    "achievements": "Sasniegumi",
+    "settings": "Iestatījumi",
+    "home": "Sākums",
+    "learn": "Mācīties",
+    "exam": "Eksāmens",
+    "continue": "Turpināt",
+    "next": "Tālāk",
+    "confirm": "Apstiprināt",
+    "skipSplash": "Sākt",
+    "splashTap": "Pieskaries, lai sāktu",
+    "language": "Valoda",
+    "theme": "Motīvs",
+    "examSize": "Jautājumu skaits",
+    "sound": "Skaņa",
+    "focus": "Fokusa režīms",
+    "reset": "Atiestatīt progresu",
+    "resetConfirm": "Dzēst visu progresu? Šo nevar atsaukt.",
+    "cancel": "Atcelt",
+    "yesReset": "Dzēst",
+    "level": "Līmenis",
+    "xp": "XP",
+    "streak": "Sērija",
+    "dayStreak": "dienu sērija",
+    "dailyChallenge": "Dienas izaicinājums",
+    "claim": "Saņemt",
+    "completed": "Pabeigts",
+    "locked": "Slēgts",
+    "unlockAt": "Atveras {level}. līmenī",
+    "pass": "Nokārtots",
+    "fail": "Nav nokārtots",
+    "score": "Rezultāts",
+    "time": "Laiks",
+    "xpEarned": "Iegūtie XP",
+    "review": "Pārskats",
+    "retry": "Mēģināt vēlreiz",
+    "homeBtn": "Uz sākumu",
+    "correct": "Pareizi",
+    "wrong": "Nepareizi",
+    "explanation": "Skaidrojums",
+    "rule": "CSN atsauce",
+    "questionOf": "{n} no {total}",
+    "remaining": "Atlicis",
+    "pause": "Pauze",
+    "resume": "Turpināt",
+    "quit": "Pārtraukt",
+    "quitConfirm": "Pārtraukt eksāmenu? Progress šajā mēģinājumā tiks zaudēts.",
+    "timesUp": "Laiks beidzies",
+    "youChose": "Jūsu atbilde",
+    "rightAnswer": "Pareizā atbilde",
+    "noMistakes": "Nav saglabātu kļūdu. Turpiniet mācīties!",
+    "mistakeExam": "Kļūdu eksāmens",
+    "needMistakes": "Vajag vismaz {n} kļūdas, lai atvērtu kļūdu eksāmenu.",
+    "weakTopics": "Vājās tēmas",
+    "strongTopics": "Stiprās tēmas",
+    "mastery": "Pārvaldība",
+    "recommended": "Ieteicams tālāk",
+    "startModule": "Sākt moduli",
+    "allQuestions": "Visi jautājumi",
+    "history": "Vēsture",
+    "avgScore": "Vidējais rezultāts",
+    "examsTaken": "Eksāmeni",
+    "timeLearning": "Mācību laiks",
+    "improvement": "Progress",
+    "noneYet": "Vēl nav datu — nokārtojiet pirmo eksāmenu.",
+    "modes": "Režīmi",
+    "officialMock": "Oficiālais formāts",
+    "officialHint": "30 jautājumi · 30 min · max 3 kļūdas",
+    "customSize": "Pielāgots skaits",
+    "speedMode": "Ātruma režīms",
+    "speedHint": "30 sekundes uz jautājumu",
+    "hardcore": "Hardcore",
+    "hardcoreHint": "0 kļūdas atļautas",
+    "elite": "Elites režīms",
+    "eliteHint": "Tikai visgrūtākie jautājumi",
+    "marathon": "Maratons",
+    "marathonHint": "200 jautājumi",
+    "replay": "Atkārtot pēdējo",
+    "nightPack": "Nakts braukšana",
+    "weatherPack": "Laikapstākļi",
+    "vehiclePack": "Transportlīdzekļa zināšanas",
+    "passNeed": "Lai nokārtotu, kļūdas ≤ {n}",
+    "perfect": "Ideāls rezultāts",
+    "fastBonus": "Ātrā atbilde",
+    "streakBonus": "Sērijas bonuss",
+    "nextLevel": "Nākamais līmenis",
+    "features": "Atvērtās funkcijas",
+    "on": "Ieslēgts",
+    "off": "Izslēgts",
+    "adminMode": "Admin režīms",
+    "adminHint": "Atver visus režīmus, tēmas un motīvus. XP un rezultāti paliek īsti.",
+    "privacy": "Privātums",
+    "downloadApk": "Lejupielādēt APK 1.6.0",
+    "downloadApkHint": "Jaunā pakotne — 1.5.3 nav jādzēš. Lejupielādes → CSNplus-1.6.0.apk → Instalēt (atļauj no Chrome/Failiem).",
+    "basic": "Pamata",
+    "dark": "Tumšais",
+    "neon": "Neona ciāns",
+    "pro": "Pro tumšais",
+    "todayXp": "Šodien",
+    "questions": "jautājumi",
+    "min": "min",
+    "sec": "s",
+    "ready": "Gatavojies B kategorijas eksāmenam",
+    "readyBody": "30 jautājumi, 30 minūtes, ne vairāk par 3 kļūdām — tieši kā oficiālajā eksāmenā.",
+    "start30": "Sākt 30 jautājumus",
+    "learnPath": "Mācību ceļš",
+    "lastResult": "Pēdējais rezultāts",
+    "viewAll": "Skatīt visus",
+    "emptyHistory": "Vēl nav eksāmenu",
+    "insights": "Kļūdu ieskati",
+    "pattern": "Biežākā kļūda",
+    "related": "Saistīti jautājumi",
+    "keepGoing": "Turpiniet — jūs tuvu mērķim.",
+    "master": "Meistars",
+    "challengeDone": "Izaicinājums izpildīts",
+    "challengeKinds": {
+      "correct20": "Atbildi pareizi uz 20 jautājumiem",
+      "mock": "Nokārto vienu izlases eksāmenu",
+      "mistakes": "Pabeidz kļūdu eksāmenu",
+      "score80": "Iegūsti vismaz 80% eksāmenā",
+      "fast20": "Pabeidz eksāmenu ātrāk par 20 minūtēm"
+    },
+    "modules": {
+      "signs": {
+        "name": "Ceļa zīmes",
+        "blurb": "Brīdinājuma, aizlieguma, rīkojuma un norādes zīmes."
+      },
+      "markings": {
+        "name": "Ceļa apzīmējumi",
+        "blurb": "Līnijas, pārejas, bultas un šķērsošanas zonas."
+      },
+      "priority": {
+        "name": "Priekšroka",
+        "blurb": "Krustojumi, apļi, tramvajs un avārijas transportlīdzekļi."
+      },
+      "speed": {
+        "name": "Ātrums",
+        "blurb": "Limiti pilsētā, ārpus tās, autoceļos un ziemā."
+      },
+      "vehicle": {
+        "name": "Transportlīdzeklis",
+        "blurb": "Aprīkojums, riepas, gaismas un dokumenti."
+      },
+      "firstaid": {
+        "name": "Pirmā palīdzība",
+        "blurb": "Rīcība CSNg, ievainojumi, izsaukums 112."
+      },
+      "danger": {
+        "name": "Bīstamas situācijas",
+        "blurb": "Apdzīšana, akla zona, pēkšņi šķēršļi."
+      },
+      "night": {
+        "name": "Nakts braukšana",
+        "blurb": "Tuvās/tālās gaismas, apžilbināšana, redzamība."
+      },
+      "weather": {
+        "name": "Laikapstākļi",
+        "blurb": "Lietus, sniegs, ledus, migla un vējš."
+      }
+    },
+    "examModes": {
+      "mock": "Izlases eksāmens",
+      "practice": "Treniņš",
+      "mistakes": "Kļūdu eksāmens",
+      "challenge": "Dienas izaicinājums",
+      "speed": "Ātruma režīms",
+      "hardcore": "Hardcore",
+      "elite": "Elites režīms",
+      "marathon": "Maratons",
+      "replay": "Atkārtojums"
+    },
+    "featuresMap": {
+      "dark-mode": "Tumšais motīvs",
+      "daily-challenge": "Dienas izaicinājums",
+      "speed-mode": "Ātruma režīms",
+      "early-mistakes": "Agrīnais kļūdu eksāmens",
+      "neon-theme": "Neona ciāna motīvs",
+      "button-fx": "Animētas pogas",
+      "exam-music": "Eksāmena fons",
+      "focus-mode": "Fokusa režīms",
+      "pro-stats": "Pro statistika",
+      "hardcore": "Hardcore režīms",
+      "night-pack": "Nakts braukšanas pakotne",
+      "weather-pack": "Laikapstākļu pakotne",
+      "vehicle-pack": "Auto zināšanu pakotne",
+      "custom-size": "Pielāgots eksāmena izmērs",
+      "exam-replay": "Eksāmena atkārtojums",
+      "mistake-insights": "Kļūdu ieskati",
+      "elite-mode": "Elites režīms",
+      "dynamic-scenes": "Dinamiskas situācijas",
+      "pro-dark": "Pro tumšais motīvs",
+      "marathon": "Eksāmena maratons",
+      "master-badge": "Meistara nozīmīte"
+    },
+    "badgeList": {
+      "firstSteps": {
+        "name": "Pirmie soļi",
+        "desc": "Atbildi uz pirmo jautājumu."
+      },
+      "noFear": {
+        "name": "Bez bailēm",
+        "desc": "Pabeidz pirmo izlases eksāmenu."
+      },
+      "speedDemon": {
+        "name": "Ātruma dēmons",
+        "desc": "Atbildi pareizi ātrāk par 8 sekundēm."
+      },
+      "comeback": {
+        "name": "Atgriešanās",
+        "desc": "Izlabo 20 iepriekšējās kļūdas."
+      },
+      "streakMaster": {
+        "name": "Sērijas meistars",
+        "desc": "7 dienu sērija."
+      },
+      "knowledgeKing": {
+        "name": "Zināšanu karalis",
+        "desc": "90%+ trīs eksāmenos pēc kārtas."
+      },
+      "nightRider": {
+        "name": "Nakts braucējs",
+        "desc": "Pārvaldi nakts braukšanas moduli 80%+."
+      },
+      "weatherWarrior": {
+        "name": "Laikapstākļu karotājs",
+        "desc": "Pārvaldi laikapstākļu moduli 80%+."
+      },
+      "eliteDriver": {
+        "name": "Elites vadītājs",
+        "desc": "Nokārto elites režīmu."
+      },
+      "masterDriver": {
+        "name": "Meistars",
+        "desc": "Sasniedz 50. līmeni."
+      }
+    },
+    "splashKicker": "Gatavojies B kategorijas eksāmenam",
+    "timedOut": "Laiks šim jautājumam beidzās — ieskaitīts kā kļūda.",
+    "selectAnswer": "Izvēlies atbildi",
+    "resultsTitle": "Eksāmena rezultāts",
+    "passedBody": "Apsveicam — šis rezultāts atbilst oficiālajam slieksnim.",
+    "failedBody": "Vēl nedaudz treniņa. Izskatiet kļūdas un mēģiniet vēlreiz.",
+    "filterAll": "Visi",
+    "filterWrong": "Tikai kļūdas",
+    "noHistory": "Nav vēstures",
+    "lockedHint": "Turpiniet mācīties, lai atvērtu.",
+    "newUnlock": "Jauna funkcija atvērta",
+    "days": "d"
+  },
+  "en": {
+    "app": "CSN+",
+    "tagline": "Category B theory",
+    "startExam": "Start exam",
+    "mockExam": "Mock exam",
+    "practice": "Learn",
+    "mistakes": "Mistakes",
+    "stats": "Statistics",
+    "achievements": "Achievements",
+    "settings": "Settings",
+    "home": "Home",
+    "learn": "Learn",
+    "exam": "Exam",
+    "continue": "Continue",
+    "next": "Next",
+    "confirm": "Confirm",
+    "skipSplash": "Start",
+    "splashTap": "Tap to start",
+    "language": "Language",
+    "theme": "Theme",
+    "examSize": "Question count",
+    "sound": "Sound",
+    "focus": "Focus mode",
+    "reset": "Reset progress",
+    "resetConfirm": "Delete all progress? This cannot be undone.",
+    "cancel": "Cancel",
+    "yesReset": "Delete",
+    "level": "Level",
+    "xp": "XP",
+    "streak": "Streak",
+    "dayStreak": "day streak",
+    "dailyChallenge": "Daily challenge",
+    "claim": "Claim",
+    "completed": "Completed",
+    "locked": "Locked",
+    "unlockAt": "Unlocks at level {level}",
+    "pass": "Passed",
+    "fail": "Not passed",
+    "score": "Score",
+    "time": "Time",
+    "xpEarned": "XP earned",
+    "review": "Review",
+    "retry": "Try again",
+    "homeBtn": "Home",
+    "correct": "Correct",
+    "wrong": "Incorrect",
+    "explanation": "Explanation",
+    "rule": "CSN reference",
+    "questionOf": "{n} of {total}",
+    "remaining": "Left",
+    "pause": "Pause",
+    "resume": "Resume",
+    "quit": "Quit",
+    "quitConfirm": "Quit this exam? Progress for this attempt will be lost.",
+    "timesUp": "Time is up",
+    "youChose": "Your answer",
+    "rightAnswer": "Correct answer",
+    "noMistakes": "No saved mistakes. Keep practising.",
+    "mistakeExam": "Mistake exam",
+    "needMistakes": "You need at least {n} mistakes to unlock the mistake exam.",
+    "weakTopics": "Weak topics",
+    "strongTopics": "Strong topics",
+    "mastery": "Mastery",
+    "recommended": "Recommended next",
+    "startModule": "Start module",
+    "allQuestions": "All questions",
+    "history": "History",
+    "avgScore": "Average score",
+    "examsTaken": "Exams",
+    "timeLearning": "Time learning",
+    "improvement": "Progress",
+    "noneYet": "No data yet — complete your first exam.",
+    "modes": "Modes",
+    "officialMock": "Official format",
+    "officialHint": "30 questions · 30 min · max 3 mistakes",
+    "customSize": "Custom size",
+    "speedMode": "Speed mode",
+    "speedHint": "30 seconds per question",
+    "hardcore": "Hardcore",
+    "hardcoreHint": "Zero mistakes allowed",
+    "elite": "Elite mode",
+    "eliteHint": "Hardest questions only",
+    "marathon": "Marathon",
+    "marathonHint": "200 questions",
+    "replay": "Replay last exam",
+    "nightPack": "Night driving",
+    "weatherPack": "Weather pack",
+    "vehiclePack": "Vehicle knowledge",
+    "passNeed": "To pass, mistakes ≤ {n}",
+    "perfect": "Perfect score",
+    "fastBonus": "Fast answer",
+    "streakBonus": "Streak bonus",
+    "nextLevel": "Next level",
+    "features": "Unlocked features",
+    "on": "On",
+    "off": "Off",
+    "adminMode": "Admin mode",
+    "adminHint": "Unlocks every mode, topic and theme. XP and results stay real.",
+    "privacy": "Privacy",
+    "downloadApk": "Download APK 1.6.0",
+    "downloadApkHint": "New package — keep 1.5.3 if you want. Downloads → CSNplus-1.6.0.apk → Install (allow Chrome/Files).",
+    "basic": "Basic",
+    "dark": "Dark",
+    "neon": "Neon cyan",
+    "pro": "Pro dark",
+    "todayXp": "Today",
+    "questions": "questions",
+    "min": "min",
+    "sec": "s",
+    "ready": "Get ready for the category B exam",
+    "readyBody": "30 questions, 30 minutes, no more than 3 mistakes — just like the official exam.",
+    "start30": "Start 30 questions",
+    "learnPath": "Learning path",
+    "lastResult": "Last result",
+    "viewAll": "View all",
+    "emptyHistory": "No exams yet",
+    "insights": "Mistake insights",
+    "pattern": "Most common miss",
+    "related": "Related questions",
+    "keepGoing": "Keep going — you are close.",
+    "master": "Master",
+    "challengeDone": "Challenge complete",
+    "challengeKinds": {
+      "correct20": "Answer 20 questions correctly",
+      "mock": "Complete one mock exam",
+      "mistakes": "Finish a mistake exam",
+      "score80": "Score at least 80% on an exam",
+      "fast20": "Finish an exam in under 20 minutes"
+    },
+    "modules": {
+      "signs": {
+        "name": "Road signs",
+        "blurb": "Warning, prohibitory, mandatory and information signs."
+      },
+      "markings": {
+        "name": "Road markings",
+        "blurb": "Lines, crossings, arrows and hatched zones."
+      },
+      "priority": {
+        "name": "Priority rules",
+        "blurb": "Junctions, roundabouts, trams and emergency vehicles."
+      },
+      "speed": {
+        "name": "Speed limits",
+        "blurb": "Urban, rural, motorway and winter limits."
+      },
+      "vehicle": {
+        "name": "Vehicle knowledge",
+        "blurb": "Equipment, tyres, lights and documents."
+      },
+      "firstaid": {
+        "name": "First aid",
+        "blurb": "Crash response, injuries, calling 112."
+      },
+      "danger": {
+        "name": "Dangerous situations",
+        "blurb": "Overtaking, blind spots, sudden obstacles."
+      },
+      "night": {
+        "name": "Night driving",
+        "blurb": "Dipped/main beam, dazzle, visibility."
+      },
+      "weather": {
+        "name": "Weather",
+        "blurb": "Rain, snow, ice, fog and wind."
+      }
+    },
+    "examModes": {
+      "mock": "Mock exam",
+      "practice": "Practice",
+      "mistakes": "Mistake exam",
+      "challenge": "Daily challenge",
+      "speed": "Speed mode",
+      "hardcore": "Hardcore",
+      "elite": "Elite mode",
+      "marathon": "Marathon",
+      "replay": "Replay"
+    },
+    "featuresMap": {
+      "dark-mode": "Dark mode",
+      "daily-challenge": "Daily challenge",
+      "speed-mode": "Speed mode",
+      "early-mistakes": "Early mistake exam",
+      "neon-theme": "Neon cyan theme",
+      "button-fx": "Animated buttons",
+      "exam-music": "Exam ambience",
+      "focus-mode": "Focus mode",
+      "pro-stats": "Pro statistics",
+      "hardcore": "Hardcore mode",
+      "night-pack": "Night driving pack",
+      "weather-pack": "Weather situations pack",
+      "vehicle-pack": "Advanced car knowledge pack",
+      "custom-size": "Custom exam size",
+      "exam-replay": "Exam replay",
+      "mistake-insights": "Mistake insights",
+      "elite-mode": "Elite mode",
+      "dynamic-scenes": "Dynamic situations",
+      "pro-dark": "Pro dark mode",
+      "marathon": "Exam marathon",
+      "master-badge": "Master driver badge"
+    },
+    "badgeList": {
+      "firstSteps": {
+        "name": "First Steps",
+        "desc": "Answer your first question."
+      },
+      "noFear": {
+        "name": "No Fear",
+        "desc": "Finish your first mock exam."
+      },
+      "speedDemon": {
+        "name": "Speed Demon",
+        "desc": "Answer correctly in under 8 seconds."
+      },
+      "comeback": {
+        "name": "Comeback",
+        "desc": "Correct 20 previous mistakes."
+      },
+      "streakMaster": {
+        "name": "Streak Master",
+        "desc": "Keep a 7-day streak."
+      },
+      "knowledgeKing": {
+        "name": "Knowledge King",
+        "desc": "Score 90%+ on three exams in a row."
+      },
+      "nightRider": {
+        "name": "Night Rider",
+        "desc": "Reach 80%+ mastery in night driving."
+      },
+      "weatherWarrior": {
+        "name": "Weather Warrior",
+        "desc": "Reach 80%+ mastery in weather."
+      },
+      "eliteDriver": {
+        "name": "Elite Driver",
+        "desc": "Pass elite mode."
+      },
+      "masterDriver": {
+        "name": "Master Driver",
+        "desc": "Reach level 50."
+      }
+    },
+    "splashKicker": "Get ready for the category B exam",
+    "timedOut": "Time ran out on this question — counted as incorrect.",
+    "selectAnswer": "Choose an answer",
+    "resultsTitle": "Exam result",
+    "passedBody": "Well done — this meets the official pass mark.",
+    "failedBody": "A little more practice. Review the mistakes and try again.",
+    "filterAll": "All",
+    "filterWrong": "Mistakes only",
+    "noHistory": "No history",
+    "lockedHint": "Keep learning to unlock.",
+    "newUnlock": "New feature unlocked",
+    "days": "d"
+  }
+}

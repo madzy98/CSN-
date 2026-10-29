@@ -1064,5 +1064,101 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Zaļš taisnstūris, viena bulta pa labi uz leju. Sakrīt ar officialSigns.json «Virziena rādītājs». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "705",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļš taisnstūris, bulta pa kreisi uz leju. Rīga ir paraugs. Sakrīt ar officialSigns.json «Virziena rādītājs». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "706",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, bulta pa labi uz leju. Rīga ir paraugs. Sakrīt ar officialSigns.json «Virziena rādītājs». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "707",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļš taisnstūris, attālumi 120, 80 un 40 km. Vietvārdi un skaitļi ir paraugs. Sakrīt ar officialSigns.json «Attālumu rādītājs». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "708",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, Gauja. Sakrīt ar officialSigns.json «Ūdensšķēršļa nosaukums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "709",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļa shēma ar bultiņu un apļveida krustojumu. Sakrīt ar officialSigns.json «Braukšanas shēma». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "710",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, balta bulta apšķeļ melnu taisnstūri no labās. Sakrīt ar officialSigns.json «Šķēršļa apbraukšanas virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "711",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, balta josla ar sarkanu šķērsjoslu augšā. Sakrīt ar officialSigns.json «Strupceļš». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "712",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, balta bulta pa kreisi uz augšu, sarkana josla galā. Sakrīt ar officialSigns.json «Iepriekšējs virziena rādītājs strupceļam». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "713",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, balta bulta pa labi uz augšu, sarkana josla galā. Spogulis 712. Sakrīt ar officialSigns.json «Iepriekšējs virziena rādītājs strupceļam». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "714",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļš taisnstūris, balta josla paplašinās uz augšu. Zaļais variants. Sakrīt ar officialSigns.json «Joslas sākums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "715",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, tā pati paplašināšanās. Zilais variants. Sakrīt ar officialSigns.json «Joslas sākums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "716",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļš taisnstūris, josla sašaurinās. Zaļais variants. Sakrīt ar officialSigns.json «Joslas beigas». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "717",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, tā pati sašaurināšanās. Zilais variants. Sakrīt ar officialSigns.json «Joslas beigas». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "718",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļš taisnstūris, trīs joslas: pa kreisi, taisni, pa labi. Sakrīt ar officialSigns.json «Braukšanas virzieni joslās». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "719",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, tās pašas trīs joslas. Sakrīt ar officialSigns.json «Braukšanas virzieni joslās». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "720",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balts taisnstūris, melnas bultas tajās pašās trīs joslās. Sakrīt ar officialSigns.json «Braukšanas virzieni joslās». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

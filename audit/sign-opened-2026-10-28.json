@@ -117,7 +117,7 @@
   {
     "id": "114",
     "result": "DIFFERENCE",
-    "note": "Oficiālajā JPG ir ceļš ar melnu nomales ķīli. Lietotnes PNG ir perspektīvs ceļš ar pārtrauktu ass līniju, bez nomales ķīļa. Katalogs: Ceļa seguma maiņa. Nav pārzīmēta.",
+    "note": "Oficiālais JPG (katalogs: Ceļa seguma maiņa) rāda ceļu perspektīvā ar melnu laukumu vienā malā. Lietotnes PNG rāda divas joslas ar pārtrauktu ass līniju un bez tā melnā laukuma. Nav pārzīmēta.",
     "official_raster": false,
     "reopened": "2026-10-29",
     "official_vs_png": "DIFFERENCE",

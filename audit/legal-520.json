@@ -1780,20 +1780,22 @@
   {
     "id": "fa002",
     "status": "NEEDS_REVIEW",
-    "provision": "Pirmās palīdzības soļa „vispirms pārliecinies, ka vieta ir droša” CSN 39",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Pirmā rīcība CSNg vietā — pārbaudīt drošību — šajā izvilkumā nav.",
-    "evidence": "Pirmā rīcība CSNg vietā — pārbaudīt drošību — šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "provision": "CSL 27.p.",
+    "url": "https://likumi.lv/ta/id/45467-celu-satiksmes-likums",
+    "reason": "Ceļu satiksmes likuma 27. panta pirmā daļa prasa darīt visu iespējamo, lai sniegtu pirmo palīdzību. Otrā daļa vispirms prasa apstāties, palikt vietā, ieslēgt avārijas gaismas un uzstādīt avārijas zīmi. «Vispirms pārbaudīt, vai vieta ir droša» šajā pantā nav kā pirmā darbība, tāpēc PASS nav.",
+    "evidence": "Ceļu satiksmes likuma 27. panta pirmā daļa prasa darīt visu iespējamo, lai sniegtu pirmo palīdzību. Otrā daļa vispirms prasa apstāties, palikt vietā, ieslēgt avārijas gaismas un uzstādīt avārijas zīmi. «Vispirms pārbaudīt, vai vieta ir droša» šajā pantā nav kā pirmā darbība, tāpēc PASS nav.",
+    "verified": "2026-10-29",
+    "source_note": "Rechecked 2026-10-29 against Ceļu satiksmes likuma 27. pantu and the full CSN page. Status unchanged."
   },
   {
     "id": "fa003",
     "status": "NEEDS_REVIEW",
-    "provision": "39",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "173.2. prasa avārijas gaismas un avārijas zīmi. 25.6. vesti prasa tikai tumsā vai sliktā redzamībā, nevis vienmēr.",
-    "evidence": "173.2. prasa avārijas gaismas un avārijas zīmi. 25.6. vesti prasa tikai tumsā vai sliktā redzamībā, nevis vienmēr.",
-    "verified": "2026-10-29"
+    "provision": "CSL 27.p. 2.daļa",
+    "url": "https://likumi.lv/ta/id/45467-celu-satiksmes-likums",
+    "reason": "27. panta otrās daļas 1. un 2. punkts prasa avārijas gaismas, avārijas zīmi un palīdzības izsaukšanu, ja ir cietušie. Atstarojošo vesti vienmēr 27. pants neprasa. CSN 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga pievieno vesti vienmēr, tāpēc nav PASS.",
+    "evidence": "27. panta otrās daļas 1. un 2. punkts prasa avārijas gaismas, avārijas zīmi un palīdzības izsaukšanu, ja ir cietušie. Atstarojošo vesti vienmēr 27. pants neprasa. CSN 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga pievieno vesti vienmēr, tāpēc nav PASS.",
+    "verified": "2026-10-29",
+    "source_note": "Rechecked 2026-10-29 against Ceļu satiksmes likuma 27. pantu and the full CSN page. Status unchanged."
   },
   {
     "id": "fa004",
@@ -2105,11 +2107,12 @@
   {
     "id": "dg021",
     "status": "NEEDS_REVIEW",
-    "provision": "173.2, 175.2, 25.6",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "173.2. prasa avārijas gaismas un zīmi pēc CSNg, 175.2. ārpus apdzīvotas vietas vismaz 100 m. Veste vienmēr, izkāpšana drošajā pusē un novietošana uz nomales šajos punktos nav.",
-    "evidence": "173.2. prasa avārijas gaismas un zīmi pēc CSNg, 175.2. ārpus apdzīvotas vietas vismaz 100 m. Veste vienmēr, izkāpšana drošajā pusē un novietošana uz nomales šajos punktos nav.",
-    "verified": "2026-10-29"
+    "provision": "CSN 159.² un 175.2.",
+    "url": "https://likumi.lv/ta/id/45467-celu-satiksmes-likums",
+    "reason": "CSN 159.² prasa ātrgaitas ceļa piespiedu apstāšanos uz nomales, avārijas gaismas un zīmi vismaz 100 m. 175.2. ārpus apdzīvotas vietas arī prasa vismaz 100 m. Veste vienmēr un izkāpšana «drošajā pusē» šajos punktos nav, tāpēc nav PASS.",
+    "evidence": "CSN 159.² prasa ātrgaitas ceļa piespiedu apstāšanos uz nomales, avārijas gaismas un zīmi vismaz 100 m. 175.2. ārpus apdzīvotas vietas arī prasa vismaz 100 m. Veste vienmēr un izkāpšana «drošajā pusē» šajos punktos nav, tāpēc nav PASS.",
+    "verified": "2026-10-29",
+    "source_note": "Rechecked 2026-10-29 against Ceļu satiksmes likuma 27. pantu and the full CSN page. Status unchanged."
   },
   {
     "id": "dg022",

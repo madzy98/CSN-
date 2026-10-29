@@ -1,52 +1,66 @@
 [
   {
     "id": "101",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, melns krusts. Sakrīt ar «Vienādas nozīmes ceļu krustojums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/101.jpg. Katalogs: Vienādas nozīmes ceļu krustojums. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "102",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, trīs bultas pretēji pulksteņrādītājam. Sakrīt ar «Lokveida krustojums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/102.jpg. Katalogs: Lokveida krustojums. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "103",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, pagrieziens pa labi. Sakrīt ar «Bīstams pagrieziens». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/103.jpg. Katalogs: Bīstams pagrieziens. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "104",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, pagrieziens pa kreisi. Sakrīt ar «Bīstams pagrieziens». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/104.jpg. Katalogs: Bīstams pagrieziens. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "105",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, pirmais pagrieziens pa labi. Sakrīt ar «Bīstami pagriezieni». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/105.jpg. Katalogs: Bīstami pagriezieni. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "106",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, pirmais pagrieziens pa kreisi. Sakrīt ar «Bīstami pagriezieni». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/106.jpg. Katalogs: Bīstami pagriezieni. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "107",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, sašaurinājums no abām pusēm. Sakrīt ar «Ceļa sašaurinājums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/107.jpg. Katalogs: Ceļa sašaurinājums. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "108",
@@ -57,59 +71,75 @@
   },
   {
     "id": "109",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, sašaurinājums no kreisās puses. Sakrīt ar «Ceļa sašaurinājums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/109.jpg. Katalogs: Ceļa sašaurinājums. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "110",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, kritums pa labi, 10%. Skaitlis ir paraugs. Sakrīt ar «Stāvs lejupceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "DIFFERENCE",
+    "note": "Oficiālajā JPG ir kritums ar 12%. Lietotnes PNG ir 10% un melnais laukums ir pretējā pusē. Katalogs: Stāvs lejupceļš. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "DIFFERENCE",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "111",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, kāpums pa labi, 12%. Skaitlis ir paraugs. Sakrīt ar «Stāvs augšupceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "DIFFERENCE",
+    "note": "Oficiālajā JPG ir kāpums ar 10%. Lietotnes PNG ir 12%. Katalogs: Stāvs augšupceļš. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "DIFFERENCE",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "112",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, divi ceļa nelīdzenumi. Sakrīt ar «Nelīdzens ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/112.jpg. Katalogs: Nelīdzens ceļš. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "113",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, viens ātrumvalnis. Sakrīt ar «Ātrumvalnis». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/113.jpg. Katalogs: Ātrumvalnis. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "114",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, divi atšķirīgi segumi. Sakrīt ar «Ceļa seguma maiņa». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "DIFFERENCE",
+    "note": "Oficiālajā JPG ir ceļš ar melnu nomales ķīli. Lietotnes PNG ir perspektīvs ceļš ar pārtrauktu ass līniju, bez nomales ķīļa. Katalogs: Ceļa seguma maiņa. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "DIFFERENCE",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "115",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, auto slīd. Sakrīt ar «Slidens ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/115.jpg. Katalogs: Slidens ceļš. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "116",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, no riteņiem lec šķembas. Sakrīt ar «Uzbērta grants vai šķembas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/116.jpg. Katalogs: Uzbērta grants vai šķembas. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "117",
@@ -120,17 +150,21 @@
   },
   {
     "id": "118",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, strādnieks ar lāpstu. Sakrīt ar «Uz ceļa strādā». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/118.jpg. Katalogs: Uz ceļa strādā. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "119",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, auto riteņi nobrauc no ceļa malas uz akmeņiem. Sakrīt ar «Ceļš ar bīstamām nomalēm». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/119.jpg. Katalogs: Ceļš ar bīstamām nomalēm. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "120",
@@ -281,17 +315,21 @@
   },
   {
     "id": "141",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Balta plāksne, viena sarkana diagonāle, slīpums kā 137. Sakrīt ar «Tuvojas dzelzceļa pārbrauktuve». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/141.jpg. Katalogs: Tuvojas dzelzceļa pārbrauktuve. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "142",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, izsaukuma zīme. Sakrīt ar «Bīstami». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG un oficiālais JPG abi ir brīdinājuma trijstūris ar izsaukuma zīmi. Katalogs: Bīstami. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "143",
@@ -302,38 +340,48 @@
   },
   {
     "id": "201",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Dzeltens rombs ar baltu apmali. Sakrīt ar «Galvenais ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/201.jpg. Katalogs: Galvenais ceļš. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "202",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Dzeltens rombs, trīs melnas svītras. Sakrīt ar «Galvenā ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/202.jpg. Katalogs: Galvenā ceļa beigas. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "203",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, resnā līnija taisni, tievās uz abām pusēm. Sakrīt ar «Krustojums ar mazāk svarīgu ceļu». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/203.jpg. Katalogs: Krustojums ar mazāk svarīgu ceļu. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "204",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, sānu ceļš no labās. Sakrīt ar «Krustojums ar mazāk svarīgu ceļu». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/204.jpg. Katalogs: Krustojums ar mazāk svarīgu ceļu. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "205",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans trīsstūris, sānu ceļš no kreisās. Sakrīt ar «Krustojums ar mazāk svarīgu ceļu». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/205.jpg. Katalogs: Krustojums ar mazāk svarīgu ceļu. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "206",
@@ -470,10 +518,12 @@
   },
   {
     "id": "316",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Sarkans aplis, pārsvītrota kreisā bulta. Sakrīt ar «Nogriezties pa kreisi aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/316.jpg. Katalogs: Nogriezties pa kreisi aizliegts. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "317",
@@ -806,17 +856,21 @@
   },
   {
     "id": "503",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Zila josla, balta bulta pa labi. Virs plates pelēks uzraksts 503, ne uz zīmes. Sakrīt ar «Izbraukšana uz vienvirziena ceļa». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/503.jpg. Katalogs: Izbraukšana uz vienvirziena ceļa. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "504",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Zila josla, balta bulta pa kreisi. Virs plates pelēks uzraksts 504. Sakrīt ar «Izbraukšana uz vienvirziena ceļa». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/504.jpg. Katalogs: Izbraukšana uz vienvirziena ceļa. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "505",
@@ -925,17 +979,21 @@
   },
   {
     "id": "520",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Siluets ar sarkanu diagonāli. Sakrīt ar «Apdzīvotas vietas beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/520.jpg. Katalogs: Apdzīvotas vietas beigas. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "521",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Zila josla, balts VĒRENE. Nosaukums ir paraugs. Sakrīt ar «Pilsētas vai ciema nosaukums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG simbols sakrīt ar audit/official-signs/521.jpg. Katalogs: Pilsētas vai ciema nosaukums. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "522",
@@ -1023,10 +1081,12 @@
   },
   {
     "id": "533A",
-    "result": "DIFFERENCE",
-    "note": "Katalogā nav 533A. Mazs zils kvadrāts: māja, koks, skrienoši cilvēki un auto. Nav 533 lielā dzīvojamās zonas plāksne. Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG sakrīt ar audit/official-signs/533A.jpg. Kataloga nosaukuma nav. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "534",
@@ -1037,10 +1097,12 @@
   },
   {
     "id": "534A",
-    "result": "DIFFERENCE",
-    "note": "Katalogā nav 534A. Tāda pati mazā piktogramma ar sarkanu diagonāli. Nav 534 lielā beigu plāksne. Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG sakrīt ar audit/official-signs/534A.jpg. Kataloga nosaukuma nav. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "535",
@@ -1352,10 +1414,12 @@
   },
   {
     "id": "737",
-    "result": "MATCH_CATALOG_SYMBOL",
-    "note": "Dzeltena pagaidu plāksne, redzamais teksts «Ievēro principu!», svītrota josla un auto saplūšana. Sakrīt ar «Iepriekšējs norādītājs pārkārtoties». Vārds «rāvējslēdzēja» šajā kadrā nav redzams. Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "result": "MATCH_OFFICIAL_RASTER",
+    "note": "PNG sakrīt ar oficiālo JPG: dzeltena plāksne, «Ievēro principu!», rāvējslēdzēja saplūšana. Nav pārzīmēta.",
     "official_raster": false,
-    "reopened": "2026-10-29"
+    "reopened": "2026-10-29",
+    "official_vs_png": "MATCH",
+    "official_compared": "2026-10-29"
   },
   {
     "id": "623",

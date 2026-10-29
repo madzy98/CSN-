@@ -1616,5 +1616,101 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Ratiņkrēsls. Sakrīt ar «Personām ar invaliditāti». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "845",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Mākonis un lietus lāses. Sakrīt ar «Mitrs segums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "846",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Sniegpārsla. Sakrīt ar «Slidens segums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "847",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Resnā līnija nogriežas pa labi, tievās ir sānu ceļi. Sakrīt ar «Galvenā ceļa virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "848",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Evakuators ceļ vieglo auto. Sakrīt ar «Strādā autoevakuators». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "849",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Teksts «Izņemot VID transportu». Teksts ir paraugs. Sakrīt ar «Pārējā papildinformācija». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "850",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Melns ātrumvalnis. Sakrīt ar «Ātrumvalnis». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "851",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Stāvvietas kase, āmuri un 7.30–18.00. Laiks ir paraugs. Sakrīt ar «Maksas stāvvietas darbības laiks». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "852",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Izplūdes dūmi pārsvītroti ar sarkanu diagonāli. Sakrīt ar «Izslēgt motoru». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "853",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Kamera. Sakrīt ar «Kontroles ierīce». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "854",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Velosipēds un divas pretējas bultas. Sakrīt ar «informacija par velosipedu celu». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "855",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Velosipēds, bulta lejup pa kreisi un augšup pa labi. Sakrīt ar «informacija par velosipedu celu». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "856",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Tā pati shēma, augšupvērstā bulta pārsvītrota ar sarkanu krustu. Sakrīt ar «informacija par velosipedu celu». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "857",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila plāksne, balts velosipēds, 13 un bulta pa kreisi. 13 ir paraugs. Sakrīt ar «velomarsruts». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "858",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Tā pati plāksne ar dzeltenu zvaigžņu apli ap 13. Sakrīt ar «eurovelo marsruts». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "859",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Kravas auto un cilvēks ar ratiņiem. Sakrīt ar «precu piegade». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "860",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Kontaktspraudnis ap auto. Sakrīt ar «elektromobiliem». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

@@ -1880,12 +1880,13 @@
   },
   {
     "id": "fa013",
-    "status": "NEEDS_REVIEW",
-    "provision": "10",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "25.6. vesti prasa tumsā vai sliktā redzamībā, izejot uz brauktuves vai nomales. «Vienmēr» ir platāks par šo normu.",
-    "evidence": "25.6. vesti prasa tumsā vai sliktā redzamībā, izejot uz brauktuves vai nomales. «Vienmēr» ir platāks par šo normu.",
-    "verified": "2026-10-29"
+    "status": "FAIL",
+    "provision": "CSN 25.6.",
+    "url": "https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
+    "reason": "CSN 25.6. prasa atstarojošo vesti piespiedu apstāšanās gadījumā tikai nepietiekamas redzamības apstākļos un diennakts tumšajā laikā, izejot uz brauktuves vai atrodoties uz nomales. Atslēgas variants saka «vienmēr, kad izejat uz brauktuves». Tas ir plašāks par normu, tāpēc atbilde nav pareiza. Pārējie varianti (tikai lietus, tikai policija, tikai virs 110 km/h) arī nav 25.6.",
+    "evidence": "CSN 25.6. prasa atstarojošo vesti piespiedu apstāšanās gadījumā tikai nepietiekamas redzamības apstākļos un diennakts tumšajā laikā, izejot uz brauktuves vai atrodoties uz nomales. Atslēgas variants saka «vienmēr, kad izejat uz brauktuves». Tas ir plašāks par normu, tāpēc atbilde nav pareiza. Pārējie varianti (tikai lietus, tikai policija, tikai virs 110 km/h) arī nav 25.6.",
+    "verified": "2026-10-29",
+    "source_note": "Full CSN page, point 25.6. Keyed option is contradicted by the visibility and darkness conditions."
   },
   {
     "id": "fa014",
@@ -1999,11 +2000,12 @@
   {
     "id": "dg009",
     "status": "NEEDS_REVIEW",
-    "provision": "105",
+    "provision": "CSN 105.",
     "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Divu sekunžu distance šajā izvilkumā nav.",
-    "evidence": "Divu sekunžu distance šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "reason": "CSN 105. prasa distanci, kas ļauj izvairīties no sadursmes, ja priekšā braucošais bremzē. «2 sekundes» šajā punktā nav, tāpēc praktiskā metode nav vienīgā likumā noteiktā atbilde.",
+    "evidence": "CSN 105. prasa distanci, kas ļauj izvairīties no sadursmes, ja priekšā braucošais bremzē. «2 sekundes» šajā punktā nav, tāpēc praktiskā metode nav vienīgā likumā noteiktā atbilde.",
+    "verified": "2026-10-29",
+    "source_note": "Checked 2026-10-29 against point 105. Status stays NEEDS_REVIEW."
   },
   {
     "id": "dg010",

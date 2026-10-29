@@ -1818,12 +1818,13 @@
   },
   {
     "id": "fa006",
-    "status": "NEEDS_REVIEW",
-    "provision": "Asiņošanas apturēšana ar spiedienu CSN tekstā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Tiešs spiediens uz brūci šajā izvilkumā nav.",
-    "evidence": "Tiešs spiediens uz brūci šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "NMPD spēcīga ārēja asiņošana",
+    "url": "https://www.nmpd.gov.lv/lv/speciga-areja-asinosana",
+    "reason": "NMPD «Spēcīga ārēja asiņošana», atjaunināts 16.12.2023., soļi: «aizspied brūci … izmantojot marles kompresi vai tīru drēbes gabalu»; «noguldi cietušo guļus ar asiņojošo vietu uz augšu»; «ja asiņošana ir rokā vai kājā uzliec spiedošu pārsēju». Žņaugs uz kakla, alkohols un masāža ap brūci šajos soļos nav.",
+    "evidence": "NMPD «Spēcīga ārēja asiņošana», atjaunināts 16.12.2023., soļi: «aizspied brūci … izmantojot marles kompresi vai tīru drēbes gabalu»; «noguldi cietušo guļus ar asiņojošo vietu uz augšu»; «ja asiņošana ir rokā vai kājā uzliec spiedošu pārsēju». Žņaugs uz kakla, alkohols un masāža ap brūci šajos soļos nav.",
+    "verified": "2026-10-29",
+    "source_note": "Official NMPD first-aid page, not a CSN point."
   },
   {
     "id": "fa007",
@@ -1854,12 +1855,13 @@
   },
   {
     "id": "fa010",
-    "status": "NEEDS_REVIEW",
-    "provision": "Apdeguma dzesēšana CSN tekstā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Apdeguma dzesēšana 10 minūtes šajā izvilkumā nav.",
-    "evidence": "Apdeguma dzesēšana 10 minūtes šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "NMPD termisku apdegumu palīdzība",
+    "url": "https://www.nmpd.gov.lv/lv/termiski-apdegumi-un-applaucejumi",
+    "reason": "NMPD «Termiski apdegumi un applaucējumi», atjaunināts 16.12.2023.: «Nekavējoties apdegušo vietu dzesē ar vēsu vai aukstu (ne ledainu) ūdeni vismaz 20 minūtes.» «Apdegumu brīvi pārklāj ar marles salveti.» Eļļu likt aizliegts, pūšļus pārplēst aizliegts. Sniegs nav šī metode.",
+    "evidence": "NMPD «Termiski apdegumi un applaucējumi», atjaunināts 16.12.2023.: «Nekavējoties apdegušo vietu dzesē ar vēsu vai aukstu (ne ledainu) ūdeni vismaz 20 minūtes.» «Apdegumu brīvi pārklāj ar marles salveti.» Eļļu likt aizliegts, pūšļus pārplēst aizliegts. Sniegs nav šī metode.",
+    "verified": "2026-10-29",
+    "source_note": "Official NMPD first-aid page, not a CSN point."
   },
   {
     "id": "fa011",

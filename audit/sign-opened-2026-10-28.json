@@ -1544,5 +1544,77 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Auto sāniski uz ietves. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "833",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto sānskatā, ietves mala pa labi no priekšas. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "834",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Trīs auto novietoti slīpi. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "835",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Trīs auto novietoti perpendikulāri. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "836",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Priekšējie riteņi uz ietves. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "837",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto sānskatā, ietves pakāpiens zem vidus, priekšpuse uz ietves. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "838",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto uz ietves, kritums pa kreisi no aizmugures. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "839",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto pilnībā uz ietves, kritums pa kreisi. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "840",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Stāvēšanas disks, P un 2 h. Laiks ir paraugs. Sakrīt ar «Stāvēšanas laiks». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "841",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto uz apskates estakādes. Sakrīt ar «Automobiļu apskates vieta». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "842",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, 15 t. Skaitlis ir paraugs. Sakrīt ar «Pilnas masas ierobežojums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "843",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Melnas brilles. Sakrīt ar «Neredzīgi gājēji». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "844",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Ratiņkrēsls. Sakrīt ar «Personām ar invaliditāti». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

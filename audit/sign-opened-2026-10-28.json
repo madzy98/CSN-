@@ -1400,5 +1400,77 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Balta plāksne, bulta pa labi un 100 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "809",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta vertikāla plāksne, melna bulta augšup un lejup. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "810",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta vertikāla plāksne, melna bulta lejup. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "811",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, divas diagonālas bultas uz leju uz āru. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "812",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, diagonāla bulta lejup pa kreisi. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "813",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, diagonāla bulta lejup pa labi. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "814",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa kreisi. Sakrīt ar «Darbības virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "815",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa kreisi un pa labi. Sakrīt ar «Darbības virzieni». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "816",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa labi. Sakrīt ar «Darbības virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "817",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, plata bulta lejup. Sakrīt ar «Braukšanas josla». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "818",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns kravas auto. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "819",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, kravas auto ar piekabi. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "820",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns vieglais auto. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

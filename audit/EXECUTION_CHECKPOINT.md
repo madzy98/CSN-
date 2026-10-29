@@ -1,5 +1,5 @@
-# Checkpoint 2026-10-29 03:34 UTC
+# Checkpoint 2026-10-29 03:36 UTC
 questions.json was not present and was not modified.
-Sign rows: 242. Added 721-736. Difference: 721 does not show a joining lane.
-Next: 738
+Sign rows: 254. Added 738-749, all MATCH_CATALOG_SYMBOL.
+Next: 750
 PLAY READY: NO

@@ -80,21 +80,23 @@
   },
   {
     "id": "110",
-    "result": "DIFFERENCE",
-    "note": "Oficiālajā JPG ir kritums ar 12%. Lietotnes PNG ir 10% un melnais laukums ir pretējā pusē. Katalogs: Stāvs lejupceļš. Nav pārzīmēta.",
+    "result": "FIXED_COPIED_OFFICIAL",
+    "note": "FIXED_COPIED_OFFICIAL. Iepriekš PNG bija 10% un pretējs slīpums. Aizstāts ar audit/official-signs/110.jpg pikseļiem: stāvs lejupceļš 12%. Nav pārzīmēts. Izšķirtspēja 107x92.",
     "official_raster": false,
     "reopened": "2026-10-29",
-    "official_vs_png": "DIFFERENCE",
-    "official_compared": "2026-10-29"
+    "official_vs_png": "FIXED",
+    "official_compared": "2026-10-29",
+    "fixed": "2026-10-29"
   },
   {
     "id": "111",
-    "result": "DIFFERENCE",
-    "note": "Oficiālajā JPG ir kāpums ar 10%. Lietotnes PNG ir 12%. Katalogs: Stāvs augšupceļš. Nav pārzīmēta.",
+    "result": "FIXED_COPIED_OFFICIAL",
+    "note": "FIXED_COPIED_OFFICIAL. Iepriekš PNG bija 12%. Aizstāts ar audit/official-signs/111.jpg pikseļiem: stāvs augšupceļš 10%. Nav pārzīmēts. Izšķirtspēja 107x92.",
     "official_raster": false,
     "reopened": "2026-10-29",
-    "official_vs_png": "DIFFERENCE",
-    "official_compared": "2026-10-29"
+    "official_vs_png": "FIXED",
+    "official_compared": "2026-10-29",
+    "fixed": "2026-10-29"
   },
   {
     "id": "112",
@@ -116,12 +118,13 @@
   },
   {
     "id": "114",
-    "result": "DIFFERENCE",
-    "note": "Oficiālais JPG (katalogs: Ceļa seguma maiņa) rāda ceļu perspektīvā ar melnu laukumu vienā malā. Lietotnes PNG rāda divas joslas ar pārtrauktu ass līniju un bez tā melnā laukuma. Nav pārzīmēta.",
+    "result": "FIXED_COPIED_OFFICIAL",
+    "note": "FIXED_COPIED_OFFICIAL. Iepriekš PNG bija divjoslu ceļš ar ass līniju. Aizstāts ar audit/official-signs/114.jpg pikseļiem: ceļa seguma maiņa. Nav pārzīmēts. Izšķirtspēja 107x92.",
     "official_raster": false,
     "reopened": "2026-10-29",
-    "official_vs_png": "DIFFERENCE",
-    "official_compared": "2026-10-29"
+    "official_vs_png": "FIXED",
+    "official_compared": "2026-10-29",
+    "fixed": "2026-10-29"
   },
   {
     "id": "115",

@@ -1769,12 +1769,13 @@
   },
   {
     "id": "fa001",
-    "status": "NEEDS_REVIEW",
-    "provision": "Numurs 112 kā ārkārtas tālrunis šajā CSN izvilkumā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Vienotais numurs 112 šajā CSN izvilkumā nav.",
-    "evidence": "Vienotais numurs 112 šajā CSN izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "Elektronisko sakaru likums, termini, 7. punkts",
+    "url": "https://likumi.lv/ta/id/334345-elektronisko-sakaru-likums",
+    "reason": "Elektronisko sakaru likuma (likumi.lv/ta/id/334345) terminu 7. punktā ārkārtas zvans ir «vienotā ārkārtas palīdzības izsaukuma numura \"112\" bezmaksas izsaukums». Jautājums prasa vienoto numuru. 01 un 03 nav šis vienotais numurs. 1188 ir uzziņu dienesta koda grupa, nevis ārkārtas numurs.",
+    "evidence": "Elektronisko sakaru likuma (likumi.lv/ta/id/334345) terminu 7. punktā ārkārtas zvans ir «vienotā ārkārtas palīdzības izsaukuma numura \"112\" bezmaksas izsaukums». Jautājums prasa vienoto numuru. 01 un 03 nav šis vienotais numurs. 1188 ir uzziņu dienesta koda grupa, nevis ārkārtas numurs.",
+    "verified": "2026-10-29",
+    "source_note": "Current Electronic Communications Law uses the statutory name \"vienotais ārkārtas palīdzības izsaukuma numurs 112\". The repealed numbering plan was not used."
   },
   {
     "id": "fa002",

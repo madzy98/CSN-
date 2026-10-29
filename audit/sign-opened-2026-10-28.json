@@ -1009,13 +1009,17 @@
   },
   {
     "id": "532",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Pelēks 40, trīs melnas diagonāles, ZONA. Sakrīt ar «Ieteicamā ātruma zonas beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "533",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils taisnstūris: auto, bērni, māja un līkne. Sakrīt ar «Dzīvojamā zona». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "533A",
@@ -1024,8 +1028,10 @@
   },
   {
     "id": "534",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāda pati zīme ar sarkanu diagonāli. Sakrīt ar «Dzīvojamās zonas beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "534A",
@@ -1034,78 +1040,108 @@
   },
   {
     "id": "535",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils kvadrāts, balts trijstūris, gājējs uz zebras. Sakrīt ar «Gājēju pāreja». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "536",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils kvadrāts, balts trijstūris, gājējs uz zebras. Sakrīt ar «Gājēju pāreja». PNG atšķiras no 535. Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "537",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils kvadrāts, balts P. Sakrīt ar «Stāvvieta». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "538",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "P ar sarkanu diagonāli. Sakrīt ar «Stāvvietas beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "539",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "P, 1h un parkomāts. 1h ir paraugs. Sakrīt ar «Maksas stāvvieta». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "540",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāda pati zīme ar sarkanu diagonāli. Sakrīt ar «Maksas stāvvietas beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "541",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils rāmis, melns autobuss. Sakrīt ar «Autobusa un trolejbusa pietura». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "542",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils rāmis, melns tramvajs. Sakrīt ar «Tramvaja pietura». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "543",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils rāmis, taksometrs ar rūtiņu rindu. Sakrīt ar «Vieglo taksometru stāvvieta». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "544",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils rāmis, melna tuneļa arka. Sakrīt ar «Tunelis». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "545",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāda pati zīme ar sarkanu diagonāli. Sakrīt ar «Tuneļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "546",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Balts taisnstūris, melns STOP. Nav astoņstūra 206. Sakrīt ar «Apstāšanās vieta». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "547",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zila josla, PIEROBEŽA un BORDER AREA. Sakrīt ar «Pierobežas sākums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "548",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāda pati zīme ar sarkanu diagonāli. Sakrīt ar «Pierobežas beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "549",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zila josla, PIEROBEŽAS JOSLA un BORDERLAND. Sakrīt ar «Pierobežas joslas sākums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "550",

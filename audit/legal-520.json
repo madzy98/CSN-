@@ -1789,13 +1789,13 @@
   },
   {
     "id": "fa003",
-    "status": "NEEDS_REVIEW",
-    "provision": "CSL 27.p. 2.daļa",
-    "url": "https://likumi.lv/ta/id/45467-celu-satiksmes-likums",
-    "reason": "27. panta otrās daļas 1. un 2. punkts prasa avārijas gaismas, avārijas zīmi un palīdzības izsaukšanu, ja ir cietušie. Atstarojošo vesti vienmēr 27. pants neprasa. CSN 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga pievieno vesti vienmēr, tāpēc nav PASS.",
-    "evidence": "27. panta otrās daļas 1. un 2. punkts prasa avārijas gaismas, avārijas zīmi un palīdzības izsaukšanu, ja ir cietušie. Atstarojošo vesti vienmēr 27. pants neprasa. CSN 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga pievieno vesti vienmēr, tāpēc nav PASS.",
+    "status": "FAIL",
+    "provision": "CSN 39.1., 39.2. un 25.6.",
+    "url": "https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
+    "reason": "CSN 39.1. pēc negadījuma ar cietušajiem prasa nekavējoties apstāties, iedegt avārijas gaismas un uzstādīt avārijas zīmi. 39.2. prasa sniegt pirmo palīdzību un izsaukt neatliekamo palīdzību. Atstarojošā veste 39. punktā nav. 25.6. to prasa tikai piespiedu apstāšanās gadījumā tumsā vai nepietiekamā redzamībā, izejot uz brauktuves vai atrodoties uz nomales. Atslēga uzliek vesti kā vispārīgu pienākumu pēc jebkura CSNg ar cietušajiem, arī dienā. Tas ir pretrunā ar 25.6.",
+    "evidence": "CSN 39.1. pēc negadījuma ar cietušajiem prasa nekavējoties apstāties, iedegt avārijas gaismas un uzstādīt avārijas zīmi. 39.2. prasa sniegt pirmo palīdzību un izsaukt neatliekamo palīdzību. Atstarojošā veste 39. punktā nav. 25.6. to prasa tikai piespiedu apstāšanās gadījumā tumsā vai nepietiekamā redzamībā, izejot uz brauktuves vai atrodoties uz nomales. Atslēga uzliek vesti kā vispārīgu pienākumu pēc jebkura CSNg ar cietušajiem, arī dienā. Tas ir pretrunā ar 25.6.",
     "verified": "2026-10-29",
-    "source_note": "Rechecked 2026-10-29 against Ceļu satiksmes likuma 27. pantu and the full CSN page. Status unchanged."
+    "source_note": "Keyed option adds an unconditional reflective vest. Point 39 does not, and 25.6 limits the vest to darkness or poor visibility."
   },
   {
     "id": "fa004",

@@ -631,93 +631,129 @@
   },
   {
     "id": "405",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, baltas bultas taisni un pa kreisi. Sakrīt ar «Braukt taisni vai pa kreisi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "406",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, baltas bultas pa kreisi un pa labi. Sakrīt ar «Braukt pa labi vai pa kreisi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "407",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta pa labi. Sakrīt ar «Braukt pa labi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "408",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta pa kreisi. Sakrīt ar «Braukt pa kreisi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "409",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, trīs baltas bultas pretēji pulksteņrādītājam. Sakrīt ar «Braukt pa loku». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "410",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta slīpi lejup pa labi. Sakrīt ar «Šķēršli apbraukt pa labo pusi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "411",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta slīpi lejup pa kreisi. Sakrīt ar «Šķēršli apbraukt pa kreiso pusi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "412",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, divas baltas bultas uz abām pusēm. Sakrīt ar «Šķēršli apbraukt pa labo vai pa kreiso pusi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "413",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balts velosipēds. Sakrīt ar «Velosipēdu ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "414",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balts velosipēds ar sarkanu diagonāli. Sakrīt ar «Velosipēdu ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "415",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balts gājējs. Sakrīt ar «Gājēju ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "416",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balts gājējs ar sarkanu diagonāli. Sakrīt ar «Gājēju ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "417",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, gājējs virs velosipēda, bez dalījuma. Sakrīt ar «Kopīgs gājēju un velosipēdu ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "418",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāds pats simbols ar sarkanu diagonāli. Sakrīt ar «Kopīga gājēju un velosipēdu ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "419",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, dalīts: velosipēds pa kreisi ar bultu augšup, gājējs pa labi. Sakrīt ar «Gājēju un velosipēdu ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "420",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāds pats dalījums ar sarkanu diagonāli. Sakrīt ar «Gājēju un velosipēdu ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "421",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, dalīts: gājējs pa kreisi, velosipēds pa labi. Sakrīt ar «Gājēju un velosipēdu ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "422",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāds pats dalījums ar sarkanu diagonāli. Sakrīt ar «Gājēju un velosipēdu ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "423",

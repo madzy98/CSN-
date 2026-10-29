@@ -1328,5 +1328,77 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Zils kvadrāts, dzeltenu zvaigžņu aplis un LATVIJA. Sakrīt ar «Valsts nosaukums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "750",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila plāksne, ģerbonis un SALDUS NOVADS. Vietvārds ir paraugs. Sakrīt ar «Administratīvās teritorijas nosaukums». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "751",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Brūna plāksne, tūrisma simbols un KURZEMES ŠVEICE. Nosaukums ir paraugs. Sakrīt ar «Tūrisma objektu teritorija». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "752",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļš kvadrāts, balta durvis un skrienošs cilvēks. Sakrīt ar «Avārijas izeja». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "753",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļa bulta pa labi, skrienošs cilvēks, 150 m un durvis. 150 ir paraugs. Sakrīt ar «Avārijas izejas virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "801",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns 300 m. Skaitlis ir paraugs. Sakrīt ar «Attālums līdz objektam». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "802",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, STOP un 300 m. Skaitlis ir paraugs. Sakrīt ar «Attālums līdz objektam». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "803",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, divas bultas augšup un 700 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "804",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa kreisi un 100 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "805",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bultas uz abām pusēm, 25 m un 5 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "806",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa kreisi no vertikālas svītras, 5 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "807",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa labi no vertikālas svītras, 5 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "808",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, bulta pa labi un 100 m. Sakrīt ar «Darbības zona». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

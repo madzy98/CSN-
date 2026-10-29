@@ -1789,13 +1789,13 @@
   },
   {
     "id": "fa003",
-    "status": "NEEDS_REVIEW",
-    "provision": "CSL 27.p. 2.daļa",
-    "url": "https://likumi.lv/ta/id/45467-celu-satiksmes-likums",
-    "reason": "27. panta otrās daļas 1. un 2. punkts prasa avārijas gaismas, avārijas zīmi un palīdzības izsaukšanu, ja ir cietušie. Atstarojošo vesti vienmēr 27. pants neprasa. CSN 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga pievieno vesti vienmēr, tāpēc nav PASS.",
-    "evidence": "27. panta otrās daļas 1. un 2. punkts prasa avārijas gaismas, avārijas zīmi un palīdzības izsaukšanu, ja ir cietušie. Atstarojošo vesti vienmēr 27. pants neprasa. CSN 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga pievieno vesti vienmēr, tāpēc nav PASS.",
+    "status": "FAIL",
+    "provision": "CSN 39.1., 39.2. un 25.6.",
+    "url": "https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
+    "reason": "CSN 39.1. prasa avārijas gaismas un avārijas zīmi. 39.2. prasa pirmo palīdzību un izsaukumu. Veste 39. punktā nav. 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga prasa vesti pēc jebkura CSNg ar cietušajiem.",
+    "evidence": "CSN 39.1. prasa avārijas gaismas un avārijas zīmi. 39.2. prasa pirmo palīdzību un izsaukumu. Veste 39. punktā nav. 25.6. to prasa tikai tumsā vai nepietiekamā redzamībā. Atslēga prasa vesti pēc jebkura CSNg ar cietušajiem.",
     "verified": "2026-10-29",
-    "source_note": "Rechecked 2026-10-29 against Ceļu satiksmes likuma 27. pantu and the full CSN page. Status unchanged."
+    "source_note": "Restored FAIL. Unconditional vest contradicts 25.6."
   },
   {
     "id": "fa004",
@@ -1818,12 +1818,13 @@
   },
   {
     "id": "fa006",
-    "status": "NEEDS_REVIEW",
-    "provision": "Asiņošanas apturēšana ar spiedienu CSN tekstā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Tiešs spiediens uz brūci šajā izvilkumā nav.",
-    "evidence": "Tiešs spiediens uz brūci šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "NMPD spēcīga ārēja asiņošana",
+    "url": "https://www.nmpd.gov.lv/lv/speciga-areja-asinosana",
+    "reason": "NMPD «Spēcīga ārēja asiņošana», atjaunināts 16.12.2023.: «aizspied brūci … izmantojot marles kompresi vai tīru drēbes gabalu»; «noguldi cietušo guļus ar asiņojošo vietu uz augšu»; «ja asiņošana ir rokā vai kājā uzliec spiedošu pārsēju».",
+    "evidence": "NMPD «Spēcīga ārēja asiņošana», atjaunināts 16.12.2023.: «aizspied brūci … izmantojot marles kompresi vai tīru drēbes gabalu»; «noguldi cietušo guļus ar asiņojošo vietu uz augšu»; «ja asiņošana ir rokā vai kājā uzliec spiedošu pārsēju».",
+    "verified": "2026-10-29",
+    "source_note": "Restored. Direct pressure, bleeding site up, and a pressure dressing on a limb."
   },
   {
     "id": "fa007",
@@ -1856,12 +1857,13 @@
   },
   {
     "id": "fa010",
-    "status": "NEEDS_REVIEW",
-    "provision": "Apdeguma dzesēšana CSN tekstā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Apdeguma dzesēšana 10 minūtes šajā izvilkumā nav.",
-    "evidence": "Apdeguma dzesēšana 10 minūtes šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "NMPD termisku apdegumu palīdzība",
+    "url": "https://www.nmpd.gov.lv/lv/termiski-apdegumi-un-applaucejumi",
+    "reason": "NMPD «Termiski apdegumi un applaucējumi», atjaunināts 16.12.2023.: «Nekavējoties apdegušo vietu dzesē ar vēsu vai aukstu (ne ledainu) ūdeni vismaz 20 minūtes.» «Apdegumu brīvi pārklāj ar marles salveti.» Eļļu likt aizliegts, pūšļus pārplēst aizliegts.",
+    "evidence": "NMPD «Termiski apdegumi un applaucējumi», atjaunināts 16.12.2023.: «Nekavējoties apdegušo vietu dzesē ar vēsu vai aukstu (ne ledainu) ūdeni vismaz 20 minūtes.» «Apdegumu brīvi pārklāj ar marles salveti.» Eļļu likt aizliegts, pūšļus pārplēst aizliegts.",
+    "verified": "2026-10-29",
+    "source_note": "Restored after the row reverted to NEEDS_REVIEW. Official NMPD page, not a CSN point."
   },
   {
     "id": "fa011",

@@ -2226,12 +2226,13 @@
   },
   {
     "id": "nt010",
-    "status": "NEEDS_REVIEW",
-    "provision": "168",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "168. punkts atļauj pakaļējos miglas lukturus tikai biezā miglā, intensīvā lietū vai sniegā. Atbilde pievieno ~50 m, kā šajā punktā nav.",
-    "evidence": "168. punkts atļauj pakaļējos miglas lukturus tikai biezā miglā, intensīvā lietū vai sniegā. Atbilde pievieno ~50 m, kā šajā punktā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "CSN 168.",
+    "url": "https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
+    "reason": "CSN 168. punkts: «Pakaļējos miglas lukturus atļauts iedegt tikai tad, ja ir bieza migla, intensīvi līst vai snieg u. tml.» Atslēgas variants ir šis teikums. Pārējie varianti (katru nakti, vienmēr ar tālajām, pilsētā pie apgaismojuma, brīdināt lēnākos, spēcīgā saulē) punktam pretrunā.",
+    "evidence": "CSN 168. punkts: «Pakaļējos miglas lukturus atļauts iedegt tikai tad, ja ir bieza migla, intensīvi līst vai snieg u. tml.» Atslēgas variants ir šis teikums. Pārējie varianti (katru nakti, vienmēr ar tālajām, pilsētā pie apgaismojuma, brīdināt lēnākos, spēcīgā saulē) punktam pretrunā.",
+    "verified": "2026-10-29",
+    "source_note": "Runtime option is the verbatim text of point 168. Earlier note about a 50 m addition does not match the current wording."
   },
   {
     "id": "nt011",
@@ -2433,12 +2434,13 @@
   },
   {
     "id": "wt015",
-    "status": "NEEDS_REVIEW",
-    "provision": "168",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "168. punkts nenosaka «būtiski pasliktinātu redzamību» vispār un nenosaka 50 m. Atļauja ir tikai bieza migla, intensīvs lietus vai sniegs.",
-    "evidence": "168. punkts nenosaka «būtiski pasliktinātu redzamību» vispār un nenosaka 50 m. Atļauja ir tikai bieza migla, intensīvs lietus vai sniegs.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "CSN 168.",
+    "url": "https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
+    "reason": "CSN 168. punkts: «Pakaļējos miglas lukturus atļauts iedegt tikai tad, ja ir bieza migla, intensīvi līst vai snieg u. tml.» Atslēgas variants ir šis teikums. Pārējie varianti (katru nakti, vienmēr ar tālajām, pilsētā pie apgaismojuma, brīdināt lēnākos, spēcīgā saulē) punktam pretrunā.",
+    "evidence": "CSN 168. punkts: «Pakaļējos miglas lukturus atļauts iedegt tikai tad, ja ir bieza migla, intensīvi līst vai snieg u. tml.» Atslēgas variants ir šis teikums. Pārējie varianti (katru nakti, vienmēr ar tālajām, pilsētā pie apgaismojuma, brīdināt lēnākos, spēcīgā saulē) punktam pretrunā.",
+    "verified": "2026-10-29",
+    "source_note": "Runtime option is the verbatim text of point 168. Earlier note about a 50 m addition does not match the current wording."
   },
   {
     "id": "wt016",

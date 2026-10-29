@@ -757,93 +757,129 @@
   },
   {
     "id": "423",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balts 50. Nav sarkanais 323. Skaitlis ir paraugs. Sakrīt ar «Minimālā ātruma ierobežojums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "424",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balts 50 ar sarkanu diagonāli. Sakrīt ar «Minimālā ātruma ierobežojuma beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "425",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Balts taisnstūris, oranžs kravas auto un bulta taisni. Sakrīt ar «Transportlīdzekļiem ar bīstamu kravu braukt taisni». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "426",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tas pats auto un bulta pa labi. Sakrīt ar «Transportlīdzekļiem ar bīstamu kravu braukt pa labi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "427",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tas pats auto un bulta pa kreisi. Sakrīt ar «Transportlīdzekļiem ar bīstamu kravu braukt pa kreisi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "501",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils kvadrāts, balta bulta taisni. Sakrīt ar «Vienvirziena ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "502",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils kvadrāts, balta bulta ar sarkanu diagonāli. Sakrīt ar «Vienvirziena ceļa beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "503",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zila josla, balta bulta pa labi. Virs plates pelēks uzraksts 503, ne uz zīmes. Sakrīt ar «Izbraukšana uz vienvirziena ceļa». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "504",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zila josla, balta bulta pa kreisi. Virs plates pelēks uzraksts 504. Sakrīt ar «Izbraukšana uz vienvirziena ceļa». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "505",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils kvadrāts, balta bulta virs autobusa. Sakrīt ar «Josla pasažieru sabiedriskajiem transportlīdzekļiem». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "506",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāda pati zīme ar sarkanu diagonāli. Sakrīt ar «Joslas pasažieru sabiedriskajiem transportlīdzekļiem beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "507",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Divi lauki: autobuss ar bultu lejup un bulta augšup. Sakrīt ar «Ceļš ar joslu pasažieru sabiedriskajiem transportlīdzekļiem». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "508",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Tāda pati zīme ar sarkanu diagonāli. Sakrīt ar «Ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem beigas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "509",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Augšā bulta pa kreisi un autobuss, apakšā bulta pa labi. Sakrīt ar «Izbraukšana uz ceļa ar joslu pasažieru sabiedriskajiem transportlīdzekļiem». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "510",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Augšā bulta pa kreisi, apakšā autobuss un bulta pa labi. Sakrīt ar to pašu nosaukumu, otra puse. Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "511",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Trīs bultas, balti apļi 80 un 50. Skaitļi ir paraugs. Sakrīt ar «Minimālā braukšanas ātruma ierobežojums joslās». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "512",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Trīs bultas, sarkani apļi 100, 80 un 50. Skaitļi ir paraugs. Sakrīt ar «Maksimālā braukšanas ātruma ierobežojums joslās». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "513",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Trīs joslas: pa kreisi un taisni, taisni, pa labi. Sakrīt ar «Braukšanas virzieni joslās». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "514",

@@ -1160,5 +1160,101 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Balts taisnstūris, melnas bultas tajās pašās trīs joslās. Sakrīt ar officialSigns.json «Braukšanas virzieni joslās». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "721",
+    "result": "DIFFERENCE",
+    "official_raster": false,
+    "note": "Katalogā «Joslas piekļaušanās pamatjoslām». Plāksne ir zila: divas baltas bultas taisni un labā bulta aiziet pa labi. Pieklaušanās nav redzama. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "722",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila plāksne. Divas diagonālas bultas un apakšējā līkā bulta piekļaujas tam pašam virzienam. Sakrīt ar «Joslas piekļaušanās pamatjoslām». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "723",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils kvadrāts, balta U veida bulta. Sakrīt ar «Apgriešanās vieta». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "724",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne ar zilu galvu LV. 50 pie apbūves, pārsvītrota apbūve ar 80 kravas auto virs 7,5 t un 90 pārējiem, gaismas 1.I.–31.XII. Skaitļi ir plāksnes saturs. Sakrīt ar «Satiksmes ierobežojumi Latvijā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "725",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils kvadrāts, balts 40. Sakrīt ar «Ieteicamais ātrums». 40 ir paraugs. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "726",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, balta bulta taisni un kravas auto. Sakrīt ar «Kravas automobiļu braukšanas virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "727",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, bulta pa labi un kravas auto. Sakrīt ar to pašu nosaukumu. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "728",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils taisnstūris, bulta pa kreisi un kravas auto. Sakrīt ar to pašu nosaukumu. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "729",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils kvadrāts, gājējs uz kāpnēm. Sakrīt ar «Gājēju apakšzemes vai virszemes pāreja». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "730",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena apbraukšanas shēma ar A9, Rīgu, Brocēniem, Kandavu, Saldus un 2,0. Vietvārdi ir paraugs. Sakrīt ar «Apbraukšanas ceļa shēma». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "731",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne, melna bulta taisni. Sakrīt ar «Apbraukšanas ceļa virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "732",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne, melna bulta pa labi. Sakrīt ar «Apbraukšanas ceļa virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "733",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne, melna bulta pa kreisi. Sakrīt ar «Apbraukšanas ceļa virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "734",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne, sarkana diagonāle. Sakrīt ar «Apbraukšanas ceļa beigas». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "735",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne, joslas un 301. simbols. Rāda pārkārtošanos ap slēgtu joslu. Nav 300 m svītru. Sakrīt ar «Iepriekšējs norādītājs pārkārtoties». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "736",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne, taisna bulta un līka bulta pa labi. Sakrīt ar «Iepriekšējs norādītājs pārkārtoties». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

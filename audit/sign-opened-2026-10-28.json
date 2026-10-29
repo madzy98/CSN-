@@ -1,93 +1,129 @@
 [
   {
     "id": "101",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, melns krusts. Sakrīt ar «Vienādas nozīmes ceļu krustojums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "102",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, trīs bultas pretēji pulksteņrādītājam. Sakrīt ar «Lokveida krustojums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "103",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, pagrieziens pa labi. Sakrīt ar «Bīstams pagrieziens». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "104",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, pagrieziens pa kreisi. Sakrīt ar «Bīstams pagrieziens». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "105",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, pirmais pagrieziens pa labi. Sakrīt ar «Bīstami pagriezieni». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "106",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, pirmais pagrieziens pa kreisi. Sakrīt ar «Bīstami pagriezieni». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "107",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, sašaurinājums no abām pusēm. Sakrīt ar «Ceļa sašaurinājums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "108",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, sašaurinājums no labās puses. Sakrīt ar «Ceļa sašaurinājums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "109",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, sašaurinājums no kreisās puses. Sakrīt ar «Ceļa sašaurinājums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "110",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, kritums pa labi, 10%. Skaitlis ir paraugs. Sakrīt ar «Stāvs lejupceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "111",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, kāpums pa labi, 12%. Skaitlis ir paraugs. Sakrīt ar «Stāvs augšupceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "112",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, divi ceļa nelīdzenumi. Sakrīt ar «Nelīdzens ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "113",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, viens ātrumvalnis. Sakrīt ar «Ātrumvalnis». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "114",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, divi atšķirīgi segumi. Sakrīt ar «Ceļa seguma maiņa». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "115",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, auto slīd. Sakrīt ar «Slidens ceļš». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "116",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, no riteņiem lec šķembas. Sakrīt ar «Uzbērta grants vai šķembas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "117",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, krītoši akmeņi. Sakrīt ar «Akmeņu nogruvumi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "118",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans trīsstūris, strādnieks ar lāpstu. Sakrīt ar «Uz ceļa strādā». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "119",

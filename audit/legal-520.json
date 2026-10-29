@@ -1799,12 +1799,13 @@
   },
   {
     "id": "fa004",
-    "status": "NEEDS_REVIEW",
-    "provision": "Stabilā sānu poza CSN tekstā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Stabilā sānu poza šajā izvilkumā nav.",
-    "evidence": "Stabilā sānu poza šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "NMPD 12 h pirmās palīdzības programma, praktiskā prasme",
+    "url": "https://www.nmpd.gov.lv/lv/pirmas-palidzibas-apmacibas-programmas-un-novertejums",
+    "reason": "NMPD pirmās palīdzības 12 stundu programmas praktiskā prasme, lapa atjaunināta 16.10.2026.: «rīcība gadījumos, kad cietušais ir bezsamaņā un elpo normāli (novietošana stabilajā sānu pozā) vai neelpo (atdzīvināšana)». Atslēga ir šī darbība un elpošanas uzraudzība, kas šajā teikumā nodala abas situācijas. Krūšu masāža 30:2 ir otrs zars, kad cietušais neelpo. Ūdens un kāju pacelšana uz muguras programmā nav.",
+    "evidence": "NMPD pirmās palīdzības 12 stundu programmas praktiskā prasme, lapa atjaunināta 16.10.2026.: «rīcība gadījumos, kad cietušais ir bezsamaņā un elpo normāli (novietošana stabilajā sānu pozā) vai neelpo (atdzīvināšana)». Atslēga ir šī darbība un elpošanas uzraudzība, kas šajā teikumā nodala abas situācijas. Krūšu masāža 30:2 ir otrs zars, kad cietušais neelpo. Ūdens un kāju pacelšana uz muguras programmā nav.",
+    "verified": "2026-10-29",
+    "source_note": "Official NMPD curriculum names recovery position for an unconscious casualty who is breathing. Not a CSN point."
   },
   {
     "id": "fa005",

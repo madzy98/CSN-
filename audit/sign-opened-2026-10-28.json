@@ -505,93 +505,129 @@
   },
   {
     "id": "321",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, sarkana kravas mašīna un melns auto. Sakrīt ar «Kravas automobiļiem apdzīt aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "322",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Pelēka kravas mašīna un auto, trīs melnas diagonāles. Sakrīt ar «Kravas automobiļiem apdzīšanas aizliegums beidzas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "323",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, 50. Skaitlis ir paraugs. Sakrīt ar «Maksimālā ātruma ierobežojums». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "324",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Pelēks 50, trīs melnas diagonāles. Sakrīt ar «Maksimālā ātruma ierobežojums beidzas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "325",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, taure. Sakrīt ar «Skaņas signālu lietot aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "326",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, zils krusts. Sakrīt ar «Apstāties aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "327",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, zils lauks ar vienu sarkanu diagonāli. Sakrīt ar «Stāvēt aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "328",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, viena balta vertikāla josla. Sakrīt ar «Nepāra datumos stāvēt aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "329",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, divas baltas vertikālas joslas. Sakrīt ar «Pāra datumos stāvēt aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "330",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Balts aplis, trīs melnas diagonāles. Sakrīt ar «Visi ierobežojumi beidzas». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "331",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, MUITA un CUSTOMS. Sakrīt ar «Muita». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "332",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, STOP POLICIJA. Sakrīt ar «Policija». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "333",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, BĪSTAMI un DANGER. Sakrīt ar «Tālāk braukt bīstami». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "334",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Sarkans aplis, kravas auto ar oranžu paneli. Sakrīt ar «Transportlīdzekļiem ar bīstamu kravu braukt aizliegts». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "401",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta taisni. Sakrīt ar «Braukt taisni». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "402",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta pa labi. Sakrīt ar «Braukt pa labi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "403",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, balta bulta pa kreisi. Sakrīt ar «Braukt pa kreisi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "404",
-    "result": "RESTORED_NOT_REOPENED",
-    "note": "Iepriekšējā sesijā atvērta. Darba mape tika iztukšota, šajā gājienā fails netika atvērts no jauna."
+    "result": "MATCH_CATALOG_SYMBOL",
+    "note": "Zils aplis, baltas bultas taisni un pa labi. Sakrīt ar «Braukt taisni vai pa labi». Oficiālā JPG nav. Atvērta no jauna 2026-10-29. Nav pārzīmēta.",
+    "official_raster": false,
+    "reopened": "2026-10-29"
   },
   {
     "id": "405",

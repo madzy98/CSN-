@@ -1472,5 +1472,77 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Balta plāksne, melns vieglais auto. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "821",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns autobuss. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "822",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns traktors. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "823",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns motocikls. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "824",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, melns velosipēds. Sakrīt ar «Transportlīdzekļa veids». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "825",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, sakrustoti āmuri. Sakrīt ar «Darbdienās». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "826",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, sarkans zieds. Sakrīt ar «Sestdienās, svētdienās un svētku dienās». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "827",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Balta plāksne, 8.00–17.30. Laiks ir paraugs. Sakrīt ar «Darbības laiks». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "828",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Sakrustoti āmuri un 8.00–17.30. Sakrīt ar «Darbības laiks» darbdienās. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "829",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Sarkans zieds un 8.00–17.30. Sakrīt ar «Darbības laiks» brīvdienās. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "830",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto daļēji uz ietves. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "831",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto pilnībā uz ietves. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "832",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Auto sāniski uz ietves. Sakrīt ar «Transportlīdzekļa novietojuma veids stāvvietā». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]

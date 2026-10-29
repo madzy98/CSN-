@@ -1914,12 +1914,13 @@
   },
   {
     "id": "fa016",
-    "status": "NEEDS_REVIEW",
-    "provision": "Krampju laikā mutē neko nebāzt — CSN tekstā nav",
-    "url": "https://web.archive.org/web/20261006110729/https://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi",
-    "reason": "Aizliegums bāzt priekšmetus mutē krampju laikā šajā izvilkumā nav.",
-    "evidence": "Aizliegums bāzt priekšmetus mutē krampju laikā šajā izvilkumā nav.",
-    "verified": "2026-10-29"
+    "status": "PASS",
+    "provision": "NMPD krampju pirmā palīdzība",
+    "url": "https://www.nmpd.gov.lv/lv/krampji",
+    "reason": "NMPD «Krampji», atjaunināts 25.11.2023. Ko nedarīt: «cenšanās atvērt sakostos zobus»; «karotes vai kāda cita priekšmeta likšana mutē». Ko darīt: «sargā cietušo no iespējamām traumām, īpaši pasargā cietušā galvu» un izsaukt 113. Atslēga ir aizliegtā darbība. Pārējās atbildes ir darbības, ko lapa prasa vai neaizliedz.",
+    "evidence": "NMPD «Krampji», atjaunināts 25.11.2023. Ko nedarīt: «cenšanās atvērt sakostos zobus»; «karotes vai kāda cita priekšmeta likšana mutē». Ko darīt: «sargā cietušo no iespējamām traumām, īpaši pasargā cietušā galvu» un izsaukt 113. Atslēga ir aizliegtā darbība. Pārējās atbildes ir darbības, ko lapa prasa vai neaizliedz.",
+    "verified": "2026-10-29",
+    "source_note": "Official NMPD page forbids putting an object in the mouth during a seizure."
   },
   {
     "id": "fa017",

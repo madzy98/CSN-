@@ -1256,5 +1256,77 @@
     "result": "MATCH_CATALOG_SYMBOL",
     "official_raster": false,
     "note": "Dzeltena plāksne, taisna bulta un līka bulta pa labi. Sakrīt ar «Iepriekšējs norādītājs pārkārtoties». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "738",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Dzeltena plāksne. Kreisajā joslā 301. simbols, bulta pārkārtojas uz brīvo joslu. Sakrīt ar «Iepriekšējs norādītājs pārkārtoties». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "739",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila plāksne, balts 108. Sakrīt ar «Kilometru rādītājs». 108 ir paraugs. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "740",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zaļa plāksne, balts E 20. Sakrīt ar «Ceļa numurs». E 20 ir paraugs. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "741",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Sarkana plāksne, balts A 12. Sakrīt ar «Ceļa numurs». A 12 ir paraugs. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "742",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila plāksne, balts P 28. Sakrīt ar «Ceļa numurs». P 28 ir paraugs. Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "743",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila bulta taisni un zaļš E 20. Sakrīt ar «Ceļa numurs un virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "744",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila bulta pa kreisi un sarkans A 12. Sakrīt ar «Ceļa numurs un virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "745",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zila bulta pa labi un zils P 28. Sakrīt ar «Ceļa numurs un virziens». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "746",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils kvadrāts, balta bulta augšup un lejup. Sakrīt ar «Maiņvirziena satiksme». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "747",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Tā pati bulta ar sarkanu diagonāli. Sakrīt ar «Maiņvirziena satiksmes beigas». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "748",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils kvadrāts, balta bulta pa kreisi un pa labi. Sakrīt ar «Izbraukšana uz ceļa, kur organizēta maiņvirziena satiksme». Oficiālā JPG nav. Nav pārzīmēta."
+  },
+  {
+    "id": "749",
+    "result": "MATCH_CATALOG_SYMBOL",
+    "official_raster": false,
+    "note": "Zils kvadrāts, dzeltenu zvaigžņu aplis un LATVIJA. Sakrīt ar «Valsts nosaukums». Oficiālā JPG nav. Nav pārzīmēta."
   }
 ]
